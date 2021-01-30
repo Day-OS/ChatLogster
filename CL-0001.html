@@ -9,9 +9,34 @@
 </body>
 
 <head>
+    <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+        }
+
+        /* Track */
+        ::-webkit-scrollbar-track {
+        border-radius: 4px;
+        background: #00000000; 
+        }
+        
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background: rgb(36, 36, 36); 
+        }
+
+        /* Handle on hover */
+        ::-webkit-scrollbar-thumb:hover {
+        background: #555; 
+        }
         .canvas{
+            border-width: 2px;
+            border-bottom-style: solid;
+            border-radius: 4px;
             margin-left: auto;
             width: 800;
             height: 600;
@@ -152,7 +177,7 @@
             case "AD":
                 for(var i = 0; i< input.length; i++){
                     linha = input[i].split("] ");
-                    linha = linha[1]
+                    if(linha.length == 1){linha = linha[0]}else{linha = linha[1]}
                     if(linha.startsWith("* ") || linha.startsWith("> ")){
                         cor = '#bb9cd2'
                     }
