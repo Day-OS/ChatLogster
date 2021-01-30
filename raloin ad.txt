@@ -1,0 +1,2237 @@
+[20:00:01] {FFFFFF}SA-MP {B9C9BF}0.3.DL-R1 {FFFFFF}Started
+[20:00:01] CodsMP Build 1.2.0.0. For color/model sharing and support, please join the Discord server @ cods.xyz/discord.
+[20:00:01] Connecting to 158.69.5.175:7777...
+[20:00:03] Connected. Joining the game...
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:03] 
+[20:00:05] Connected to {B9C9BF}Advanced Roleplay | Double paycheck
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:08] 
+[20:00:28] CodsMP is currently loading custom models. This may cause your game to briefly hang.
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] 
+[20:00:31] SERVER: Bem-vindo Dakota Property.
+[20:00:31] SERVER: Última atualização em 18 de Outubro de 2020, versão AD:RP v9.0-RC1, digite /update para ver o que foi atualizado.
+[20:00:36] Você acoplou o item {FFFF00}Chifres{FFFFFF} em seu corpo.
+[20:00:39] Você acoplou o item {FFFF00}Maleta{FFFFFF} em seu corpo.
+[20:00:42] Você acoplou o item {FFFF00}Lanterna{FFFFFF} em seu corpo.
+[20:00:44] Você acoplou o item {FFFF00}Lanterna{FFFFFF} em seu corpo.
+[20:00:57] Dakota Property diz: Beep Boop.
+[20:01:03] |_______ EXTRATO ________|
+[20:01:03] Balanço: $1,690.
+[20:01:03] Salário: $1,000
+[20:01:03] Aluguel: -$125
+[20:01:03] Telefonia: $95
+[20:01:03] Taxas: $150
+[20:01:03] |_________________________|
+[20:01:03] Novo Balanço: $2,320
+[20:01:03] (( Double paycheck ativo ))
+[20:01:10] ** Jogador Chandler Clement (ID: 26): Quando o halloween acabar, vão retirar as skins das vendas? ou v
+[20:01:10] ...ão continuar deixando as skins e até poder guardar? **
+[20:01:19] ** Novato Qiang Zhang (ID: 100): Da pra fazer emprestimo pelo celular é isso? **
+[20:01:25] ** Jogador Raymond Jones (ID: 10): Sim. **
+[20:01:25] * Para acesso rapido use /animlist [1-12]
+[20:01:25] * Caso queira mudar a linguagem da lista de animações use: /anim ou /animes
+[20:01:31] ___________________________________________________________
+[20:01:31] [Confronto]: /chamar /palmatesta /fodase /fodase2 /provocar
+[20:01:31] [Confronto]: /tumulto /tumulto2 /tumulto3 /tumulto4 /gritar2 /gritar3 /gritar4
+[20:01:31] [Confronto]: /provocar2 /provocar3
+[20:01:31] ___________________________________________________________
+[20:01:33] [Willowfield Workshop] Aqui na nosso oficina você encontra, todo equipamento de ultima geração para seu ...
+[20:01:33] [Willowfield Workshop] ...  veiculo, venha conferir.*Locais*
+[20:01:36] {FFFF00}Info:{FFFFFF} Você pode pressionar espaço para parar a animação ou usar /pararanimacao ou /stopanim.
+[20:01:44] * Para acesso rapido use /animlist [1-12]
+[20:01:44] * Caso queira mudar a linguagem da lista de animações use: /anim ou /animes
+[20:01:45] Sage Dupont diz: Vamos?
+[20:01:50] ___________________________________________________________
+[20:01:50] [Ações]: /concordar /mirar /raiva /camera2 /camera3 /cliquecamera /checar
+[20:01:50] [Ações]: /salvar /rastejar /chorar /acordo /lavar /empurrar /bandeira
+[20:01:50] [Ações]: /consertarcarro /consertarcarrofim /forte /levantarcostas
+[20:01:50] [Ações]: /levantarfrente /limpar /dinheiro /cairfrente /desviar
+[20:01:50] [Ações]: /levantarcostas /levantarfrente /limpar /dinheiro /chutarporta
+[20:01:50] [Ações]: /rir /apontar /ombro /abriresquerda /abrirdireita /animcofre
+[20:01:50] [Ações]: /dinheiro2 /cotovelo /largar /rejeitar /atravessarrua /cocarsaco
+[20:01:50] [Ações]: /checarombro /graffiti /grafitti2 /jogar /animgritar /lavarmao /nao 
+[20:01:50] [Ações]: /animbeber /mortal /parar
+[20:01:50] ___________________________________________________________
+[20:01:54] ** Jogador Patrick Collins (ID: 105): que dia vao tirar os enfeites do shooping? **
+[20:02:24] Dakota Property diz: Beep Boop.
+[20:02:36] [Anúncio] [PROCURA-SE] Pessoas trans para ensaio fotográfico, por favor, me ligar. Paga-se ...
+[20:02:36] [Anúncio] ...  bem. - PH: #8233568
+[20:02:53] Dakota Property diz: Beep beep boop.
+[20:02:53] Atena Exposito (celular): Olá.
+[20:03:01] Sage Dupont diz: Meu deus.
+[20:03:02] Atena Exposito (celular): Sou transgenere não binarie.
+[20:03:12] Atena Exposito (celular): Como será o ensaie fotografique?
+[20:03:19] * Alexander Hugo insere a chave na ignição e liga o motor.
+[20:03:22] [Anúncio] [Thierry Hair Style] Estaremos na noite de Halloween, fazendo as mais modernas e ...
+[20:03:22] [Anúncio] ...  realistas maquiagens de horrro, buaaa. - PH: #7712003
+[20:03:24] (( [10] Raymond Jones: pronome neutro aqui?? ))
+[20:03:29] * Sage Dupont insere a chave na ignição e liga o motor.
+[20:03:33] Você acoplou o item {FFFF00}Capacete Cross Azul&Branco{FFFFFF} em seu corpo.
+[20:03:33] (( [52] Glass Benavent: nxo ))
+[20:04:06] ** Jogador Patrick Collins (ID: 105): pq minha vida abaixa rapidao e a dos outros n? **
+[20:04:26] ** Jogador Chandler Clement (ID: 26): Se for no soco, é o upgrade de força. **
+[20:04:33] Dakota Property diz: É aqui?
+[20:04:38] Sage Dupont diz: É onde o pessoal tá.
+[20:04:41] Você removeu o item {FFFF00}Capacete Cross Azul&Branco{FFFFFF} do seu corpo.
+[20:04:48] Dakota Property diz: Cacete, minha fantasia é uma merda.
+[20:04:57] Sage Dupont diz: Ela é cômica, isso que importa.
+[20:05:02] Dakota Property diz: Ok, justo.
+[20:06:00] Dakota Property diz: Lugar bonito.
+[20:06:08] Sage Dupont diz: Hm... Mais bonito do que eu esperava.
+[20:06:32] * Sage Dupont toca a campainha da casa.
+[20:06:38] * Dakota Property coça a cabeça.
+[20:06:41] [DENTRO] Levi Petit grita: QUEM É?
+[20:06:45] Sage Dupont grita: SAGE!
+[20:06:49] [Anúncio] [PROCURA-SE] Pessoas trans para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:06:52] [DENTRO] Levi Petit grita: ENTRA!
+[20:07:10] * Donatella Lattanzi se protege com o machado falso.
+[20:07:12] Dakota Property diz: Opa.
+[20:07:15] Levi Petit diz: Meu deus?
+[20:07:20] Dakota Property diz: Beep boop.
+[20:07:29] Dakota Property diz: Pelos meus calculos...
+[20:07:30] Você não pode entrar em uma casa trancada.
+[20:07:36] * Dakota Property tenta entrar e falha.
+[20:07:39] * Dakota Property coça a cabeça.
+[20:07:40] AdmCmd: Coral kickou o jogador Atena Exposito por: BH.
+[20:07:47] Dakota Property diz: Uh...
+[20:07:50] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[20:07:53] ** Jogador Patrick Collins (ID: 105): como dou upgrade na vida? **
+[20:07:55] Levi Petit diz: Então...
+[20:07:56] AdmCmd: bohemian aplicou ajailoff em Baalberith_Shaubi por 1 minutos, motivo: Bugcrash
+[20:08:00] Dakota Property diz: A porta?
+[20:08:02] ** Jogador Trace Johnson (ID: 94): Não tem mais como, só força. **
+[20:08:05] ** Jogador Jamal Dunn (ID: 45): tem como nao **
+[20:08:07] Levi Petit diz: Quem te convidou?
+[20:08:11] ** Jogador Raymond Jones (ID: 10): O que é BH? (sem falar que é uma cidade que eu já sei). **
+[20:08:14] Dakota Property diz: Eu vim com a Sage, ué.
+[20:08:18] Levi Petit diz: Ah.
+[20:08:18] Dakota Property diz: Nos falamos a pouco tempo.
+[20:08:21] Levi Petit diz: Entre.
+[20:08:26] Audio stream: https://itr.ffjjti.frl/8233d4f3dd82b35f1df6596b4594ae7b/QsG8gMARRyw/cucziezeeuzcuc
+[20:08:32] Lucca Wright diz: Cala a boca ô.
+[20:08:37] ** Jogador Katherine McMillian (ID: 67): Bunnyhop, ficar pulando igual coelho **
+[20:08:37] Christoper Walker diz: Ai.
+[20:08:38] ** Tester Corey Bradford (fabinho) (ID: 63): ficar pulando desenfreadamente
+[20:08:40] Sage Dupont diz: Lugar bonito, os apartamentos aqui são muito caros?
+[20:08:43] ** Novato James Meter (ID: 37): Bunny Hopping, pular repetidas vezes... **
+[20:08:44] [baixo] Dakota Property diz: Robô assustado.
+[20:08:45] Donatella Lattanzi diz: Não sei.
+[20:08:50] [Anúncio] Palestra da super estrela Atena Exposito vestida de Arara sobre Marxismo, agora  ...
+[20:08:50] [Anúncio] ... no shopping. Venha! - PH: #4816727
+[20:08:51] Lucca Wright diz: Sim, o Levi é burguês.
+[20:08:54] TesterCmd: bohemian prendeu Baalberith Shaubi na prisão administrativa por 1 minuto(s) pelo motivo: Bugcrash
+[20:08:57] * Deuce Dippolito fita Dakota.
+[20:09:01] Levi Petit diz: Burguês é seu cu.
+[20:09:01] Sage Dupont diz: Ah, esse é o Dakota.
+[20:09:22] * Donatella Lattanzi deixa o machado falso cair.
+[20:09:36] Dakota Property diz: Uh...
+[20:09:38] Deuce Dippolito diz: Ahm, Dakota...
+[20:09:46] * Dakota Property coça a cabeça.
+[20:09:58] Donatella Lattanzi diz: Gente, vamos?
+[20:10:02] Deuce Dippolito diz: Qual a tua fantasia?
+[20:10:14] * Dakota Property olha pra sua fantasia.
+[20:10:19] Dakota Property diz: Amigo, não faço ideia.
+[20:10:22] Dakota Property diz: Mas agora é um rob^
+[20:10:25] Dakota Property diz: robô, digo.
+[20:10:32] Levi Petit diz: Que bagulho grande.
+[20:10:34] Lucca Wright diz: Fantasia bacana.
+[20:10:41] Donatella Lattanzi diz: O óculos dele parece do noivo daquela mulher da série "A maldiçã
+[20:10:41] ...o da mansão bly."
+[20:10:41] Deuce Dippolito diz: Legal, nota dez.
+[20:10:44] * Lucca Wright bate as mãos, enfia a bandana no bolso.
+[20:10:52] Sage Dupont diz: Eu diria que é exótica.
+[20:10:53] * Dakota Property gargalha.
+[20:10:56] Deuce Dippolito diz: Desconheço, Dona.
+[20:10:57] Sage Dupont diz: Tipo os papagaios gigantes.
+[20:11:02] Donatella Lattanzi diz: Tá me dando arrepio só de lembrar.
+[20:11:20] Deuce Dippolito diz: Cadê o Levi?
+[20:11:27] Levi Petit diz: Oi!
+[20:11:28] Lucca Wright diz: Ali, ué.
+[20:11:36] [baixo] Dakota Property diz: O rabo de cavalo é a melhor parte, vai dizer que não.
+[20:11:38] Deuce Dippolito diz: Onde?
+[20:11:40] * Dakota Property fala pra Sage.
+[20:11:46] Donatella Lattanzi diz: Atrás da coelhona dele.
+[20:11:52] Lucca Wright diz: Aqui, caralho.
+[20:11:58] Sage Dupont diz: Depende, sua fantasia como um todo é um conjunto cômico.
+[20:11:58] Levi Petit diz: Eu!
+[20:12:06] * Donatella Lattanzi rotaciona Deuce na direção de Levi.
+[20:12:07] Deuce Dippolito diz: Você.
+[20:12:19] Deuce Dippolito diz: Vam' pra onde?
+[20:12:28] Levi Petit diz: Uma amiga minha tá chegando.
+[20:12:29] Donatella Lattanzi diz: Na festa na casa do susto.
+[20:12:33] Levi Petit diz: Vamos esperar ela.
+[20:12:37] Lucca Wright diz: Mas vai ser oito e meia.
+[20:12:38] Deuce Dippolito diz: E é que horas?
+[20:12:39] ** Jogador Raymond Jones (ID: 10): Posso lutar e deixar a pessoa ferida em área verde se ela estive
+[20:12:39] ...r de acordo com a luta? **
+[20:12:48] Levi Petit diz: Ela já já chega.
+[20:12:49] Deuce Dippolito diz: Saquei.
+[20:12:56] Lucca Wright diz: Ok, vamos esperar a amiga do Levi.
+[20:12:58] Donatella Lattanzi diz: pm 77 o meu machado é torto que nem o lyo.
+[20:13:01] (( [87] Donatella Lattanzi: ign ))
+[20:13:03] Deuce Dippolito diz: Que amiga?
+[20:13:04] (( [95] Levi Petit: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[20:13:05] ** Jogador Christopher Visalli (ID: 11): Não. **
+[20:13:05] (( [95] Levi Petit: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[20:13:06] (( [95] Levi Petit: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[20:13:29] (( [69] Nathalia Torner: ata ))
+[20:13:29] (( [83] Christoper Walker: kkkkkkkkkkkkkkkkkkk ))
+[20:13:29] (( [77] Deuce Dippolito: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[20:13:29] (( [16] Lucca Wright: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK tadin
+[20:13:29] ...ho mano ))
+[20:13:29] (( [87] Donatella Lattanzi: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk ))
+[20:13:29] (( [68] Sage Dupont: Meu deus, coitado ))
+[20:13:37] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[20:13:42] (( [68] Sage Dupont: Ele nem tá aqui pra se defender ))
+[20:13:43] Donatella Lattanzi diz: pm 77 o dakota é quadrado que nem o samuel
+[20:13:49] (( [82] Dakota Property: KKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[20:13:52] (( [68] Sage Dupont: KKKKKKKKKKKKKKK ))
+[20:13:53] (( [82] Dakota Property: vazou ))
+[20:13:56] (( [77] Deuce Dippolito: kkkkkkkkkkkkkkkkkkkk ))
+[20:13:57] (( [68] Sage Dupont: Meu deus ))
+[20:14:02] (( [87] Donatella Lattanzi: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk ))
+[20:14:39] Lucca Wright diz: Vou sentar, sou de ferro igual ele não.
+[20:14:51] * Dakota Property gargalha de forma robótica.
+[20:15:00] Sage Dupont diz: Ai, Bilu.
+[20:15:08] Christoper Walker diz: Opa.
+[20:15:10] ** Jogador Patrick Collins (ID: 105): pq minha vida baixa rapidao no soco? sendo que to com 150.150? **
+[20:15:16] Christoper Walker diz: O que voce quer com bilu?
+[20:15:19] Sage Dupont diz: Os robôs de você onde vem são como o Dakota?
+[20:15:28] (( [68] Sage Dupont: de onde você vem* ))
+[20:15:29] ** Tester James Tench (Paulo Roberto) (ID: 3): Provavelmente quem te bateu tá com a força upada no máximo.
+[20:15:30] Lucca Wright diz: Bilu, vem cá.
+[20:15:30] ** Jogador Delmiro Fleck (ID: 13): Pode ser o nivel de força de quem está te atacando. **
+[20:15:31] * Donatella Lattanzi finge cortar o braço de Dakota.
+[20:15:38] Christoper Walker diz: Nao.
+[20:15:38] Dakota Property diz: Ô BUCETA!
+[20:15:42] * Dakota Property tira o braço.
+[20:15:45] Christoper Walker diz: Isso ae é replica.
+[20:15:47] Donatella Lattanzi diz: Meu jantar de braço de robô.
+[20:15:54] ** Jogador Trace Johnson (ID: 94): Qual o nível máximo de força? 5? **
+[20:15:56] Dakota Property diz: Que susto...
+[20:15:57] Levi Petit diz: Buceta?
+[20:16:06] Christoper Walker diz: ]
+[20:16:07] (( PM de Donatella Lattanzi (ID: 87): oi quem é? ))
+[20:16:07] Levi Petit diz: Que horror.
+[20:16:08] (( [68] Sage Dupont: AGORA QUE VI A TV ))
+[20:16:10] (( [68] Sage Dupont: MEU DEUS ))
+[20:16:11] ** Tester Corey Bradford (fabinho) (ID: 63): sim
+[20:16:19] (( [16] Lucca Wright: Adicionaram na última atualização ))
+[20:16:32] (( [69] Nathalia Torner: Tem até joguinho ))
+[20:16:38] ** Você pode ouvir a campainha tocar.
+[20:16:41] (( [68] Sage Dupont: Eu devo ter perdido uma caralhada de coisa ))
+[20:16:41] (( PM enviada para Donatella Lattanzi (ID: 87): oi, ninguém que joga muito no AD nn ))
+[20:16:50] (( [95] Levi Petit: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[20:16:51] * Donatella Lattanzi grita assustada.
+[20:16:56] Donatella Lattanzi grita: AAAAAAAAAAAAAAAAAAH!
+[20:16:56] Dakota Property diz: Televisão daora.
+[20:16:57] * Lucca Wright aponta a M4 de airsoft na direção daporta.
+[20:17:01] Sage Dupont diz: Meu deus, dois Bilus.
+[20:17:04] Lucca Wright grita: UMA BILUA!
+[20:17:06] Christoper Walker diz: Ola!
+[20:17:10] Elektra Dover diz: Olá.
+[20:17:13] [Anúncio] [PROCURA-SE] Pessoas trans para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:17:13] Christoper Walker diz: Nossa!
+[20:17:17] Deuce Dippolito grita: UMA BILUA, AW MEU DEUS!
+[20:17:17] Donatella Lattanzi diz: Vai ter acasalamento.
+[20:17:24] Dakota Property diz: Pânico no sistema pânico no sistema!
+[20:17:28] * Lucca Wright empurra Bilu pra mais próximo de Elektra.
+[20:17:39] Sage Dupont diz: Vão dominar o mundo.
+[20:17:41] * Elektra Dover abraça Bilu, da um beijo alien nele.
+[20:17:44] * Donatella Lattanzi bate com o machado em Dakote.
+[20:17:45] ** Jogador Patrick Collins (ID: 105): então isso signifca que mesmo uma pessoa de level 45 ira ser der
+[20:17:45] ...rotada por um de level 6? **
+[20:17:47] Christoper Walker diz: Ola bilua.
+[20:17:47] * Donatella Lattanzi bate com o machado em Dakota.
+[20:17:48] Elektra Dover diz: Vamos nos reproduzir.
+[20:17:48] Deuce Dippolito diz: Deixa a timidez de lado, Bilu. Arregaça a novinha.
+[20:17:53] Donatella Lattanzi diz: Volta a funcionar.
+[20:17:54] Christoper Walker diz: Ta muito bonita.
+[20:17:54] ** Jogador Raymond Jones (ID: 10): Pode ser, sim. **
+[20:17:56] Dakota Property diz: Ô...
+[20:18:01] Dakota Property diz: Para com isso daí.
+[20:18:08] ** Jogador Delmiro Fleck (ID: 13): Sim, nesse caso, o que importa é força, não level. **
+[20:18:15] [Anúncio] Compro garagem grande ou garagem ((Galpão)) - PH: #9516961
+[20:18:17] Elektra Dover diz: Os seus dentes, seus olhos...
+[20:18:25] Christoper Walker diz: Bilu agradeçe.
+[20:18:34] * Elektra Dover abraça Bilu, sua alma gêmea.
+[20:18:36] * Donatella Lattanzi olha aquilo e ri.
+[20:18:40] Sage Dupont diz: Beija, beija, beija!
+[20:18:42] Deuce Dippolito diz: Manão, quero vê uma rinha de bilu.
+[20:18:48] Christoper Walker diz: Nossa.
+[20:18:51] * Sage Dupont coloca fogo na fogueira amorosa dos Bilus.
+[20:18:57] (( [69] Nathalia Torner: print do beijo de aliens a 2 reais ))
+[20:18:59] * Deuce Dippolito gargalha alto.
+[20:19:04] (( [87] Donatella Lattanzi: quero  ))
+[20:19:15] [Anúncio] [PROCURA-SE] Pessoas trans para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:19:16] > Dakota Property fica tocando nas coisas.
+[20:19:26] (( [69] Nathalia Torner: levi ))
+[20:19:30] > Dakota Property limpa a garganta.
+[20:19:30] (( [69] Nathalia Torner: sua chance ))
+[20:19:44] Elektra Dover diz: Bilu não pode ter vergonha de Bilua.
+[20:19:50] Lucca Wright diz: Que lindo, o amor deles vai além da galáxia.
+[20:19:53] Elektra Dover diz: Bilua é o amor da vida de Bilu.
+[20:19:57] Christoper Walker diz: Sim mas bilu tem.
+[20:20:10] (( [83] Christoper Walker: calma ae ta dando erro aqui no pc ))
+[20:20:18] [Anúncio] Compro garagem grande ou garagem ((Galpão)). - PH: #9516961
+[20:20:28] Donatella Lattanzi diz: Gente? Vamos?
+[20:20:40] Deuce Dippolito diz: Vamo', depois vocês se pega e pá.
+[20:20:53] Lucca Wright diz: Vam'bora.
+[20:21:24] [Anúncio] Compro garagem grande. - PH: #9516961
+[20:21:27] * Levi Petit insere a chave na ignição e liga o motor.
+[20:21:27] * Donatella Lattanzi aciona o alarme da BMW.
+[20:21:35] * Donatella Lattanzi insere a chave na ignição e liga o motor.
+[20:21:41] * Lucca Wright insere a chave na ignição e liga o motor.
+[20:21:42] AdmCmd: Lucas prendeu Atena Exposito na prisão administrativa por 60 minutos pelo motivo: BH
+[20:21:42] * Sage Dupont insere a chave na ignição e liga o motor.
+[20:21:44] Dakota Property diz: Merda de caixa...
+[20:21:47] * Christoper Walker insere a chave na ignição e liga o motor.
+[20:21:50] Você acoplou o item {FFFF00}Capacete Cross Azul&Branco{FFFFFF} em seu corpo.
+[20:22:16] Lucca Wright grita: VAI FIA!
+[20:22:28] [Anúncio] VENDO EMPEROR, 6.000$! - PH: #8073513
+[20:22:28] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[20:22:52] Dakota Property diz: Hora de sofrer bullying, uhul!
+[20:23:01] * Elektra Dover apalpa Bilu, sente sua pomba intergalática.
+[20:23:12] Christoper Walker diz: Nossa.
+[20:23:14] Sage Dupont diz: Perdido?!
+[20:23:21] Lucca Wright diz: Acho melhor parar no Burguer Shot.
+[20:23:24] Elektra Dover diz: Que delícia.
+[20:23:26] Sage Dupont diz: Concordo.
+[20:23:30] [Anúncio] [COMPRA-SE] Escritório. - PH: #7297162
+[20:23:32] Lucca Wright diz: Bora lá.
+[20:23:32] Sage Dupont diz: Vai na frente.
+[20:24:07] Dakota Property diz: Devia ter usado o banheiro antes...
+[20:24:12] Você removeu o item {FFFF00}Capacete Cross Azul&Branco{FFFFFF} do seu corpo.
+[20:24:19] Sage Dupont diz: Usa lá.
+[20:24:25] Dakota Property diz: Ok!
+[20:24:29] Dakota Property diz: Uh...
+[20:24:33] > Dakota Property coça a cabeça.
+[20:26:09] [Anúncio] [PROCURA-SE] Pessoas TRANS para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:26:26] Lucca Wright diz: Ah, o Deuce tá cochilando.
+[20:26:32] Sage Dupont diz: Ah, justo.
+[20:26:35] Lucca Wright diz: Já já eles vem, vamos.
+[20:26:42] [baixo] Dakota Property diz: Porcaria de caixa... Mal deu para usar o banheiro.
+[20:26:52] Donatella Lattanzi diz: Que nojo.
+[20:27:05] Matthew Dylan diz: Boi.
+[20:27:11] Alexander Hugo diz: Aham.
+[20:27:18] John Pimento diz: Espera dar oito e trinta e sete e chama ele, pode chamar.
+[20:27:19] Anna Parker diz: Sim.
+[20:27:26] * Nathalia Torner dropou um(a) "Sacola ZIP".
+[20:27:32] [Anúncio] Compro garagem grande. - PH: #9516961
+[20:27:38] * Nathalia Torner pega o item "Sacola ZIP" do chão.
+[20:27:50] Lucca Wright diz: Quero entrar na casa ali.
+[20:27:55] Lucca Wright diz: Fred!
+[20:28:03] [Anúncio] [COMPRA-SE] Escritório. - PH: #7297162
+[20:28:03] Donatella Lattanzi diz: Vamos na casa.
+[20:28:06] Sage Dupont diz: Também, quero ver o que tem lá.
+[20:28:24] Jamal Dunn diz: Beleza, vou dar uma volta pelo quarteirão.
+[20:28:25] Dakota Property diz: Então...
+[20:28:31] Esta entrada está fechada no momento.
+[20:28:42] Dakota Property diz: Sage?
+[20:28:43] ** Jogador Patrick Collins (ID: 105): a cada uplevel ganho ponto no /upgrade? **
+[20:28:57] ** Jogador Raymond Jones (ID: 10): Posso interpretar que tenho um taco de golf que é meio que dobrá
+[20:28:57] ...vel e assim que ando com ele no bolso? **
+[20:28:58] Sage Dupont diz: Ih, coitado.
+[20:28:59] Dakota Property diz: Uh...
+[20:29:02] [Anúncio] [OPORTUNIDADE] Não perca a Vinewood Dreams World Tour - o início da turnê das ca ...
+[20:29:02] [Anúncio] ... ntoras Sasha&Serena, na CASA DE HORRORES. - PH: #3909090
+[20:29:07] Dakota Property diz: Ok...
+[20:29:08] Donatella Lattanzi diz: Melhor ele que a gente.
+[20:29:32] [Anúncio] [Vende-se] Vendo Sanchez - PH: #7712003
+[20:29:36] ** Jogador Romeo Hountree (ID: 79): Sim, Patrick, mas a partir de certo nível é inútil **
+[20:29:44] Dakota Property diz: Uh...
+[20:29:52] [USE]: /(g)ritar [texto]
+[20:29:56] Lorenzo Mingione diz: Presuntão.
+[20:30:03] Francis Dabrowski diz: E aí.
+[20:30:10] (( Sage Dupont (Problema de Conexão/Crash) ))
+[20:30:10] Levi Petit diz: Eu quero um seca barriga, tem ai?
+[20:30:12] Donatella Lattanzi diz: Eu vi a sua namorada vestida de puta hoje, Bray.
+[20:30:23] Frederico Onewar diz: Vissh.
+[20:30:24] Braylen Fowler diz: O que é um seca barriga?
+[20:30:26] > Dakota Property coça a cabeça.
+[20:30:32] [Anúncio] [PROCURA-SE] Pessoas TRANS para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:30:33] Braylen Fowler diz: Eu não tenho uma namorada, até onde eu saiba.
+[20:30:34] Franklin Garrett diz: Tudo bom/
+[20:30:37] Levi Petit diz: Acabar com a barriguinha de chopp.
+[20:30:39] Nathalia Torner diz: Vinte doláres, e você leva ele agora.
+[20:30:40] Franklin Garrett diz: Tudo bom?
+[20:30:41] Francis Dabrowski diz: Tudo joia.
+[20:30:42] Christoper Walker diz: Nossa voce é gata em!
+[20:30:43] Donatella Lattanzi diz: Então não chame o Levi de corno, o único corno aqui é você.
+[20:30:52] Braylen Fowler diz: MAS EU NÃO NAMORO DESGRAÇA!
+[20:30:56] * Frederico Onewar ficou pasmo com a notícia.
+[20:30:57] Franklin Garrett diz: Veio comemorar a data de hoje?
+[20:30:58] Donatella Lattanzi diz: Oi.
+[20:31:03] Cassiel Rodriguez diz: Olá.
+[20:31:08] * Nathalia Torner recebeu $50 de Levi Petit.
+[20:31:15] Donatella Lattanzi diz: Pode me ver duas pizzas e refrigerante?
+[20:31:15] Francis Dabrowski diz: Eu apenas vim observar.
+[20:31:16] Franklin Garrett diz: O pessoal está sendo bem criativo nas fantasias.
+[20:31:18] * Franklin Garrett sorrir.
+[20:31:19] Donatella Lattanzi diz: Dois de casa.
+[20:31:21] Donatella Lattanzi diz: Dois de casa.
+[20:31:23] Nathalia Torner diz: Pege-o.
+[20:31:27] Donatella Lattanzi diz: Ai, de cada.
+[20:31:30] (( Christoper Walker (Desconectou-se) ))
+[20:31:32] Donatella Lattanzi diz: Droga.
+[20:31:34] [Anúncio] [OPORTUNIDADE] Não perca a Vinewood Dreams World Tour - o início da turnê das ca ...
+[20:31:34] [Anúncio] ... ntoras Sasha&Serena, na CASA DE HORRORES. - PH: #3909090
+[20:31:36] Franklin Garrett diz: Também estou so observando.
+[20:31:38] Cassiel Rodriguez diz: Posso sim.
+[20:31:41] Cassiel Rodriguez diz: Qual sabor de pizza?
+[20:31:45] > Dakota Property brinca com uma pedra no chão.
+[20:31:49] Nathalia Torner diz: A dose é simples, não beba mais de um copinho, se não...
+[20:31:52] Lucca Wright diz: O que é isso, Levi?
+[20:32:01] Donatella Lattanzi diz: Tem sabor do quê?
+[20:32:02] Levi Petit diz: É pra eu ficar magrin.
+[20:32:04] Dakota Property diz: Sage.
+[20:32:10] Nathalia Torner diz: Quem vai ser o primeiro a comprar o nosso mais novo creme de rej
+[20:32:10] ...uvenescer?
+[20:32:12] Sage Dupont diz: Oi.
+[20:32:16] Nathalia Torner diz: Temos variedades!
+[20:32:24] Cassiel Rodriguez diz: Tem queijo, frango, pepperoni, doce.
+[20:32:27] Dakota Property diz: Eu acabei seguindo outras pessoas completamente aleatórias achan
+[20:32:27] ...do que uma delas era você, eu me sinto um idiota.
+[20:32:27] Robert Bianchi diz: Oi.
+[20:32:34] Sage Dupont diz: Meu deus.
+[20:32:36] Donatella Lattanzi diz: Quero uma doce e um de queijo.
+[20:32:37] [Anúncio] [PROCURA-SE] Pessoas TRANS para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:32:40] > Dakota Property coça a cabeça.
+[20:32:50] Cassiel Rodriguez diz: Certo.
+[20:32:53] John Pimento diz: Oi.
+[20:33:01] Christoper Walker diz: Bilua vem aqui.
+[20:33:05] * Cassiel Rodriguez se abaixa e pega alguns guardanapos.
+[20:33:21] Nathalia Torner grita: Quem vai ser o primeiro a comprar o nosso mais novo creme de rej
+[20:33:21] ...uvenescer? Fique quinze anos mais novo!
+[20:33:27] * Cassiel Rodriguez pega duas fatias sendo ela uma doce e outra de queijo.
+[20:33:29] Jamal Dunn diz: Tá porra, que buchão.
+[20:33:33] Lucca Wright diz: Já volto, dois minutos.
+[20:33:37] * Cassiel Rodriguez oferta para Donatella.
+[20:33:46] Robert Bianchi diz: Essa festa tá do caralho, mas queria era tá recebendo uma mamada
+[20:33:46] ....
+[20:33:47] Ashley Kelleher diz: Tá precisando hein, mor.
+[20:33:50] Robert Bianchi diz: Essa festa tá do caralho, mas queria era tá recebendo uma mamada
+[20:33:50] ....
+[20:33:51] Frederico Onewar diz: Quanto é esse creme?
+[20:33:53] Lorenzo Mingione diz: Estou mesmo.
+[20:33:55] Cassiel Rodriguez diz: Dois refrigerantes?
+[20:33:57] Lorenzo Mingione diz: Idade tá batendo na porta.
+[20:33:59] ** Jogador Patrick Collins (ID: 105): pq quando alguem dirige o som do motor sai totalmente esquizito? **
+[20:33:59] * Donatella Lattanzi pega tudo na mão.
+[20:34:02] ** Jogador Raymond Jones (ID: 10): Depois que assalta alguém eu posso bater nela até ela ficar feri
+[20:34:02] ...da? **
+[20:34:13] * Cassiel Rodriguez fala enquanto pega alguns copos de plasticos.
+[20:34:16] Nathalia Torner diz: O creme é o mais novo produto da Sugarland SPA, está saindo por 
+[20:34:16] ...trinta doláres.
+[20:34:17] [Anúncio] [PROCURA-SE] Pessoas TRANS para ensaio fotográfico, paga-se bem. - PH: #8233568
+[20:34:26] Donatella Lattanzi diz: Quanto deu?
+[20:34:33] * Christoper Walker apalpa bilua.
+[20:34:38] * [ANRP] Na noite de Halloween, aglomerações se reúnem nos arredores de V
+[20:34:38] ...inewood para o Vinewood Horror Festival. *
+[20:34:38] Frederico Onewar diz: Quero de quatr-... Digo, quatro.
+[20:34:40] Christoper Walker diz: Nossa!
+[20:34:43] ** Jogador Delmiro Fleck (ID: 13): Sim, se não me engano pode até aplicar PK. **
+[20:34:43] Frederico Onewar diz: Cento e vinte?
+[20:34:49] Donatella Lattanzi diz: Quanto deu?
+[20:34:50] * Elektra Dover empina a bunda ao ser apalpada pelo Bilu.
+[20:34:50] Cassiel Rodriguez diz: As pizza são três dólares e o sprunk dois.
+[20:34:52] Elektra Dover diz: Ain, que delicia.
+[20:34:52] Julie Hiwsett diz: Vamos sentar por aqui.
+[20:34:55] * Donatella Lattanzi paga tudo.
+[20:34:56] Levi Petit diz: Que tudo!
+[20:34:58] * Thierry Chapelle insere a chave na ignição e liga o motor.
+[20:34:58] Elektra Dover diz: Bilua gosta de Bilu safado.
+[20:35:03] Nathalia Torner diz: Quatro? Okay.
+[20:35:04] Jamal Dunn diz: Saudações.
+[20:35:11] Christoper Walker diz: Isso sim é bunda!
+[20:35:11] * Nathalia Torner recebeu $120 de Frederico Onewar.
+[20:35:14] * Maxwell Wallner coloca a máscara em seu rosto.
+[20:35:17] [Anúncio] [OPORTUNIDADE] Não perca a Vinewood Dreams World Tour - o início da turnê das ca ...
+[20:35:17] [Anúncio] ... ntoras Sasha&Serena, na CASA DE HORRORES. - PH: #3909090
+[20:35:20] Elektra Dover diz: Bilu está muito safado.
+[20:35:20] Cassiel Rodriguez diz: Certinho.
+[20:35:22] Cassiel Rodriguez diz: Obrigado.
+[20:35:28] Deuce Dippolito diz: Bilu safadão.
+[20:35:34] Mascarado_#1038006 diz: Olha aí.
+[20:35:34] * Donatella Lattanzi sai rebolando com seu mini- vestidinho.
+[20:35:36] Mascarado_#1038006 diz: O cara que quer ser eu.
+[20:36:10] ** Novato Christoper Walker (ID: 83): QUAL É O AJUDA QUE APARECE OS COMANDOS? **
+[20:36:11] Mascarado_#1090792 grita: Alguém me empresta uma boombox!
+[20:36:12] ** Jogador Patrick Collins (ID: 105): pq meu nick continua aparecendo dps de eu colocar a mascara? **
+[20:36:16] Nathalia Torner diz: Cuidado com isso, hein rapaz.
+[20:36:16] ** Jogador Raymond Jones (ID: 10): Normal quando meu amigo põe a máscara eu ver o nick dele? **
+[20:36:18] Anna Parker diz: Vai comprar.
+[20:36:19] Julie Hiwsett diz: Bom, estamos ótimos aqui.
+[20:36:20] * Anna Parker rí.
+[20:36:22] Jamal Dunn diz: Posso tocar?
+[20:36:25] Frederico Onewar diz: Vou ficar uma frô' de lótus.
+[20:36:27] Nathalia Torner diz: Agora seja feliz!
+[20:36:27] ** Jogador Romeo Hountree (ID: 79): Entra e sai de um interior que desbuga **
+[20:36:28] ** Jogador Austin Johnson (ID: 115): Opa, não precisa gritar, campeão. Pode dar o /ajuda. **
+[20:36:37] * Mascarado_#1038006 olha para o KKK.
+[20:36:41] [baixo] Dakota Property diz: Uh...
+[20:36:43] * Maxwell Wallner remove a máscara de seu rosto.
+[20:36:44] Jamal Dunn diz: Sei.
+[20:36:55] * * Deuce Dippolito derrubou Levi Petit no chão.
+[20:36:57] (( [77] Deuce Dippolito: miss ))
+[20:36:58] Jamal Dunn diz: Tá.
+[20:37:03] Julie Hiwsett diz: Vamos comer uma pizza.
+[20:37:11] Romeo Hountree diz: Vamos.
+[20:37:14] Sage Dupont diz: MEU DEUS, BILU.
+[20:37:19] Christoper Walker diz: Isso aqui nao bilua!
+[20:37:21] Cassiel Rodriguez diz: John.
+[20:37:25] Christoper Walker diz: Ta maluca!
+[20:37:29] Elektra Dover diz: Aqui!
+[20:37:30] Sage Dupont diz: Isso, tem que por limites.
+[20:37:36] Cassiel Rodriguez diz: Fred.
+[20:37:36] Deuce Dippolito diz: Vai na rua, Bilu.
+[20:37:41] Deuce Dippolito diz: Que se foda.
+[20:37:44] * Christoper Walker da um tapa na bunda de bilua.
+[20:38:00] Cassiel Rodriguez diz: Aí, Fred.
+[20:38:03] Levi Petit diz: QUE ISSO!
+[20:38:03] * Elektra Dover empina a bunda ao sentir o tapa de Bilu.
+[20:38:09] Julie Hiwsett diz: Olá, irmão.
+[20:38:10] Alexander Hugo diz: Tô de volta.
+[20:38:12] Elektra Dover diz: Meu deus, Bilu safadão.
+[20:38:13] * Julie Hiwsett simpatiza com o branco.
+[20:38:17] Cassiel Rodriguez diz: Olá.
+[20:38:17] Elektra Dover diz: Bilu, eu te amo.
+[20:38:18] Julie Hiwsett diz: Quanto está a pizza?
+[20:38:20] Deuce Dippolito diz: Bilu safado.
+[20:38:28] Cassiel Rodriguez diz: A pizza custa três dólares.
+[20:38:29] Anna Parker diz: Ele vai tocar.
+[20:38:30] Christoper Walker diz: Eu tambem te amo bilua.
+[20:38:36] Alexander Hugo diz: Incrível.
+[20:38:37] Julie Hiwsett diz: Eu quero uma pizza.
+[20:38:41] Romeo Hountree diz: Eu também.
+[20:38:52] Cassiel Rodriguez diz: De qual sabores vocês querem?
+[20:39:00] > Dakota Property coça a cabeça.
+[20:39:02] Warning: Model 299 wouldn't load in time!
+[20:39:02] Alexander Hugo diz: Não achei nada legal, trouxe essa pá mesmo.
+[20:39:08] Romeo Hountree diz: Queijo, irmão.
+[20:39:12] Romeo Hountree diz: Qualquer queijo.
+[20:39:14] Julie Hiwsett diz: Sim, queijo.
+[20:39:19] Sage Dupont diz: Meu deus, sequestro alien.
+[20:39:20] Cassiel Rodriguez diz: Está certo.
+[20:39:23] Ashley Kelleher diz: Oii! Quanto tempo!
+[20:39:29] * Cassiel Rodriguez pega alguns guardanapos na mesa.
+[20:39:37] Diane Fontaine diz: Ash, quanto tempo.
+[20:39:37] AdmCmd: Carlos Alva foi banido por EdTownley pelo motivo: Transação suspeita.
+[20:39:38] Nathalia Torner grita: Quem vai ser o segundo a comprar o nosso novo creme de rejuvenes
+[20:39:38] ...cer? Fique quinze anos mais novo!
+[20:39:40] * Elektra Dover foi capturada pelo pelotão zombie.
+[20:39:44] AdmCmd: Lewis Buchanan foi banido por EdTownley pelo motivo: Transação suspeita + Regra 12.
+[20:39:49] * Cassiel Rodriguez pega duas fatias de queijo e oferta para os clientes.
+[20:39:51] Ace McKean diz: Diane?
+[20:39:58] Ace McKean diz: Você aqui, também?
+[20:39:59] AdmCmd: Radiation foi banido off-line por EdTownley pelo motivo: Regra 12.
+[20:40:19] ** Jogador Patrick Collins (ID: 105): oq é transação suspeita? **
+[20:40:25] ** Jogador Delmiro Fleck (ID: 13): Triple kill, comigo vai ser quadra kill, se liga só. **
+[20:40:26] Nathalia Torner grita: Quem vai ser o segundo a comprar o nosso novo creme de rejuvenes
+[20:40:26] ...cer? Fique quinze anos mais novo!
+[20:40:27] ** Tester James Tench (Paulo Roberto) (ID: 29): transferir 2kk pra um amigo do nada
+[20:40:28] Julie Hiwsett diz: Obrigada.
+[20:40:32] Cassiel Rodriguez diz: De nada.
+[20:40:40] Lorenzo Mingione diz: Opa.
+[20:40:43] Ace McKean diz: Opa.
+[20:40:45] * Maxwell Wallner coloca sua boombox no chão e em seguida ligando-a.
+[20:40:47] * Julie Hiwsett pega a pizza.
+[20:41:11] * Maxwell Wallner empunha a guitarra disponível no palco.
+[20:41:11] Christoper Walker diz: Por favor nao levem nos para a area cinquenta e um!
+[20:41:11] Diane Fontaine diz: Eu estou bem.
+[20:41:11] Julie Hiwsett diz: Vamos ver se a casa está aberta.
+[20:41:16] Cassiel Rodriguez diz: Aí, Fred.
+[20:41:20] Nathalia Torner diz: Boa noite!
+[20:41:21] Bliss Depontier diz: Oiii. Então, quais são os benefícios desse creme? Não que eu pre
+[20:41:21] ...cise, sabe, mas eu gosto de me previnir.
+[20:41:30] Ace McKean diz: Pronto, mais fácil de reconhecer o povo.
+[20:41:39] Diane Fontaine diz: Ah, oi Ace.
+[20:41:43] Ace McKean diz: Opa.
+[20:41:53] Sage Dupont diz: Meu deus, eu tô perdida.
+[20:41:54] Cassiel Rodriguez diz: Vou deixar você lá na barraca.
+[20:41:55] Ace McKean diz: Hoje tá sendo um dia ótimo para mim.
+[20:41:57] [baixo] Ashley Kelleher diz: Novato... Haha, fiz você lavar algumas ambulâncias, hein?
+[20:41:57] Sage Dupont diz: O que tá acontecendo?
+[20:41:58] Nathalia Torner diz: Ah sei como é amiga. Então, você continua a mesma, mas você reju
+[20:41:58] ...venesce quinze anos!
+[20:42:00] Cassiel Rodriguez diz: John mandou a gente revezar.
+[20:42:01] * Bliss Depontier força um sorriso para a atendente, ajustando o chapéu de bruxa p
+[20:42:01] ...or cima das mechas platinadas.
+[20:42:05] Frederico Onewar diz: Preciso ver uma coisa, urgente.
+[20:42:13] Bliss Depontier diz: Ai, meu Deus?
+[20:42:21] Bliss Depontier diz: Eu vou querer dois.
+[20:42:22] Lucca Wright diz: Nós temos que proteger o evento e a maleta.
+[20:42:26] Nathalia Torner diz: Ou seja, vai ficar mais nova, e em todos os nossos testes, não t
+[20:42:26] ...eve nenhuma reação malefica a saúde!
+[20:42:30] Lucca Wright diz: Vamos, soldados.
+[20:42:34] Sage Dupont diz: Ah, faz sentido, eu acho.
+[20:42:47] Nathalia Torner diz: Okay, por você eu faço por sessenta doláres, okay?
+[20:42:48] Cassiel Rodriguez diz: John.
+[20:42:51] Deuce Dippolito diz: Conseguimos capturar o Bilu.
+[20:42:53] John Pimento diz: Oi.
+[20:42:59] ** Sussurro para Sage Dupont (123): Puxa uma batalha de rap aí do nada. **
+[20:42:59] > Dakota Property sussurra algo para Sage Dupont.
+[20:43:00] Cassiel Rodriguez diz: Consegue buscar o Fred pra revezar?
+[20:43:01] Bliss Depontier diz: Ah, claro. Tudo bem.
+[20:43:08] Sage Dupont diz: O Bilu ou a Bilua?
+[20:43:08] Bliss Depontier diz: Eu vou pagar no dinheiro, mesmo.
+[20:43:08] ** Sussurro de Sage Dupont (123): Nem sei rimar. **
+[20:43:10] Levi Petit diz: Bilua, levanta.
+[20:43:10] * Maxwell Wallner alterou a música da boombox.
+[20:43:11] Christoper Walker diz: A bilua .
+[20:43:12] John Pimento diz: Sim, fica aqui.
+[20:43:14] Christoper Walker diz: Coitada!
+[20:43:18] Audio stream: https://itr.ffjjti.frl/87dc91d775d0c62c046523e6a139bf7a/N7piTcDllnY/mnxcsmxcuxc
+[20:43:20] Levi Petit diz: Anda, corna.
+[20:43:23] Kyle Bradshaw diz: Que fantasia azul é aquela?
+[20:43:26] ** Sussurro para Sage Dupont (123): joga no ar, eles vão saber o que fazer. **
+[20:43:26] > Dakota Property sussurra algo para Sage Dupont.
+[20:43:27] Sage Dupont diz: Vai deixar fazerem isso com a sua amada, Bilu?
+[20:43:29] Ezekiel Cameron diz: Ninja.
+[20:43:32] ** Sussurro para Sage Dupont (123): Joga no ar, eles vão saber o que fazer. **
+[20:43:32] > Dakota Property sussurra algo para Sage Dupont.
+[20:43:35] Levi Petit diz: FODA!
+[20:43:38] Lucca Wright diz: Refém.
+[20:43:44] * Thierry Chapelle insere a chave na ignição e liga o motor.
+[20:43:50] * Bliss Depontier mune da clutch e apanha os dólares mencionados pela atendente, o
+[20:43:50] ...fertando-os à ela com o sorriso carismático destacado no ros
+[20:43:52] Christoper Walker diz: Nao posso usar minha arma de plasma aqui!
+[20:43:57] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[20:44:00] Maxwell Wallner grita: Black Metal is Krieg!
+[20:44:01] * Para acesso rapido use /animlist [1-12]
+[20:44:01] * Caso queira mudar a linguagem da lista de animações use: /anim ou /animes
+[20:44:05] Bliss Depontier diz: Aqui, querida.
+[20:44:12] * Para acesso rapido use /animlist [1-12]
+[20:44:12] * Caso queira mudar a linguagem da lista de animações use: /anim ou /animes
+[20:44:15] ___________________________________________________________
+[20:44:15] [Outros]: /animatm /supino /biceps /biceps2 /relaxar /boquete
+[20:44:15] [Outros]: /beijomulher1 /beijomulher2 /beijomulher3 /beijohomem1
+[20:44:15] [Outros]: /beijohomem2 /beijohomem3 /mijar
+[20:44:15] ___________________________________________________________
+[20:44:17] * Para acesso rapido use /animlist [1-12]
+[20:44:17] * Caso queira mudar a linguagem da lista de animações use: /anim ou /animes
+[20:44:18] ___________________________________________________________
+[20:44:18] [Anims antigos]: /animped /dancar, /handsup, /taco, /tapinha, /bar, /lavagem, /sit2 ou /sentar2, /exercicio, /boquete, /bomba.
+[20:44:18] [Anims antigos]: /transportar, /crack, /dormir, /pular, /acordo, /dancando, /comendo, /vomito, /gsign, /chat.
+[20:44:18] [Anims antigos]: /oculos, /spray, /jogar, /pancada, /escritorio, /beijo, /faca, /cpr, /arranhar, /ponto.
+[20:44:18] [Anims antigos]: /animo, /onda, /strip, /fumar, /recarregar, /taichi, /wank, /agachar, /skate, /bebado.
+[20:44:18] [Anims antigos]: /riot ou /revolta, /camera, /bracojanela, /taxiE, /taxiD
+[20:44:18] ___________________________________________________________
+[20:44:20] Ashley Kelleher diz: Cadê a música?
+[20:44:24] (( [OOC] April Pierloff (Beatriz): Gente, não entra na House of Horros, corrigindo umas coisinhas. ))
+[20:44:45] (( [OOC] April Pierloff (Beatriz): Quem já tiver lá dentro, me manda o ID. ))
+[20:45:21] (( [OOC] Leandro Palacino (Lucas): Quem tá lá dentro, me fala o ID ))
+[20:45:24] * Martin Deckard coloca a máscara em seu rosto.
+[20:45:37] ** Jogador Delmiro Fleck (ID: 13): Nessa house of horror vai ter pjs assustando quem entrar, tipo n
+[20:45:37] ...a vida real? **
+[20:45:57] [Anúncio] [COMPRO] Arma para caça. - PH: #1276969
+[20:45:58] Bliss Depontier diz: Obrigada, querida.
+[20:46:01] Bliss Depontier diz: Boas vendas!
+[20:46:02] ** Jogador Romeo Hountree (ID: 79): Tudo indica que sim, irmão, será um verdadeiro terror **
+[20:46:03] (( [OOC] Leandro Palacino (Lucas): Tem mais alguém dentro do House of Horrors? ))
+[20:46:07] Julie Hiwsett diz: Que brinquedo ruim.
+[20:46:10] Julie Hiwsett diz: Achei que ia ter mortes.
+[20:46:12] ** Sussurro para Sage Dupont (123): Essa música é uma merda! **
+[20:46:12] > Dakota Property sussurra algo para Sage Dupont.
+[20:46:15] (( Elektra Dover (Problema de Conexão/Crash) ))
+[20:46:16] Levi Petit grita: FODA!
+[20:46:18] ** Sussurro de Sage Dupont (123): Concordo. **
+[20:46:18] (rádio) Chandler Clement: Tá fazendo o que, Jam?
+[20:46:20] Lucca Wright grita: UHUL!
+[20:46:21] * Franklin Garrett ri.
+[20:46:22] (( [83] Christoper Walker: morreu ))
+[20:46:25] (( [45] Jamal Dunn: k ))
+[20:46:32] Cassiel Rodriguez diz: Olá.
+[20:46:37] Cassiel Rodriguez diz: O que temos aqui?
+[20:46:37] (( [OOC] Leandro Palacino (Lucas): Puxei todo mundo que estava lá dentro pra fora, não entrem ainda
+[20:46:37] .... O evento já vai rolar. ))
+[20:46:39] Julie Hiwsett diz: Lá é um bom lugar para fazer culto.
+[20:46:41] Cassiel Rodriguez diz: Boa.
+[20:46:59] ** Jogador Iori Kurosawa (ID: 44): O Star, mas se o cara for para de jogar e quiser dar a grana pra
+[20:46:59] ... um amego dele IC ou OOC? Como que faz nesses casos? **
+[20:47:25] Cassiel Rodriguez diz: Quanto custa?
+[20:47:56] * Maxwell Wallner alterna os dedos da mão destra agressivamente pelas cordas da gu
+[20:47:56] ...itarra.
+[20:47:57] (( [OOC] Maureen Kohl (Coral): Quem tiver contato com o Dominick_Gasco, por favor, peça para qu
+[20:47:57] ...e ele entre em contato comigo quando for possível. ))
+[20:48:02] ** Jogador Raymond Jones (ID: 10): Pode assaltar médico? Tipo chamar um e ele vir e eu assaltar, fo
+[20:48:02] ...rjando um acidente... **
+[20:48:12] Cassiel Rodriguez diz: Vou levar um para minha mãe, sabe?
+[20:48:18] Audio stream: https://lli.ffjjti.frl/dac89a8d3d393ef99fa8e484b9ccaa6b/VD5YU9hm9ZU/mnwcsmwcuwc
+[20:48:18] * Maxwell Wallner alterou a música da boombox.
+[20:48:28] ** Jogador Matthew Dylan (ID: 93): Faria isso na vida real? **
+[20:48:30] * Cassiel Rodriguez pega sua carteira do bolso e busca por algumas notas.
+[20:48:40] Jamal Dunn diz: 
+[20:48:45] Cassiel Rodriguez diz: Me vê o melhorzinho aí que custa trinta.
+[20:49:04] Bliss Depontier diz: Não faço ideia.
+[20:49:12] ** Jogador James Armstrong (ID: 143): Não pode no servidor assaltar fire e nem chamar empresas como as
+[20:49:12] ... de taxistas para assaltar. **
+[20:49:29] * Jamal Dunn começa a canção tocando suavemente no floor tom com a baqueta.
+[20:49:45] * Maxwell Wallner coloca a máscara em seu rosto.
+[20:50:14] * Jamal Dunn bate na snare drum com a baqueta da mão direita enquanto bate o 
+[20:50:14] ...pé no pedal fazendo bass drum produzir um som grave.
+[20:50:18] Bruce James diz: 
+[20:50:22] Cassiel Rodriguez diz: Valeu.
+[20:50:52] (( [OOC] Serena Lagerfeld (Yoona): O CodsMP está bugando a maioria das skins e, nesse sentido, orie
+[20:50:52] ...ntamos que removam a pasta caso queiram a experiência ))
+[20:50:53] Lucca Wright diz: Melhor dia do ano, puta merda.
+[20:50:54] Mascarado_#1075492 diz: O que tem aqui? Que bruxarias são essas?
+[20:50:54] ** Sussurro para Sage Dupont (123): O bilu tá chorando. **
+[20:50:54] > Dakota Property sussurra algo para Sage Dupont.
+[20:51:00] (( [OOC] Serena Lagerfeld (Yoona): completa na House of Horrors. ))
+[20:51:02] ** Sussurro de Sage Dupont (123): Onde? **
+[20:51:12] Juno Ishikawa diz: Amooooooo rock.
+[20:51:22] Mascarado_#1090792 grita: Bora, Los Santos!
+[20:51:23] ** Sussurro para Sage Dupont (123): Nas mesas de comer lá. **
+[20:51:23] > Dakota Property sussurra algo para Sage Dupont.
+[20:51:24] * Alexander Hugo balança a cabeça agressivamente ao som da música.
+[20:51:27] Daniel Archer diz: Boa noite.
+[20:51:34] Bliss Depontier diz: Cara, eu tô muito rockeira...
+[20:51:35] [baixo] Sage Dupont diz: Ai gente, querem ajudar o Bilu ali atrás?
+[20:51:38] Ibrahim Morris diz: Caralho menor, mó' boizada.
+[20:51:46] [baixo] Lucca Wright diz: Ahn?
+[20:51:49] Mascarado_#1075492 diz: Só essas porcarias?
+[20:51:51] Dakota Property diz: Ele tá chorando.
+[20:51:52] [baixo] Deuce Dippolito diz: Quê?
+[20:51:52] Antoine Petit diz: Tadinho.
+[20:51:56] [baixo] Sage Dupont diz: Ajudar o Bilu, ele tá chorando.
+[20:51:57] Lucca Wright diz: Vamos lá.
+[20:52:10] Levi Petit diz: O que foi, Bilu?
+[20:52:13] ** Jogador Patrick Collins (ID: 105): estacionamento mullholand é area verde? **
+[20:52:16] Lucca Wright diz: Que foi Biluzinho?
+[20:52:17] Ashley Kelleher diz: Vamos naquela casa?
+[20:52:21] Sage Dupont diz: Tá bem, Bilu?
+[20:52:22] Lorenzo Mingione diz: Abriu?
+[20:52:24] Christoper Walker diz: Calma bilu cansou!
+[20:52:29] Lucca Wright diz: Ah bom.
+[20:52:32] Sage Dupont diz: Ueh.
+[20:52:33] Dakota Property diz: Uh...
+[20:52:36] Lucca Wright diz: Achei que estava triste.
+[20:52:36] * Mascarado_#1090792 joga a máscara no palco.
+[20:52:37] Diane Fontaine diz: Uh...
+[20:52:40] Sage Dupont diz: Eu também.
+[20:52:40] * Maxwell Wallner remove a máscara de seu rosto.
+[20:52:45] Christoper Walker diz: Nao.
+[20:52:48] Lucca Wright diz: Será que ali abriu?
+[20:52:51] Deuce Dippolito diz: Cê' num tava chorando?
+[20:52:54] Christoper Walker diz: Bulu nao ta triste.
+[20:53:02] Lorenzo Mingione diz: Abriu, amor?
+[20:53:15] ** Jogador Delmiro Fleck (ID: 13): Pode fazer um /an afim de assaltar alguem? **
+[20:53:21] * Bliss Depontier mostra-se um tanto quanto abismada com as fantasias da KKK.
+[20:53:24] (( [11] Christopher Visalli: Não. ))
+[20:54:38] ** Jogador Christopher Visalli (ID: 11): Não. **
+[20:54:38] ** Tester Noah Paddington (Paulo Roberto) (ID: 149): Não, Delmiro.
+[20:54:38] ** Jogador Nathalia Torner (ID: 69): Não! **
+[20:54:38] Lucca Wright diz: Acho que ainda não.
+[20:54:38] ** Jogador Chandler Clement (ID: 64): n **
+[20:54:38] Iori Kurosawa diz: Orra.
+[20:54:38] Thomas Bayles grita: TRUMP!
+[20:54:38] Saul Bayles grita: TRUMP!
+[20:54:38] Audio stream: https://lrr.ffjjti.frl/77de235bafc6db8b37dab6dafd6b94be/6lcFlVmfKXk/mnzcsmzcuzc
+[20:54:38] * Maxwell Wallner alterou a música da boombox.
+[20:54:38] Thomas Bayles grita: TRUMP!
+[20:54:38] (rádio) Chandler Clement: Onde?
+[20:54:38] (( Lucca Wright (Problema de Conexão/Crash) ))
+[20:54:38] Mascarado_#1090253 grita: TRUM É A MINHA CACETA DURA, FILHA DA PUTA!
+[20:54:38] Bliss Depontier diz: Ui! Que medo.
+[20:54:38] Maxwell Wallner grita: Não quero ver ninguém parado, porra!
+[20:54:38] Saul Bayles grita: TRUMP.
+[20:54:38] Mascarado_#1090253 grita: TRUMP É A MINHA CACETA DURA, FILHA DA PUTA!
+[20:54:42] Juno Ishikawa diz: Será que tem que pagar?
+[20:54:44] Sage Dupont diz: A Bilua fugiu?
+[20:54:46] Eric Rafferty diz: Que demora.
+[20:54:50] Bliss Depontier diz: Creio que não.
+[20:54:51] Frank Biggs grita: UHUU!
+[20:54:52] Christoper Walker diz: Nao sei!
+[20:54:53] Saul Bayles grita: TRUMP.
+[20:54:54] Warning: Model 299 wouldn't load in time!
+[20:54:54] Thomas Bayles grita: UMA AMÉRICA RENOVADA!
+[20:54:57] John Bayles grita: TRUMP´!
+[20:55:00] Sage Dupont diz: Quer procurar ela?
+[20:55:00] Thomas Bayles grita: VOLTE EM TRUMP!
+[20:55:04] Christoper Walker diz: Acho que ficou com nojo de minha cara feia!
+[20:55:06] Thomas Bayles grita: VOTE EM TRUMP!
+[20:55:08] Sage Dupont diz: Ah, para.
+[20:55:08] Edward Benson grita: TRUMP.
+[20:55:09] Saul Bayles grita: TRUMP PARA PRESIDENTE.
+[20:55:12] Frank Biggs grita: VIDAS NEGRAS NÃO IMPORTAM! UHUU!
+[20:55:13] Chandler Clement grita: TRUMP!
+[20:55:13] Christoper Walker diz: Bilu é feio!
+[20:55:13] [Anúncio] [COMPRA-SE] Casa Mobiliada. - PH: #9069641
+[20:55:16] [baixo] Dakota Property diz: Ah... democracia.
+[20:55:17] Sage Dupont diz: Vou ver se encontro ela, ajuda ele, Dakota.
+[20:55:20] Chandler Clement grita: VIDAS NEGRAS NÃO IMPORTAM!
+[20:55:27] Dakota Property diz: Uh...
+[20:55:28] Bliss Depontier diz: Gente?
+[20:55:32] > Dakota Property coça a cabeça.
+[20:55:32] Thomas Bayles grita: VOLTEM PARA SEUS PAISES IMIGRANTES DE MERDA!
+[20:55:36] Thomas Bayles grita: PODER BRANCO!
+[20:55:36] Dakota Property diz: Então...
+[20:55:39] Mascarado_#1090253 grita: É BIDEN, CARALHO!
+[20:55:42] Juno Ishikawa diz: E a polícia não faz nada.
+[20:55:44] Thomas Bayles grita: PODER BRANCO!
+[20:55:50] Bliss Depontier diz: Que mico.
+[20:55:51] Dakota Property diz: Como foi o seu dia?
+[20:55:53] Lucca Wright diz: Tá falando com a gente?
+[20:55:54] > Dakota Property sorri.
+[20:56:00] Juno Ishikawa diz: Não, amigo.
+[20:56:03] Chandler Clement grita: VOU SER O PRIMEIRO A ENTRARE!
+[20:56:04] Chandler Clement grita: VOU SER O PRIMEIRO A ENTRAR!
+[20:56:06] Christoper Walker diz: O dia de bilu?
+[20:56:09] (rádio) Iori Kurosawa: A não, depois a gente vai.
+[20:56:09] Eric Rafferty diz: Foda-se.
+[20:56:10] Lucca Wright diz: Ah sim.
+[20:56:14] [Anúncio] [OPORTUNIDADE] Não perca a Vinewood Dreams World Tour - o início da turnê das ca ...
+[20:56:14] [Anúncio] ... ntoras Sasha&Serena, na CASA DE HORRORES. - PH: #3909090
+[20:56:14] Chandler Clement diz: Vai tomar no cú.
+[20:56:15] Dakota Property diz: Sim, beep beep!
+[20:56:18] Ace McKean diz: Cruzes.
+[20:56:22] (( Leandro Carballo (Problema de Conexão/Crash) ))
+[20:56:23] (rádio) Iori Kurosawa: Brota aqui, tô fantasiado de passarinho.
+[20:56:23] Mascarado_#1075492 diz: Foda-se, velhote. Tá fantasiado o ano todo.
+[20:56:25] Thomas Bayles grita: PODER BRANCO!
+[20:56:27] Chandler Clement diz: Vai se foder.
+[20:56:27] Christoper Walker diz: Foi meio chato!
+[20:56:27] Ace McKean diz: Não fale isso, eu quase não dormi quando vi.
+[20:56:30] Sage Dupont diz: Acho que a Bilua deve ter tido um compromisso, mas acredito que 
+[20:56:30] ...ela volte pra te encontrar, Bilu.
+[20:56:34] Christoper Walker diz: Bilu nao fez nada!
+[20:56:39] * [ANRP] Sinos ao redor da casa tocam, luzes coloridas se ascendem. Tudo 
+[20:56:39] ...indica que muito em breve a propriedade será aberta. *
+[20:56:42] Chandler Clement diz: Te quebro, palhaço do caralho.
+[20:56:43] Sage Dupont diz: Não deve ser nada demais.
+[20:56:44] Ace McKean diz: Eu moro no meio do nada... E você fala isso.
+[20:56:47] Lucca Wright diz: Vai abrir, vamos!
+[20:56:50] Mascarado_#1075492 diz: Vai se fuder.
+[20:56:50] * Iori Kurosawa levanta a asa da fantasia, faz o mesmo que os caras ao lado.
+[20:56:54] Chandler Clement diz: Viadão.
+[20:56:55] Eric Rafferty diz: Caralho, achei que tinha aberto.
+[20:57:05] Mascarado_#1075492 diz: Pizzaolo, hahaha'. Cada uma.
+[20:57:06] Juno Ishikawa diz: É pra entrar todo mundo junto?
+[20:57:07] (( Brigitte Castille (Desconectou-se) ))
+[20:57:11] Chandler Clement diz: Vai tomar no seu cú.
+[20:57:16] [baixo] Ashley Kelleher diz: A gente entra em fogo, isso aqui é moleza.
+[20:57:20] (( Thalia Guttman (Desconectou-se) ))
+[20:57:25] Mascarado_#1075492 diz: Cuidado pra não ter um infarto lá dentro, cair duro no chão.
+[20:57:29] Chandler Clement diz: Vai se foder mermão.
+[20:57:32] Chandler Clement diz: Vou quebrar tua cara.
+[20:57:40] * Eric Rafferty gargalha.
+[20:57:40] [baixo] Lorenzo Mingione diz: Quero ver quando alguém colocar uma faca na sua costela lá dentr
+[20:57:40] ...o.
+[20:57:40] [baixo] Diane Fontaine diz: Sim, eu estou tranquila.
+[20:57:40] Lucca Wright diz: Tá todo mundo aqui?
+[20:57:40] Chandler Clement diz: Me deixa em paz.
+[20:57:42] [baixo] Ace McKean diz: Fogo do dia-dia é diferente de fogo do inferno.
+[20:57:48] Sage Dupont diz: Acho que sim.
+[20:57:49] * Dale Mckenzie dropou um(a) "Boombox".
+[20:57:57] * Mascarado_#1038006 pega o item "Boombox" do chão.
+[20:57:58] ** Jogador Raymond Jones (ID: 10): A Wayfarer é tipo uma Electra Glide? Posso interpretá-la como um
+[20:57:58] ...a? **
+[20:58:02] [baixo] Ace McKean diz: Tá repreendido.
+[20:58:04] Eric Rafferty diz: O Diabo verde vai te pegar velhote.
+[20:58:08] [baixo] Lorenzo Mingione diz: Amor... Se alguém quiser te matar lá dentro, eu vou deixar e vou
+[20:58:08] ... sair correndo.
+[20:58:09] Chandler Clement diz: Vai tomar no cú.
+[20:58:13] * Eric Rafferty gargalha.
+[20:58:14] ** Sussurro para Sage Dupont (123): Sage, sabe os KKK? **
+[20:58:14] > Dakota Property sussurra algo para Sage Dupont.
+[20:58:19] ** Sussurro de Sage Dupont (123): Sim? **
+[20:58:24] Chandler Clement diz: Que porra é diabo verde?
+[20:58:33] Mascarado_#1075492 diz: Olha pra trás, que saberá.
+[20:58:37] [baixo] Diane Fontaine diz: Que belo namorado esse, não é?
+[20:58:43] [baixo] Lorenzo Mingione diz: Vamos deixar as duas de iscas pros diabos.
+[20:58:45] ** Sussurro para Sage Dupont (123): Eles foram inventados pelos democráticos, não pelos republicanos
+[20:58:45] .... Eles estão falando merda e nem sabem. **
+[20:58:45] > Dakota Property sussurra algo para Sage Dupont.
+[20:58:50] Lucca Wright diz: Tenho que tomar cuidado, ainda tem umas bolinhas no carregador d
+[20:58:50] ...a arma. Alguém pode tomar um tiro de airsoft sem querer se eu...
+[20:58:50] [baixo] Lorenzo Mingione diz: Elas morre e nós foge.
+[20:58:53] Lucca Wright diz: assustar.
+[20:58:54] Chandler Clement diz: Não fode, olhar pra trás só se for pra comer a bolota da tua mãe
+[20:58:54] ....
+[20:58:54] Eric Rafferty diz: Que demora.
+[20:58:57] ** Sussurro de Sage Dupont (123): Acontece, tem idiota pra tudo. **
+[20:59:01] Chandler Clement diz: Teu gordo do caralho.
+[20:59:05] [baixo] Diane Fontaine diz: Vocês são uns medrosos.
+[20:59:07] Mascarado_#1075492 diz: Você come olhos? Porra.
+[20:59:13] ** Sussurro para Sage Dupont (123): Me sinto um nerd por saber isso. **
+[20:59:13] > Dakota Property sussurra algo para Sage Dupont.
+[20:59:16] Braylen Fowler grita: Seus racistas desgraçados, se eu ver vocês pela rua eu arregaço 
+[20:59:16] ...vocês na porrada!
+[20:59:16] Chandler Clement diz: Num fode.
+[20:59:20] [baixo] Lorenzo Mingione diz: Vocês duas que tá com a perna bamba com medo.
+[20:59:23] [baixo] Lorenzo Mingione diz: Eu tô tranquilão.
+[20:59:36] [baixo] Diane Fontaine diz: Medo? Eu?
+[20:59:38] Mascarado_#1075492 diz: Licença.
+[20:59:46] ** Novato Rogerio Abravanel (ID: 136): ao **
+[20:59:46] Warning: Model 299 wouldn't load in time!
+[20:59:52] [baixo] Lorenzo Mingione diz: Estou tranquilão, sem medo e relaxado.
+[20:59:52] * Donatella Lattanzi abre a boca.
+[20:59:52] (( Deuce Dippolito (Desconectou-se) ))
+[20:59:54] Ashley Kelleher diz: Aham, o buraco da bala não passa nem wifi e tu falando isso ai.
+[21:00:01] [baixo] Lorenzo Mingione diz: Se o diabo vim pra cima, eu capoto na porrada.
+[21:00:08] Thierry Chapelle diz: Buuu.
+[21:00:12] Philipe White diz: Tá porra!
+[21:00:15] * Philipe White corre,
+[21:00:19] [Anúncio] [COMPRA-SE]Casa Mobiliada..Na faixa de quarenta mil. - PH: #9069641
+[21:00:22] * Braylen Fowler começa a procurar itens ilegais em Braylen Fowler.
+[21:00:23] Thierry Chapelle diz: Zé Pilintra vai te pegar.
+[21:00:26] Dakota Property diz: Modo soneca ativado! Boa noite!
+[21:00:26] * Philipe White reconhece a voz de Chapelle.
+[21:00:27] Thierry Chapelle diz: Buuu.
+[21:00:28] Philipe White diz: Vai se fode.
+[21:00:32] Thierry Chapelle diz: Haha.
+[21:00:36] (( [OOC] John Pimento (Hizesz): Cessem a briga e qualquer assunto que causou ela. Raramente temo
+[21:00:36] ...s um evento como esse, não estraguem. ))
+[21:00:46] Delmiro Fleck grita: VO MANDAR MATAR OCÊS E JOGAR O CORPO NA FOSSA, BANDO DE RACISTA 
+[21:00:46] ...CU DE XOXOTA!
+[21:01:12] Mascarado_#1075492 diz: Orran diacho.
+[21:01:19] * Donatella Lattanzi cospe o gelo longe com o comentário, gargalha alto,
+[21:01:24] Mascarado_#1038006 diz: Orran diachooo.
+[21:01:35] [baixo] Diane Fontaine diz: Por quê está com isso nas costas, Ace?
+[21:01:42] Thierry Chapelle grita: Abre isso aí, vamo derrubar tudo!
+[21:01:42] Mascarado_#1038006 diz: Vai ter peitinho.
+[21:01:43] |_______ EXTRATO ________|
+[21:01:43] Balanço: $2,320.
+[21:01:43] Salário: $1,000
+[21:01:43] Aluguel: -$125
+[21:01:43] Telefonia: $35
+[21:01:43] Taxas: $150
+[21:01:43] |_________________________|
+[21:01:43] Novo Balanço: $3,010
+[21:01:43] (( Double paycheck ativo ))
+[21:01:43] Philipe White diz: Que merda é essa?
+[21:01:43] Mascarado_#1038006 diz: Orran diachooo.
+[21:01:45] * Jeremiah Banks olha torto pros homens de branco.
+[21:02:09] [Anúncio] [OPORTUNIDADE] Não perca a Vinewood Dreams World Tour - o início da turnê das ca ...
+[21:02:09] [Anúncio] ... ntoras Sasha&Serena, na CASA DE HORRORES. - PH: #3909090
+[21:02:29] [baixo] Diane Fontaine diz: Vou comprar algo para comer, encontro vocês depois.
+[21:02:36] Juan Mendez grita: Abre logo isso!
+[21:02:38] Ashley Kelleher diz: Vai lpa.
+[21:02:53] (( [OOC] Serena Lagerfeld (Yoona): Difiram um roleplay troll de um roleplay natural que seu persona
+[21:02:53] ...gem faria. É Halloween em Los Santos, não uma marcha em ))
+[21:02:54] * Donatella Lattanzi o nariz começa a sangrar de maneira descontrolada.
+[21:02:58] Mascarado_#1075492 diz: Realmente, casa de horrores. Aquelas vozes malditas, chatas pra 
+[21:02:58] ...caralho.
+[21:03:04] (( [OOC] Serena Lagerfeld (Yoona): Charlottesville. Se continuar, todos vão tomar ajail. ))
+[21:03:10] Maxwell Wallner grita: Tributo a Tragheit tava melhor!
+[21:03:16] (( [55] Maxwell Wallner: miss ))
+[21:03:19] * Maxwell Wallner coloca a máscara em seu rosto.
+[21:03:28] * Chandler Clement tosse.
+[21:03:30] Thierry Chapelle diz: Ei meu guarda.
+[21:03:33] * Donatella Lattanzi cai de joelhos fraca no chão.
+[21:03:36] Thierry Chapelle diz: Fique aqui.
+[21:03:38] (rádio) Jamal Dunn: Cadê tu, tio?
+[21:03:43] Juan Mendez diz: Licença aí.
+[21:03:46] (rádio) Chandler Clement: Tô aqui na frente, sou o primeiro.
+[21:03:56] (rádio) Jamal Dunn: Dar frentinha ai?
+[21:04:02] (rádio) Chandler Clement: Se foder, sobrinho porra.
+[21:04:02] Dica: Segure {FFFF00}ESPAÇO{FFFFFF} para movimentar sua tela, pressione {FFFF00}ESC{FFFFFF} para finalizar a edição.
+[21:04:03] * Donatella Lattanzi pressiona o nariz e olha para o céu.
+[21:04:12] (rádio) Jamal Dunn: Beleza, vai tomar no teu cu então.
+[21:04:20] (rádio) Chandler Clement: Mais respeito, garoto.
+[21:04:20] Juno Ishikawa diz: Licença.
+[21:04:25] Julie Hiwsett diz: Que demora para abrir essa merda.
+[21:04:28] (rádio) Jamal Dunn: 'Tá.
+[21:04:30] Você cancelou a edição do item 'Chifres'. (Index: 1)
+[21:04:34] (( [OOC] Wil: Os jogadores que estiverem fazendo roleplay de supremacista no e
+[21:04:34] ...vento civil serão punidos. ))
+[21:04:37] Você acoplou o item {FFFF00}Chifres{FFFFFF} em seu corpo.
+[21:04:38] Juno Ishikawa diz: Brigada!
+[21:04:43] Juno Ishikawa diz: Oi, Bliss.
+[21:04:48] Juno Ishikawa diz: Voltei.
+[21:04:48] Bliss Depontier diz: Juno!
+[21:04:51] Bliss Depontier diz: Vem pra cá!
+[21:04:52] Juno Ishikawa diz: Foi uma luta pra achar o banheiro.
+[21:04:58] Warning: Model 299 wouldn't load in time!
+[21:05:05] * Braylen Fowler ajuda Donatella a voltar a se sentar na cadeira.
+[21:05:08] Philipe White diz: Cara que porra mais assustadora.
+[21:05:13] (( [OOC] Wil: Não esqueçam de tirar prints do evento para enviar para página d
+[21:05:13] ...o instagram, estaremos publicando elas nos stories. ))
+[21:05:38] (rádio) Lucca Wright: Tá todo mundo aqui?
+[21:05:38] Mascarado_#1090792 diz: Caralho, que demora.
+[21:05:42] [baixo] Bliss Depontier diz: Deveriam privar a entrada dessa gente, isso sim...
+[21:05:46] (( [75] Mascarado_#1038006: q? ))
+[21:05:46] Mascarado_#1090792 grita: Abre ai, caralho!
+[21:05:47] (( [75] Mascarado_#1038006: wtf ))
+[21:05:49] * Bliss Depontier cochicha com Ishikawa, revirando os olhos.
+[21:05:50] [baixo] Juno Ishikawa diz: Palhaçada.
+[21:05:53] Delmiro Fleck grita: BANDO DE BRANQUELO RACISTA, PELO MENOS NOIS TEM A PIROCA GRANDON
+[21:05:53] ...A!
+[21:05:53] (( [98] Leroy Turner: Quem tiver um pc feito de lenha nem venha pra esse evento kkkk ))
+[21:05:58] [baixo] Juno Ishikawa diz: Essa cidade é uma merda.
+[21:06:02] (( [98] Leroy Turner: leg do crl ))
+[21:06:03] (( [44] Iori Kurosawa: O meu tá travando mt cara, mds ))
+[21:06:04] (( [75] Mascarado_#1038006: q isso? ))
+[21:06:05] (( [64] Chandler Clement: legal, cuta o /b ))
+[21:06:07] Pedro Flores grita: OLHA O MACAAACO!
+[21:06:11] (( [138] Alexander Hugo: aqui também, cutei ))
+[21:06:13] Mascarado_#1075492 grita: Foda-se a sua piroca, para de encher o saco.
+[21:06:13] James Meter diz: Foi mal.
+[21:06:16] * Eric Manville passa olhando o corpo.
+[21:06:22] Jamal Dunn grita: Cala a boca aê!
+[21:06:23] (( James Meter (Desconectou-se) ))
+[21:06:25] Mascarado_#1090792 diz: E ai, cópia.
+[21:06:31] (( [98] Leroy Turner: Sim, o meu está travando já kkkkk ))
+[21:06:32] (( [OOC] Wil: Quem estiver com lag no local do evento devido a ter muitos joga
+[21:06:32] ...dores, usem /tog e desativem o nome dos jogadores. ))
+[21:06:51] ** Jogador Delmiro Fleck (ID: 13): CARAI ISSO FUNCIONOU MSM **
+[21:06:58] (( Thomas Bayles (Desconectou-se) ))
+[21:07:04] (( [116] Frank Biggs: melhora muito tirar o nick dos jogadores ))
+[21:07:04] Philipe White diz: Que demora cara.
+[21:07:09] (( [13] Delmiro Fleck: ss ))
+[21:07:14] (( [13] Delmiro Fleck: quem tiver lag segue a dica la ))
+[21:07:15] Mascarado_#1090792 diz: Palhaço feio da desgraça.
+[21:07:17] Daniel Archer diz: Sai da frente, caralho.
+[21:07:17] Frank Biggs grita: QUEREMOS ENTRAR!
+[21:07:19] Frank Biggs grita: QUEREMOS ENTRAR!
+[21:07:19] (( [13] Delmiro Fleck: tirou lag pra cacete ))
+[21:07:21] Alexander Hugo diz: Tão me espremendo aqui, socorro.
+[21:07:21] Bliss Depontier diz: Chocada com o Michael Myers aqui atrás, menina...
+[21:07:23] ** Jogador Iori Kurosawa (ID: 44): N entendi o pq que boicotaram o rp dos caras da kkk, wtf **
+[21:07:24] Mascarado_#1075492 diz: É pra combinar com você, irmão.
+[21:07:24] Jamal Dunn grita: VOU ENTRAR EMPURRANDO!
+[21:07:28] AdmCmd: Lilinsane foi banido off-line por EdTownley pelo motivo: Blacklist (Ryuk/On Sane).
+[21:07:31] Frank Biggs grita: QUEREMOS ENTRAR!
+[21:07:36] Juno Ishikawa diz: Fantasia boa, hein?
+[21:07:38] Juno Ishikawa diz: Ficou igualzinho.
+[21:07:39] Pedro Flores grita: OLHA O MACACO!
+[21:07:40] * Delmiro Fleck da um peidão estrondoso.
+[21:07:43] Mascarado_#1090792 grita: Abre!
+[21:07:43] Robert Setzer diz: Cadê ele?
+[21:07:44] Julie Hiwsett diz: Meu Deus.
+[21:07:50] Bliss Depontier diz: Que tudo.
+[21:07:52] ** Jogador Raymond Jones (ID: 10): Use o /n para coisas realmente importantes. **
+[21:07:52] Leandra Palmira diz: Vamos embora daqui.
+[21:07:52] Kyle Bradshaw diz: Quem?
+[21:07:53] Delmiro Fleck grita: QUEM PEIDOU?
+[21:07:54] * Frank Biggs sente o forte cheiro de merda.
+[21:07:55] Jamal Dunn grita: O CARA PEIDOU!
+[21:07:55] Christoper Walker diz: Quer cheiro de bosta!
+[21:07:57] Anna Parker diz: ´
+[21:08:00] Delmiro Fleck grita: FOI OS CARAS DE BRANCO!
+[21:08:00] (rádio) Saul Bayles: Cade vocês?
+[21:08:02] Jamal Dunn grita: EITA CARALHO, QUE CHEIRO DE CU !
+[21:08:05] Eric Manville diz: Licença.
+[21:08:05] [baixo] Dale Mckenzie diz: Aqui é a boate?
+[21:08:06] Delmiro Fleck grita: FOI OS CARAS DA KUKLUX CLAN!
+[21:08:10] Robert Setzer diz: O...
+[21:08:12] Ace McKean diz: Ah cara, que futum...
+[21:08:12] * Mascarado_#1090792 cutuca Eric sem motivo nenhum.
+[21:08:15] Robert Setzer diz: Rapaz lá.
+[21:08:15] Frank Biggs grita: SÓ PODE TER SIDO UM PRETO.
+[21:08:16] Owen Stewart diz: Que fila.
+[21:08:18] Owen Stewart diz: Puta merda.
+[21:08:20] Robert Setzer diz: Tu sabe?
+[21:08:21] (rádio) Lucca Wright: Vem cá no negócio de Halloween.
+[21:08:22] * Eric Manville procura que o cutucou.
+[21:08:26] (rádio) Delmiro Fleck: PELO MENOS NOIS TEM A ROLA GRANDONA!
+[21:08:28] Brigitte Castille diz: Gente?
+[21:08:28] Isaac Gaspar grita: Calem-se caralho.
+[21:08:30] ** Jogador Jamal Dunn (ID: 45): DM **
+[21:08:30] (( [30] Anna Parker: ???? ))
+[21:08:31] (( [16] Kyle Bradshaw: LOL ))
+[21:08:32] (( [98] Leroy Turner: hacvkkkkkkkkkkkk ))
+[21:08:32] Shamondre Hortley grita: UHUUUUUUUUUUU!
+[21:08:32] (( [121] Mascarado_#1075492: gWTF ))
+[21:08:33] (( [97] Julie Hiwsett: '-' ))
+[21:08:34] Ace McKean grita: Aqui!
+[21:08:34] (( [88] Edward Benson: Pqp ))
+[21:08:35] (rádio) Eric Manville: Tiros!
+[21:08:35] (( [48] Lorran Bruce: kkkkkkkkkkkkkkkk ))
+[21:08:36] (( [20] Cassiel Rodriguez: dm em massa ))
+[21:08:36] Shamondre Hortley grita: TIRO PORRA, GOSTEI!
+[21:08:36] ** Jogador Adolphe Gauthier (ID: 121): DM **
+[21:08:37] (( [64] Chandler Clement: CARALHO É DM7 ))
+[21:08:38] Shamondre Hortley grita: MORRE CARALHO!
+[21:08:38] Pedro Flores grita: PEGA O MACAAACO!
+[21:08:40] (( [45] Jamal Dunn: MEU DEUS KKKKKKKKKKKKKK ))
+[21:08:40] Shamondre Hortley grita: MORRE CARALHO!
+[21:08:41] ** Admin Michael Hunner (Wil) (ID: 102): so fazer rp de ze gotinha com essas skins brancas ai **
+[21:08:42] Pedro Flores grita: OLHA O MACACOOO!
+[21:08:43] ** Jogador Cassiel Rodriguez (ID: 20): trolaram o evento pqp **
+[21:08:43] (( [45] Jamal Dunn: eita porra ))
+[21:08:45] (( [88] Edward Benson: Alguém tá de sniper atirando a distancia kkkk ))
+[21:08:45] (( [97] Julie Hiwsett: wrtf mano ))
+[21:08:46] ** Jogador Sage Dupont (ID: 123): DM VINDO DO PRÉDIO NO OUTDOOR **
+[21:08:47] ** Jogador Nathalia Torner (ID: 69): Ah é? Fala aonde né. **
+[21:08:47] (( [82] Dakota Property: noice ))
+[21:08:50] (( [98] Leroy Turner: esconde ))
+[21:08:51] Frank Biggs grita: EM CIMA DO PRÉDIO!
+[21:08:58] (( [132] Deuce Dippolito: cade esse mlk, bota a cara vai ficar sem bigode ))
+[21:09:00] (( PM enviada para Sage Dupont (ID: 123): finge d emorto ))
+[21:09:04] AdmCmd: Oscar Covarrubias foi banido por Wil pelo motivo: falou.
+[21:09:06] (( [45] Jamal Dunn: de fuder ))
+[21:09:07] Bruce James diz: CARALHO PORRA.
+[21:09:08] (( [97] Julie Hiwsett: porra ))
+[21:09:10] (( [129] Philipe White: TOMOU ))
+[21:09:10] (( PM enviada para Deuce Dippolito (ID: 132): finge de morto ))
+[21:09:13] (( [77] Pedro Flores: TONELADA ))
+[21:09:13] (( [45] Jamal Dunn: ihuuu, tomou ))
+[21:09:13] (( [12] Bliss Depontier: hurr durr ))
+[21:09:14] (( [102] Michael Hunner: calma ae que vamos reviver ))
+[21:09:15] (( [129] Philipe White: tomou um banbonito ))
+[21:09:15] (( [97] Julie Hiwsett: tá impossível participar desse evento ))
+[21:09:15] (( [77] Pedro Flores: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[21:09:16] (( [30] Anna Parker: falou ))
+[21:09:22] (( [48] Lorran Bruce: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[21:09:24] (( [20] Cassiel Rodriguez: os cara de sniper ))
+[21:09:25] (( [45] Jamal Dunn: sem escandalo familia ))
+[21:09:25] Delmiro Fleck grita: MASSACRE DO HALLOWEEN!
+[21:09:26] Delmiro Fleck grita: MASSACRE DO HALLOWEEN!
+[21:09:26] (( [82] Dakota Property: cabô? ))
+[21:09:26] (( [88] Edward Benson: kkk ))
+[21:09:27] Jason Arcuri diz: ;stats
+[21:09:28] Christopher Visalli diz: Tem morto pra caralho.
+[21:09:31] Alexander Hugo grita: CARALHOOOOO!
+[21:09:32] Christopher Visalli diz: Faz parte da atração!
+[21:09:32] (( [64] Chandler Clement: foda ))
+[21:09:42] * Frank Biggs mijar em cima dos defuntos pretos.
+[21:09:42] (( [118] Eric Rafferty: kkkkkkkkkkkkkkkkk eu correndo lagado ))
+[21:09:42] Ace McKean diz: Cara, tu tá bem ai?
+[21:09:42] (( [44] Iori Kurosawa: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[21:09:42] (( [45] Jamal Dunn: to travado ))
+[21:09:42] (( [30] Anna Parker: n interpreta cara ))
+[21:09:42] (( [41] Brenda Titus: krl ))
+[21:09:42] Christopher Visalli grita: FAZ PARTE DA ATRAÇÃO, NÃO SE PREOCUPEM!
+[21:09:43] (( [57] Bruce James: KKKKKKKKKKKKKKK ))
+[21:09:43] (( [OOC] Dario Beasley (Kevboy): qm morreu no evento /pm ))
+[21:09:43] (( [45] Jamal Dunn: to travado ))
+[21:09:46] Delmiro Fleck grita: CARAI FIZERAM UM MASSACRE, FORAM TERRORISTAS.
+[21:09:47] (( [138] Alexander Hugo: meu DEUS QUE PORRA É ESSA KKKKKKKKKKKKKKKKKKKKKKKKKK ))
+[21:09:49] Mascarado_#1090792 grita: É tudo tiro de borracha!
+[21:09:52] (( [118] Eric Rafferty: KKKKKKKKKKKKK ))
+[21:09:55] (( [64] Chandler Clement: fizeram DM7 wtf ))
+[21:09:55] Saul Bayles diz:  /q
+[21:09:58] (( [12] Bliss Depontier: gente eh pra ignorar, plmdds... ))
+[21:09:59] (( [118] Eric Rafferty: ATRAÇÃO DA NOITE: MORTE EM MASSA ))
+[21:09:59] (( [116] Frank Biggs: É TIRO DE BORRACHA GAERA, NAO INTERPRETA ))
+[21:10:03] (( [91] {408080}Leandro Palacino{AFAFAF}: para de bater ))
+[21:10:05] (( [91] {408080}Leandro Palacino{AFAFAF}: PARA DE BATER ))
+[21:10:05] Pedro Flores grita: OLHA O MACAAACO!
+[21:10:08] (( [OOC] Dario Beasley (Kevboy): Obviamente, é pra ignorar as mortes no evento. ))
+[21:10:10] AdmCmd: Lucas kickou o jogador Shamondre Hortley por: DM.
+[21:10:10] (( Shamondre Hortley foi kickado pelo administrador/tester Lucas pelo motivo: DM ))
+[21:10:10] (( Shamondre Hortley (Kickado/Banido) ))
+[21:10:12] (( Brigitte Castille (Problema de Conexão/Crash) ))
+[21:10:16] (( [45] Jamal Dunn: bati sem querer ))
+[21:10:17] (( [110] Daniel Archer: Bara de bater caralho ))
+[21:10:18] (( [69] Nathalia Torner: mds to a 3 fps ))
+[21:10:24] (( Edward Benson (Problema de Conexão/Crash) ))
+[21:10:25] (( [116] Frank Biggs: ISSO AQUI TA PARECENDO A FRANÇA ))
+[21:10:26] (( [110] Daniel Archer: Jamal doente ))
+[21:10:28] (( [57] Bruce James: to a 14, cutei ))
+[21:10:30] (( [110] Daniel Archer: Nao bate porra  ))
+[21:10:30] (( [44] Iori Kurosawa: kkkkkkkkkkkkk ))
+[21:10:36] * * Iori Kurosawa derrubou Ezekiel Cameron no chão.
+[21:10:37] (( [45] Jamal Dunn: CUTA AE ))
+[21:10:42] (( [44] Iori Kurosawa: wtf ))
+[21:10:44] (( [44] Iori Kurosawa: mb ))
+[21:10:44] Frank Biggs diz: Minha nossa.
+[21:10:47] (( [91] {408080}Leandro Palacino{AFAFAF}: sai de perto da porta ))
+[21:10:48] ** Jogador Frederico Onewar (ID: 112): Só para mim tá um lag infernal próximo ao casarão do evento?] **
+[21:10:50] Mascarado_#1090792 grita: Abre!
+[21:10:53] (( [102] Michael Hunner: afasta ae ))
+[21:10:54] (( [91] {408080}Leandro Palacino{AFAFAF}: por favor ))
+[21:10:56] (( [97] Julie Hiwsett: caralho que troll é esse? ))
+[21:10:57] (( [91] {408080}Leandro Palacino{AFAFAF}: dá uma afstada ))
+[21:10:57] (( [42] {408080}Dario Beasley{AFAFAF}: afasta da porta guys ))
+[21:10:58] (( [121] Mascarado_#1075492: afasta. ))
+[21:11:02] ** Jogador Matthew Dylan (ID: 93): /tog > desabilitar o nome dos jogadores **
+[21:11:03] ** Jogador Daniel Archer (ID: 110): Desativa os nomes dos jogadores no /tog **
+[21:11:04] ** Jogador Ace McKean (ID: 125): /tog >> nome dos jogadores e desativa **
+[21:11:07] ** Jogador Delmiro Fleck (ID: 13): Frederico tenta desativar o nick no /tog, eu fiz isso e ajudou, 
+[21:11:07] ...fui de uns 5fps pra 22 **
+[21:11:14] (( [102] Michael Hunner: LA VAI PREPAREM! ))
+[21:11:20] (( [45] Jamal Dunn: AEEEEEEEEEE ))
+[21:11:23] (( [125] Ace McKean: mals ))
+[21:11:24] (( [102] Michael Hunner: abriu! ))
+[21:11:26] (( [102] Michael Hunner: GOGO ))
+[21:11:26] (( [118] Eric Rafferty: vai geral bugar na entrada ))
+[21:11:26] Frank Biggs grita: QUEREMOS ENTRAR!
+[21:11:31] Ace McKean diz: Vamos?
+[21:11:31] Pedro Flores grita: OLHA O MACACOO!
+[21:11:37] [DENTRO] Samara Morgan grita: Atenção, aqui.
+[21:11:38] [DENTRO] Pedro Flores grita: MACAAACO!
+[21:11:39] Dakota Property diz: Acho melhor esperar...
+[21:11:40] [DENTRO] Shamondre Hortley grita: HALLOWEEN PORRA!
+[21:11:42] Sage Dupont diz: Melhor esperar.
+[21:11:43] [DENTRO] Anna Parker grita: JAM!
+[21:11:45] Dakota Property diz: É muita gente.
+[21:11:46] Lucca Wright diz: Meu Deus.
+[21:11:48] Frederico Onewar grita: AEEEEEEEEEEEE-HOOOOOOOOOOOOOOOOOOOOOOO!
+[21:11:50] Lorenzo Mingione diz: Vem, vamos.
+[21:12:06] (rádio) Lucca Wright: Esquerdo cara, tu é cego?
+[21:12:39] Lucca Wright diz: Ok, se algum bicho vier em mim eu jogo você na frente.
+[21:12:42] Dakota Property diz: Oss...
+[21:12:43] ** Jogador Chandler Clement (ID: 64): é só quantos level? **
+[21:12:44] Sage Dupont diz: Ata.
+[21:12:53] Warning: Model 299 wouldn't load in time!
+[21:12:54] Warning: Model 299 wouldn't load in time!
+[21:13:20] Warning: Model 299 wouldn't load in time!
+[21:13:40] Jamal Dunn grita: CARALHO, QUE FODA!
+[21:13:59] Warning: Model 299 wouldn't load in time!
+[21:14:00] ** Você pode ouvir a campainha tocar.
+[21:14:02] Warning: Model 299 wouldn't load in time!
+[21:14:08] Deuce Dippolito diz: Bora, bora.
+[21:14:09] [Anúncio] [COMPRA-SE] Casa mobiliada. - PH: #9069641
+[21:14:10] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[21:14:11] [DENTRO] Jamal Dunn grita: SOCORRO!
+[21:14:11] Mascarado_#1075492 grita: BUG!
+[21:14:12] Mascarado_#1075492 grita: BUH!
+[21:14:16] Warning: Model 299 wouldn't load in time!
+[21:14:17] Jamal Dunn grita: CORRE!
+[21:14:20] Antoine Petit grita: MEU DEUS!
+[21:14:20] Lucca Wright grita: SENHOR AMADO!
+[21:14:26] Deuce Dippolito grita: MEU PAI DO CÉU!
+[21:14:27] Lorran Bruce grita: COMO SAI DAQUI CARALHO !
+[21:14:30] Lorran Bruce grita: TO COM MEDO!
+[21:14:32] Ace McKean grita: AHHHHHHHHHHH!
+[21:14:36] Antoine Petit grita: SOCORRO!
+[21:14:40] Levi Petit grita: SOCORRO!
+[21:14:41] Levi Petit grita: SOCORRO!
+[21:14:44] Levi Petit grita: SOCORRO!
+[21:14:46] Shamondre Hortley grita: TODO MUNDO VAI MORRER PORRAAAAAAAAAAA!
+[21:14:49] Levi Petit grita: SOCORRO!
+[21:14:56] Dakota Property diz: Ah...
+[21:15:09] Dakota Property diz: Puta que pariu!
+[21:15:16] Lucca Wright diz: Caralho!
+[21:15:20] Sage Dupont diz: Que porra foi essa.
+[21:15:22] Jamal Dunn grita: HAHAHA!
+[21:15:22] Dakota Property diz: Que merda foi aquela?
+[21:15:23] Mascarado_#1090792 diz: Caralho.
+[21:15:23] Lucca Wright diz: Susto da porra, senhor.
+[21:15:27] Chandler Clement diz: Acabou.
+[21:15:28] Eric Rafferty diz: CARALHO.
+[21:15:28] Mascarado_#1038006 diz: Cê tá maluco.
+[21:15:28] Jamal Dunn grita: QUE FODA!
+[21:15:37] * Luca White insere a chave na ignição e liga o motor.
+[21:15:41] Eric Rafferty diz: Tá maluco.
+[21:15:54] Levi Petit diz: Porra!
+[21:15:54] Brendon Matsuo diz: Querem matar geral do coração.
+[21:15:56] Sage Dupont diz: Eu achei que ia ser tosco igual o primeiro nível.
+[21:16:00] Dakota Property diz: Pelos meus calculos, acho que me caguei.
+[21:16:05] Bruce James diz: Porra.
+[21:16:06] Deuce Dippolito diz: Caralho...
+[21:16:06] Bruce James diz: Que merda.
+[21:16:10] Levi Petit diz: Que medo da porra.
+[21:16:12] Lucca Wright diz: Eu dei de cara com o maluco da serra.
+[21:16:14] Eric Rafferty diz: /STOPANIM
+[21:16:14] Brenda Titus diz: CARALHO!
+[21:16:20] * Brenda Titus sai toda suada e assustada.
+[21:16:23] Deuce Dippolito diz: FODA PRA CARALHO!
+[21:16:23] Levi Petit diz: Oi, ex cunha!
+[21:16:27] Ace McKean diz: Socorro.
+[21:16:27] ** Jogador Delmiro Fleck (ID: 13): Pode bater nos cara da serra? **
+[21:16:28] Brenda Titus diz: Puta merda.
+[21:16:29] Ace McKean diz: Avê Maria!
+[21:16:33] Sage Dupont diz: Eu levei uma porrada dele.
+[21:16:35] Brenda Titus diz: Eu quero de novo!
+[21:16:38] * Bliss Depontier retira-se da casa com o pânico explícito. Recosta a mão no peito
+[21:16:38] ... e suspira, procurando pelas amigas.
+[21:16:39] Warning: Model 299 wouldn't load in time!
+[21:16:41] Sage Dupont diz: A sorte é que não machuca.
+[21:16:42] Ace McKean diz: Porra, foi massa!
+[21:16:44] Deuce Dippolito diz: Vamo' de novo, foda-se!
+[21:16:45] ** Novato Rogerio Abravanel (ID: 136): algum adm pra atender sos ? **
+[21:16:47] Brenda Titus diz: Vamo', vamo?
+[21:16:53] Levi Petit diz: MEU DEUS!
+[21:16:54] Levi Petit diz: MEU DEUS!
+[21:16:56] Lucca Wright diz: Vamos de novo, vem!
+[21:16:57] ** Jogador Martin Costa (ID: 81): vai ter algum evento de halloween? **
+[21:16:59] Levi Petit diz: TO COM O CU NA MÃO!
+[21:17:01] TesterCmd: fabinho kickou o jogador Shamondre Hortley por: Não bate nos monstros.
+[21:17:04] ** Jogador Patrick Collins (ID: 105): tá tendo. **
+[21:17:06] Lucca Wright diz: Vamo', vamo'!
+[21:17:31] Deuce Dippolito diz: Vamo'.
+[21:17:38] Brenda Titus (celular): Você precisa vir na casa dos horrores.
+[21:17:40] Brenda Titus (celular): AGORA.
+[21:17:44] Brenda Titus (celular): Posto norte, vem.
+[21:17:53] Brenda Titus (celular): Te espero na recepção. Anda logo, cacete.
+[21:17:56] Warning: Model 299 wouldn't load in time!
+[21:17:56] Warning: Model 299 wouldn't load in time!
+[21:18:06] Bruce Petit (celular): Tem tipo um lago sei lá.
+[21:18:07] Levi Petit diz: O VELHO!
+[21:18:08] Brenda Titus (celular): Tô no nível 1.
+[21:18:11] Bruce Petit (celular): LEVI!
+[21:18:12] Levi Petit diz: VAMOS ESPERAR!
+[21:18:12] Brenda Titus (celular): É. Olha pra entrada.
+[21:18:17] Lucca Wright diz: Vamos esperar o Bruce.
+[21:18:20] Brenda Titus (celular): Meu Deus?
+[21:18:22] (rádio) Lucca Wright: Bruce?
+[21:18:22] Brenda Titus diz: US ARMY?
+[21:18:24] Gregory Edwards diz: Só vocês soldados podem salvar a gente.
+[21:18:24] Lucca Wright diz: Ah.
+[21:18:25] Gregory Edwards diz: Lá dentro.
+[21:18:26] Bruce Petit diz: Tô vivo.
+[21:18:31] Dakota Property diz: Tem mais níveis?
+[21:18:36] Bruce Petit diz: Que merda tá rolando?
+[21:18:36] Sage Dupont diz: Não sei, talvez.
+[21:18:36] Brenda Titus diz: Bora gente.
+[21:18:37] Gregory Edwards diz: Só os caras de moto serra , massacrando geral.
+[21:18:39] Lucca Wright diz: Vamos todos juntos, a gente se separou no segundo.
+[21:18:43] * Mascarado_#1061844 balança a espada, ameaça atacar.
+[21:18:43] Dakota Property diz: Bora ver pela esquerda.
+[21:18:44] Brenda Titus diz: Ok.
+[21:18:46] (( [OOC] Dario Beasley (Kevboy): Pessoal, não é pra bater nos atores. ))
+[21:18:47] Bruce Petit diz: SOLDADOS, POSIÇÃO!
+[21:18:48] Deuce Dippolito diz: Vamo' junto.
+[21:18:49] Mascarado_#1061844 grita: SAIAM DAQUI!
+[21:18:49] Bruce Petit diz: Bora.
+[21:18:58] * Brenda Titus se junta como civil no exército dos horrores.
+[21:19:02] Bruce Petit grita: MISERICÓRDIA, CORRE!
+[21:19:08] ** Jogador Frank Biggs (ID: 116): Bater nos atores é legítima defesa? **
+[21:19:18] ** Jogador Chandler Clement (ID: 64): É normal morrer pelos atores? **
+[21:19:18] ** Jogador Romeo Hountree (ID: 128): Entra na brincadeira, irmão **
+[21:19:19] (( [12] Bliss Depontier: miss ))
+[21:19:28] [Anúncio] [COMPRO] Faca para pesca. - PH: #1276969
+[21:19:29] [DENTRO] Eric Rafferty grita: MATARAM O CARA AQUI PORRA!
+[21:19:30] [DENTRO] Eric Rafferty grita: MATARAM O CARA AQUI PORRA!
+[21:19:35] * Alexander Hugo dá uma respirada funda, tá assustado.
+[21:19:44] Brenda Titus diz: No três?
+[21:19:46] TesterCmd: Campos kickou o jogador Ace McKean por: Não bate nos monstros..
+[21:19:50] * Katherine McMillian ouve alguns gritos, fica apreensiva.
+[21:19:53] * Frank Biggs está com muito medo.
+[21:19:55] Warning: Model 299 wouldn't load in time!
+[21:19:55] (( [OOC] April Pierloff (Beatriz): Gente, só pra avisar: São 2 níveis além da recepção, vocês tem q
+[21:19:55] ...ue encontrar uma forma de sair da casa. ))
+[21:19:57] Warning: Model 299 wouldn't load in time!
+[21:19:57] Alexander Hugo diz: Eu sei a saída... Me segue.
+[21:19:59] Anna Parker grita: JA,!
+[21:20:02] Anna Parker grita: JAM!
+[21:20:04] Brenda Titus diz: Calma, calma.
+[21:20:04] Lucca Wright diz: Puta que pariu.
+[21:20:14] (( [OOC] April Pierloff (Beatriz): Não é para sair batendo nos monstros, nem fazendo bunnyhopping n
+[21:20:14] ...em nada, ajam feito gente, interpretando sustos e etc. ))
+[21:20:17] TesterCmd: Campos kickou o jogador Delmiro Fleck por: Não bate nos monstros..
+[21:20:17] (( Delmiro Fleck foi kickado pelo administrador/tester Campos pelo motivo: Não bate nos monstros. ))
+[21:20:17] Deuce Dippolito grita: MEU CARALHO!
+[21:20:17] (( Delmiro Fleck (Kickado/Banido) ))
+[21:20:26] Bruce Petit grita: CORRE CARALHO!
+[21:20:27] Gregory Edwards grita: CHEGOU OS SOLDADOS PORRA!
+[21:20:29] * Eric Rafferty respira ofegante.
+[21:20:36] Dakota Property diz: Que porra..,
+[21:20:40] Katherine Hunner grita: Meeeeu Deuuus!
+[21:20:41] Gregory Edwards grita: CHEGOU OS SOLDADOS PORRA!
+[21:20:42] Gregory Edwards grita: CHEGOU OS SOLDADOS PORRA!
+[21:20:47] Dakota Property diz: É SEM SAÍDA
+[21:20:56] Antoine Petit grita: SOCORRO!
+[21:20:57] Antoine Petit grita: SOCORRO!
+[21:21:00] * Brenda Titus tá ultra ofegante.
+[21:21:03] Antoine Petit grita: SOCORRO, ELE TÁ VINDO!
+[21:21:06] Antoine Petit grita: ELE!
+[21:21:07] Bruce Petit grita: MORREMO!
+[21:21:08] Lucca Wright diz: CORRE!
+[21:21:10] SERVER: Você não possuia nenhuma arma quando morreu.
+[21:21:15] -> Você está morto agora. Você precisa esperar 120 segundos e você poderá utilizar o comando /respawnhosp.
+[21:21:17] ** Jogador Patrick Collins (ID: 105): até q hrs é o evento? **
+[21:21:17] * Leandro Palacino reviveu seu personagem.
+[21:21:24] TesterCmd: Campos kickou o jogador Leroy Turner por: ESC no evento..
+[21:21:24] (( Leroy Turner foi kickado pelo administrador/tester Campos pelo motivo: ESC no evento. ))
+[21:21:24] (( Leroy Turner (Kickado/Banido) ))
+[21:21:30] (( PM de {408080}Dario Beasley{FBD918} (ID: 42): ql nick tu quer extreme ))
+[21:21:44] Mascarado_#1090792 diz: Okay.
+[21:21:45] Warning: Model 299 wouldn't load in time!
+[21:21:46] Bruce Petit diz: DE NOVO!
+[21:21:47] * Deuce Dippolito sai quase se cagando de medo.
+[21:21:48] Bruce Petit diz: VAMOS!
+[21:21:49] Brenda Titus diz: MEU DEEEUS!
+[21:21:55] (( PM enviada para {408080}Dario Beasley{ECE641} (ID: 42): PM errado? ))
+[21:21:55] Lucca Wright diz: O cara veio bem atrás de mim!
+[21:21:56] Levi Petit diz: Lá dentro eu fico em pânico.
+[21:21:57] * Maxwell Wallner remove a máscara de seu rosto.
+[21:21:57] Bruce Petit diz: Vamo' de novo, foda-se.
+[21:22:05] Brenda Titus diz: Ei, vamo' todo mundo junto dessa vez?
+[21:22:05] Christoper Walker grita: Busquem conhecimento!
+[21:22:09] Antoine Petit grita: BORA DE NOVO!
+[21:22:09] (( PM de {408080}Dario Beasley{FBD918} (ID: 42): s ))
+[21:22:10] * Seria visível o suor escorrendo pelo rosto de Maxwell. (( Maxwell Wallner ))
+[21:22:12] Deuce Dippolito diz: Dei uma maletada sem querer em um.
+[21:22:19] (( PM enviada para {408080}Dario Beasley{ECE641} (ID: 42): que susto kkkk ))
+[21:22:19] * Maxwell Wallner coloca a máscara em seu rosto.
+[21:22:21] Dante Webster diz: Foi fácil.
+[21:22:22] Lucca Wright diz: De novo?
+[21:22:24] Bruce Petit diz: Bora.
+[21:22:28] Lucca Wright diz: A última vez.
+[21:22:28] * Alexander Hugo pendura a máscara no braço, fica sem ela um tempo.
+[21:22:31] Levi Petit diz: Vamos,
+[21:22:31] Você acoplou o item {FFFF00}Chifres{FFFFFF} em seu corpo.
+[21:22:33] Lucca Wright diz: Vocês vem?
+[21:22:33] Christoper Walker grita: Busquem conhecimento!
+[21:22:35] Você acoplou o item {FFFF00}Lanterna{FFFFFF} em seu corpo.
+[21:22:36] Deuce Dippolito diz: A última.
+[21:22:39] Sage Dupont diz: Ah, pode ser.
+[21:22:40] Você acoplou o item {FFFF00}Lanterna{FFFFFF} em seu corpo.
+[21:22:40] Mascarado_#1090792 grita: Cadê a boombox!
+[21:22:42] Lucca Wright diz: A última vez.
+[21:22:43] Sage Dupont diz: Uma última rodada.
+[21:22:43] Você acoplou o item {FFFF00}Maleta{FFFFFF} em seu corpo.
+[21:22:45] Mascarado_#1090792 grita: Cadê a boombox?
+[21:22:46] Sage Dupont diz: Isso!
+[21:22:54] (rádio) Lucca Wright: Esperem!
+[21:23:03] [DENTRO] * Samara Morgan passa a faca na língua, exibindo um sorriso aterrorizante aos al
+[21:23:03] ...i presentes.
+[21:23:10] Christoper Walker grita: Busquem conhecimento!
+[21:23:15] (rádio) Lucca Wright: Ceis vão ou não?
+[21:23:18] Lucca Wright diz: Acho que desistiram.
+[21:23:21] Sasha Lagerfeld diz: Amei seu look.
+[21:23:29] ** Novato Rogerio Abravanel (ID: 136): obrigado **
+[21:23:30] Christoper Walker diz: Obrigado!
+[21:23:34] Warning: Model 299 wouldn't load in time!
+[21:23:34] ** Admin Michael Hunner (Wil) (ID: 102): disponha **
+[21:23:47] ** Jogador Sasha Cuffee (ID: 75): Ainda ocorre o "Evento"? Acabei de entrar. **
+[21:23:54] ** Jogador Adolphe Gauthier (ID: 121): sim **
+[21:23:55] ** Jogador Kendrick Townsend (ID: 126): Sim, brota. **
+[21:24:15] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:24:21] (( [OOC] April Pierloff (Beatriz): Lembrando que além da casa dos horrores ainda vai ter shows de m
+[21:24:21] ...úsica. ))
+[21:25:25] [Anúncio] [COMPRO] Moto em bom estado. - PH: #1753000
+[21:25:30] > Dakota Property aspira.
+[21:25:32] _____________________________________________
+[21:25:32] USE: /cigarro [opção]
+[21:25:32] [Opções]: fumar, apagar, boca, mão, dropar, dar
+[21:25:32] * Você possui 8 cigarros.
+[21:25:32] _____________________________________________
+[21:25:53] [USE]: /fumar [1-3]
+[21:26:25] * Maxwell Wallner remove a máscara de seu rosto.
+[21:26:33] Christoper Walker diz: O menina!
+[21:26:44] [Anúncio] [COMPRO] Faca para pesca. - PH: #1276969
+[21:26:49] * Philipe White insere a chave na ignição e liga o motor.
+[21:26:58] ** Jogador Jeffrey Truncale (ID: 151): Qual é o tipo de mascara que pode ser utilizada em assaltos? **
+[21:27:05] AdmCmd: Paris kickou o jogador Tanya Banks por: Troll.
+[21:27:08] ** Jogador Chandler Clement (ID: 64): Qualquer uma. **
+[21:27:15] ** Jogador Raymond Jones (ID: 155): Qualquer uma, mas pra esconder seu nick name é a que compra no 2
+[21:27:15] ...4/7 **
+[21:27:46] Warning: Model 299 wouldn't load in time!
+[21:27:49] Nathalia Torner diz: Boa noite!
+[21:27:58] Nathalia Torner diz: Já ouviu falar de poções mágicas?
+[21:28:00] > Dakota Property coloca o cigarro num cantinho.
+[21:28:13] (( Franklin Garrett (Desconectou-se) ))
+[21:28:20] _____________________________________________
+[21:28:20] USE: /cigarro [opção]
+[21:28:20] [Opções]: fumar, apagar, boca, mão, dropar, dar
+[21:28:20] * Você possui 7 cigarros.
+[21:28:20] _____________________________________________
+[21:28:23] AdmCmd: Lucas kickou o jogador Leroy Turner por: AFK no evento.
+[21:28:30] AdmCmd: Beatriz kickou o jogador Chris Eskridge por: AFK.
+[21:28:34] Nathalia Torner diz: Temos a que tira sua barriguinha de chop.
+[21:28:42] Ezekiel Cameron diz: Olha aquilo.
+[21:28:47] Frederico Onewar diz: Tenho pavor da morte.
+[21:28:47] Mascarado_#1090792 diz: Tem uma banda nova.
+[21:28:54] Jamal Dunn diz: Beleza.
+[21:29:00] * Peter Flaherty pega a sua boombox do chão.
+[21:29:02] Mascarado_#1090792 diz: Vamo ver se eles são bons.
+[21:29:03] Jamal Dunn diz: Tu tá de veículo?
+[21:29:03] Chandler Clement diz: Vou pegar o dinheiro, já venho.
+[21:29:09] Mascarado_#1090792 diz: Tô.
+[21:29:14] Jamal Dunn diz: Me leva ali?
+[21:29:18] Noah Paddington diz: Vamos descer, depois a gente sobe.
+[21:29:19] Mascarado_#1090792 diz: Onde?
+[21:29:22] Jamal Dunn diz: Victim.
+[21:29:30] Mascarado_#1090792 diz: Bora.
+[21:29:33] > Dakota Property olha o helicóptero.
+[21:29:47] ** Jogador Raymond Jones (ID: 155): Pode guardar as fantasias pra mim no guarda-roupa? **
+[21:29:52] Bliss Depontier (celular): Ai, meu Deus. Eu tô muito assustada.
+[21:29:55] Bliss Depontier (celular): Não, eu acabei de sair!
+[21:29:56] ** Jogador Bruce Petit (ID: 107): Não da. **
+[21:30:12] ** Tester Kaiden Shackleford (Campos) (ID: 109): Dá, mas creio eu que quando sair do servidor, não vai está mais 
+[21:30:12] ...disponível. **
+[21:30:12] (( [OOC] Samara Morgan (Paris): Não esqueçam de tirar SS's com as suas fantasias e interagindo n
+[21:30:12] ...o evento. As melhores vão para os stories do Instagram. ))
+[21:30:17] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[21:31:13] Wendy Hayworth diz: Eles acham que pessoas negras não comemoram o Halloween ou algum
+[21:31:13] ...a coisa assim?
+[21:31:16] Bliss Depontier diz: Veio? Não sei.
+[21:31:27] * Wendy Hayworth olha, claramente com desgosto, as pessoas vestidas com a fantasi
+[21:31:27] ...a do Klux Klux Klan.
+[21:31:40] [baixo] Daniel Yohan diz: É muita cara de pau, cara. Não dá pra acreditar.
+[21:31:40] [baixo] Perse Heilman diz: Olha isso, vergonha, cara.
+[21:31:41] Bliss Depontier diz: Já volto.
+[21:31:42] Juno Ishikawa diz: Podíamos dar um chute neles, né?
+[21:31:46] * Mike Litt insere a chave na ignição e liga o motor.
+[21:31:48] Alina Coignard diz: Vamos?
+[21:31:48] [baixo] Ezekiel Cameron diz: Vergonha para a sociedade.
+[21:31:49] (( [OOC] Samara Morgan (Paris): Para uma imersão maior à Murder House, recomenda-se que vocês ti
+[21:31:49] ...rem o Cods. As skins dos monstros estão dando conflito. ))
+[21:31:49] [baixo] Danielle Villanueva diz: Falta de respeito.
+[21:32:00] Tanya Banks diz: A Salut fantasiada de Maju, que bela homenagem.
+[21:32:09] Julie Hiwsett diz: Que barraca é essa?
+[21:32:14] [baixo] Ezekiel Cameron diz: Cacete...
+[21:32:19] Juno Ishikawa diz: A Mallory faria alguma coisa.
+[21:32:20] Nathalia Torner diz: Olá!
+[21:32:28] [baixo] Ezekiel Cameron diz: Vergonha para a sociedade mundial.
+[21:32:33] Tanya Banks diz: Queremos Red Light. Queremos Red Light. Queremos Red Light. Quer
+[21:32:33] ...emos Red Light. Queremos Red Light. Queremos Red Light.
+[21:32:33] Nathalia Torner diz: Já ouviu em falar em poções mágicas?
+[21:32:33] Wendy Hayworth diz: Oii, gete.
+[21:32:35] Wendy Hayworth diz: Oii, gente.
+[21:32:36] Alina Coignard diz: Saudades da minha amiga. 
+[21:32:42] Julie Hiwsett diz: Não.
+[21:32:46] > Dakota Property coça a cabeça.
+[21:32:47] Tanya Banks grita: Queremos Red Light. Queremos Red Light. Queremos Red Light. Quer
+[21:32:47] ...emos Red Light. Queremos Red Light. Queremos Red Light. !
+[21:32:50] Brigitte Castille diz: Oi, negonas.
+[21:32:56] * Sasha Cuffee se aproxima do velho, tenta assusta-lo.
+[21:32:56] Nathalia Torner diz: Pois bem, aqui temos diversas.
+[21:33:05] ** Novato Rogerio Abravanel (ID: 136): qual comando uso pra por o saco dentro do caminhao de lixo ? **
+[21:33:07] David Drew diz: Papagaio bravão passando.
+[21:33:10] Alina Coignard diz: Quem é Red Light?
+[21:33:14] Mascarado_#1090792 grita: Não !
+[21:33:15] ** Jogador Thomas Alves (ID: 150): aperta n **
+[21:33:15] > Dakota Property gargalha.
+[21:33:16] Ezekiel Cameron diz: Ei!
+[21:33:17] Juno Ishikawa diz: A música do f(x).
+[21:33:18] [Anúncio] [COMPRO] Faca para pesca. - PH: #1276969
+[21:33:20] Nathalia Torner diz: Tem como você ficar quinze anos mais novo e perder a barriguinha
+[21:33:20] ... de chop.
+[21:33:20] Juno Ishikawa diz: A melhor title.
+[21:33:21] Alina Coignard diz: Amo.
+[21:33:23] Brigitte Castille diz: A Caresha não vai cantar?
+[21:33:27] David Drew diz: Oi.
+[21:33:27] Ezekiel Cameron diz: Ei!
+[21:33:30] David Drew diz: Cuida de mim.
+[21:33:32] Wendy Hayworth diz: Não sei.
+[21:33:33] Sasha Lagerfeld diz: Que isso aqui?
+[21:33:33] Tanya Banks diz: Não autorizaram playback pra Caresha, eu acho.
+[21:33:34] Juno Ishikawa diz: Gente?
+[21:33:34] Salut Lagerfeld diz: Boa noite!
+[21:33:34] Amanda Ocean diz: Quem são esses?
+[21:33:36] Alina Coignard diz: As duas?
+[21:33:38] Henry Dunphy diz: Oi?
+[21:33:38] David Drew diz: Sou bem manso.
+[21:33:41] Antoine Petit diz: Queremos autógrafo da Salut.
+[21:33:41] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:33:42] Brigitte Castille diz: Quem mandou matar Caresha Kachingwe?
+[21:33:42] Bliss Depontier diz: A Caresha tá de hiatus.
+[21:33:44] Eric Rafferty diz: Morreu lá dentro?
+[21:33:46] Wendy Hayworth diz: Eles são fãs da Salut, pelo visto.
+[21:33:49] Levi Petit diz: A gente veio cumprimentar a  Salut, sou fã dela.
+[21:33:49] Chandler Clement diz: Só umas vezes.
+[21:33:50] Chandler Clement diz: Duas.
+[21:33:56] Salut Lagerfeld diz: Pode ser. Eu não sei escrever direito.
+[21:33:57] > Dakota Property digita alguma coisa no celular.
+[21:33:57] [SMS] Tem uma banda chegando aqui. (Sage)
+[21:33:59] Ezekiel Cameron diz: Que roupa é essa aí, cara?
+[21:34:01] Eric Rafferty diz: Porra tava foda cara.
+[21:34:04] Salut Lagerfeld diz: Tem canetinha?
+[21:34:09] Juno Ishikawa diz: Vou cuidar fazendo galeto de papagaio.
+[21:34:09] * Michael Sandoval coloca a máscara em seu rosto.
+[21:34:09] Alina Coignard diz: Ahmmm... 
+[21:34:09] Brigitte Castille diz: A Red Light chegou.
+[21:34:12] Chandler Clement diz: Eu curti.
+[21:34:12] * Peter Flaherty coloca sua boombox no chão e em seguida ligando-a.
+[21:34:12] (( [120] Katherine Hunner: façam algum anim  ))
+[21:34:16] Chandler Clement diz: Dei vários olé no monstro.
+[21:34:19] * Antoine Petit tira a mochila das costas e abre, retira uma caneta e estende pa
+[21:34:19] ...ra Salut.
+[21:34:21] Antoine Petit diz: Pegue.
+[21:34:21] (( [66] Wendy Hayworth: ai dsclp ))
+[21:34:23] Tanya Banks grita: Queremos Red Light. Queremos Red Light. Queremos Red Light. Quer
+[21:34:23] ...emos Red Light. Queremos Red Light. Queremos Red Light. !
+[21:34:25] David Drew diz: Arrocha, você pai aqui tem carne viu.
+[21:34:30] Eric Rafferty diz: Eu dei foi uns socão naquela porra, minha mão tá doendo.
+[21:34:30] (( [OOC] Dario Beasley (Kevboy): De preferência, não venham armado pro evento. ))
+[21:34:33] Frederico Onewar diz: O moço lá tem.
+[21:34:38] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:34:38] Stacie Lagerfeld diz: Virou criança, Tanya?
+[21:34:39] * David Drew sorri, brincando com a dupla.
+[21:34:44] * * Maurice Hadleigh derrubou Shane Barr no chão.
+[21:34:45] Juno Ishikawa diz: Hahahaha...
+[21:34:47] AdmCmd: Paris kickou o jogador Onnig Sweeney por: Troll.
+[21:34:52] David Drew diz: Você é muito mau.
+[21:34:53] Tanya Banks diz: Cadê o baterista, gente?
+[21:34:55] Levi Petit (celular): Oi...
+[21:34:55] > Dakota Property digita alguma coisa no celular.
+[21:34:55] [SMS] Sage? (Sage)
+[21:34:58] David Drew diz: Tchau.
+[21:35:00] Mascarado_#1090792 grita: Toca ae!
+[21:35:00] Levi Petit (celular): Tá no evento?
+[21:35:01] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:35:02] Alina Coignard diz: Meu pai...
+[21:35:04] Juno Ishikawa diz: Tchau.
+[21:35:05] David Drew diz: Assim, prazer, David Drew.
+[21:35:07] * Salut Lagerfeld apanha a caneta com a mão e, na falta de papel, assina as costas
+[21:35:07] ... da mão Frederico precariamente.
+[21:35:07] Alina Coignard diz: Tchau.
+[21:35:08] [SMS] Oi, eu estava na casa. (Sage)
+[21:35:09] TesterCmd: fabinho kickou o jogador Kendrick Townsend por: AFK no evento.
+[21:35:10] Juno Ishikawa diz: É cada uma...
+[21:35:12] Salut Lagerfeld diz: Tá bom assim?
+[21:35:16] Jamal Dunn diz: Cadê o baterista?
+[21:35:21] * Peter Flaherty conecta o cabo do amplificador no baixo.
+[21:35:22] Levi Petit (celular): Hm...
+[21:35:25] > Dakota Property digita alguma coisa no celular.
+[21:35:25] [SMS] Ufa, comecei a ficar assustado. (Sage)
+[21:35:26] [SMS] Agora tem fila, tá mais organizado. (Sage)
+[21:35:27] Levi Petit (celular): Achei que não ia saber.
+[21:35:36] Warning: Model 299 wouldn't load in time!
+[21:35:36] Mascarado_#1090792 grita: Cadê o show?
+[21:35:49] ** Jogador Patrick Collins (ID: 105): os monstros matam? **
+[21:35:55] ** Jogador Frank Biggs (ID: 116): sim. **
+[21:35:56] Warning: Model 299 wouldn't load in time!
+[21:35:57] > Dakota Property digita alguma coisa no celular.
+[21:35:57] [SMS] Ah, ok. Quando o show começar, te aviso. (Sage)
+[21:35:59] * Landon Cunningham coloca a máscara em seu rosto.
+[21:36:00] Warning: Model 299 wouldn't load in time!
+[21:36:03] * Peter Flaherty alterou a música da boombox.
+[21:36:04] ** Jogador Raymond Jones (ID: 155): Não, nem perdi vida. **
+[21:36:07] ** Jogador David Drew (ID: 23): Se te matar, vai ser CK viu. **
+[21:36:07] [USE]: /cruzarbracos [1-4]
+[21:36:10] ** Jogador Delmiro Fleck (ID: 16): Sim, mas não pode matar eles. **
+[21:36:17] * Salut Lagerfeld rabisca o bico do animal decorativo com a canetinha, meio enverg
+[21:36:17] ...onhada.
+[21:36:18] Nathalia Torner diz: Cadê o Levi?
+[21:36:23] Alina Coignard diz: Vou até por aqui. 
+[21:36:31] Antoine Petit diz: Ele foi no banheiro.
+[21:36:38] Nathalia Torner diz: Ah sim, okay.
+[21:36:53] * Salut Lagerfeld devolve a canetinha para o rapaz.
+[21:36:59] * Frederico Onewar recepta.
+[21:37:02] Mascarado_#1090792 grita: Bora, porra!
+[21:37:05] Antoine Petit diz: Bora, Freddy.
+[21:37:07] Audio stream: http://stream.zeno.fm/4wgye8c64d0uv   
+[21:37:08] * Peter Flaherty toma a frente do palco.
+[21:37:12] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:37:18] ** Jogador Alexa Ponteller (ID: 8): Aonde que é o evento? **
+[21:37:19] TesterCmd: Paulo Roberto kickou o jogador Sasha Lagerfeld por: Regra 1.
+[21:37:19] (( Sasha Lagerfeld foi kickado pelo administrador/tester Paulo Roberto pelo motivo: Regra 1 ))
+[21:37:26] ** Jogador Derick Rodrigues (ID: 30): ICly. **
+[21:37:31] > Dakota Property digita alguma coisa no celular.
+[21:37:32] [SMS] Começou. (Sage)
+[21:37:34] Mascarado_#1090792 grita: Muito foda!
+[21:37:40] ** Jogador Chandler Clement (ID: 64): Temple. **
+[21:37:43] [SMS] Vamos ai. (Sage)
+[21:37:43] * Salut Lagerfeld segura a mão de Sally.
+[21:37:47] * [ANRP] O som da banda Red Light tocando no exterior da Murder House eco
+[21:37:47] ...a por Vinewood. *
+[21:37:54] Alina Coignard diz: Hey, it's the red light, red light, red light...
+[21:38:00] * Peter Flaherty agita a cabeça durante o solo de Paddington.
+[21:38:01] * Sally Westwood acaricia a cabeça de Salut com a outra mão.
+[21:38:09] * Noah Paddington dedilha os fios da guitarra de acordo com o ritmo da música. Bal
+[21:38:09] ...ança o corpo também.
+[21:38:16] ** Jogador Patrick Collins (ID: 105): esse evento vale premio algo assim? se ganhar até o final? **
+[21:38:19] * Liam Crossley varre os dedos pelos fios da guitarra.
+[21:38:19] Lucca Wright diz: Caralho.
+[21:38:22] [MICROFONE] Peter Flaherty: OOOOH... THE GUNS OF BRIXTON!
+[21:38:26] Sage Dupont diz: Penny Wise tava puto.
+[21:38:27] ** Jogador Raymond Jones (ID: 155): Pera eles matam mesmo? DE CK? **
+[21:38:33] Lucca Wright diz: Né?
+[21:38:37] ** Jogador Gregory Edwards (ID: 9): Não, cara. **
+[21:38:44] Lucca Wright diz: Vou caçar algo pra beber.
+[21:38:56] Deuce Dippolito diz: Também.
+[21:39:07] * Delmiro Fleck fala com a morte.
+[21:39:11] Sasha Cuffee (celular): Pronto, fala agora.
+[21:39:11] Deuce Dippolito diz: Lucca.
+[21:39:13] Sasha Cuffee (celular): Me afastei.
+[21:39:16] Sasha Cuffee (celular): Tá tocando uma banda aqui.
+[21:39:17] Deuce Dippolito diz: Lucca.
+[21:39:18] Frederico Onewar grita: Uoooooooo-oooooooooooooh!
+[21:39:19] Sasha Cuffee (celular): Quê?
+[21:39:20] * Sally Westwood afasta-se do mascarado ao ouvi-lo.
+[21:39:24] * Maxwell Wallner remove a máscara de seu rosto.
+[21:39:24] Chandler Clement diz: Ele tá te confudindo.
+[21:39:27] [MICROFONE] Noah Paddington: WOOOOH!
+[21:39:28] Maxwell Wallner diz: Patrick é o caralho.
+[21:39:29] [MICROFONE] Peter Flaherty: THE GUNS OF BRIXTOOON....
+[21:39:29] Bruce Petit diz: Música boa.
+[21:39:29] * Maxwell Wallner coloca a máscara em seu rosto.
+[21:39:30] Brenda Titus diz: Ei, Bruce.
+[21:39:34] Brenda Titus diz: Você já serviu?
+[21:39:37] Philipe White diz: Fala pilantra.
+[21:39:40] Philipe White diz: Apareceu?
+[21:39:41] Thierry Chapelle diz: Eae.
+[21:39:42] Tanya Banks grita: UHuuuuuul!
+[21:39:48] Thierry Chapelle diz: Sim, eu estava de fantasia poh.
+[21:39:53] Deuce Dippolito diz: Cadê o cara daqui?
+[21:39:54] Bliss Depontier grita: Uhuuuuu!
+[21:39:55] * Peter Flaherty complementa o backing vocal de Paddington com o refrão.
+[21:39:56] Delmiro Fleck diz: Esse cara não é o Patrick?
+[21:39:57] Philipe White diz: Até tomei um susto.
+[21:39:59] Sage Dupont diz: Sei lá.
+[21:40:01] Lucca Wright diz: Não sei.
+[21:40:03] Thierry Chapelle diz: Haha.
+[21:40:07] Philipe White diz: Tu já e feio sem fantasia.
+[21:40:12] Sage Dupont diz: Deve ser refil grátis.
+[21:40:12] Romeo Hountree diz: Este é um simbolo da saúde brasileira, amigo.
+[21:40:13] Philipe White diz: Com fantasia, piorou.
+[21:40:14] Thierry Chapelle diz: Vai cortar o cabelo hoje, hu?
+[21:40:16] Deuce Dippolito diz: É...
+[21:40:18] Daniel Yohan diz: Saúde o quê?
+[21:40:18] Thierry Chapelle diz: Haha.
+[21:40:21] * Noah Paddington se aproxima do microfone e continua tocando a guitarra, agora no
+[21:40:21] ... ritmo da próxima música.
+[21:40:22] * Mascarado_#1090253 imita o bando feminino.
+[21:40:28] * Peter Flaherty limpa o suor que escorre do canto do rosto com o antebraço.
+[21:40:31] Romeo Hountree diz: Sim.
+[21:40:31] Philipe White diz: Hoje é dia de curtir.
+[21:40:31] Mascarado_#1090253 grita: É BIDEN, FILHA DA PUTA!
+[21:40:33] Owen Stewart diz: E aí, pessoal.
+[21:40:35] (rádio) Lucca Wright: Venham perto do palco.
+[21:40:35] Bruce Petit diz: UMA ARARA!
+[21:40:37] Bruce Petit diz: Que fofa!
+[21:40:38] * Deuce Dippolito faz o mesmo que Lucca, pega um copo e despeja o refrigerante den
+[21:40:38] ...tro.
+[21:40:40] Delmiro Fleck diz: Carai.
+[21:40:42] Mascarado_#1090253 grita: TRUMP É A CABEÇA DA MINHA XIBATA!
+[21:40:44] Deuce Dippolito diz: É mole.
+[21:40:44] * Philipe White nem olha para Alexa.
+[21:40:45] Ezekiel Cameron diz: Você sabe que não.
+[21:40:46] Delmiro Fleck diz: Esse cara é o zé gotinha do Brasil.
+[21:40:47] Mascarado_#1090792 grita: Um loro!
+[21:40:48] * Sasha Cuffee se aproxima de Bruce por trás, tenta assusta-lo.
+[21:40:53] * Delmiro Fleck se refere a Romeo.
+[21:40:54] * Noah Paddington canta a melodia "Last Shot" conforme toca a guitarra vermelha.
+[21:40:56] Sasha Cuffee diz: Buh!
+[21:41:01] Danielle Villanueva diz: Quem é zé gotinha?
+[21:41:02] * Sage Dupont repete os atos de Lucca e Deuce, e pega um copo de refrigerante.
+[21:41:04] * Bruce Petit já tá borrado, com o susto de Sasha quase infarta.
+[21:41:04] Daniel Yohan diz: ;PM 60 KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+[21:41:04] ...KKKKKKKKKKKKKKKKKKKKKKKKKK ZÉ GOTINHAKJWAJD WAHD WHD WAHDAUH8YDA
+[21:41:04] [MICROFONE] Noah Paddington: HEY HEY HEEEEEEEEEY, DON'T FADE AWAAAAAY!
+[21:41:08] Bruce Petit grita: MEU DEUS!
+[21:41:12] [MICROFONE] Noah Paddington: HEY HEY HEEEEEEY, NOT TODAAAAAAY!
+[21:41:14] Romeo Hountree diz: Enfim, com licença.
+[21:41:22] Lucca Wright diz: Vocês me abandonaram lá dentro, ok? Me abandonaram!
+[21:41:25] ** Jogador Raymond Jones (ID: 155): Mano tem uma mina fingindo ser ator e dando facada. **
+[21:41:26] Maurice Hadleigh diz: Quem é?
+[21:41:28] Courtney Bathurst diz: Amiga?
+[21:41:35] Ezekiel Cameron diz: Porra, tu vestir isso aí é pedir pra morrer.
+[21:41:36] Lucca Wright diz: Me fizeram de refém! 
+[21:41:36] Onnig Sweeney diz: É.
+[21:41:38] Salut Lagerfeld diz: Ééé...
+[21:41:39] Sally Westwood diz: Vou atrás de alguma coisa pra beber, já volto.
+[21:41:41] Courtney Bathurst diz: Eles cantam em japonês e não inglês.
+[21:41:41] Lucca Wright diz: Abandonadores!
+[21:41:41] Stacie Lagerfeld diz: Vem, vamos pegar algo com a Sally.
+[21:41:41] (( Wendy Hayworth (Problema de Conexão/Crash) ))
+[21:41:43] ** Jogador Daniel Archer (ID: 110): Ela é atriz cara '-' **
+[21:41:43] ** Jogador Iori Kurosawa (ID: 44): Mate ela, simples **
+[21:41:43] Maurice Hadleigh diz: Ei, aquilo ali não tá certo.
+[21:41:45] Onnig Sweeney diz: Olha a tattoo na mão.
+[21:41:47] ** Sussurro para Sage Dupont (123): Já volto, vou fazer uma parada. **
+[21:41:47] > Dakota Property sussurra algo para Sage Dupont.
+[21:41:48] * Maurice Hadleigh aponta para os supostos fantasmas.
+[21:41:48] Ezekiel Cameron diz: Vai pro lado sul com isso aí.
+[21:41:48] Lucca Wright diz: Falsos!
+[21:41:51] Sage Dupont diz: Ok.
+[21:41:52] * Stacie Lagerfeld segura Salut pela mão.
+[21:41:52] Maurice Hadleigh diz: Aquilo ali não tá certo.
+[21:41:54] Deuce Dippolito diz: Cadê o restante?
+[21:41:57] (( [51] Liam Crossley: Eu vi, ele é legal. ))
+[21:42:37] BMX foi spawnado no local onde você estacionou:
+[21:42:37] Vida útil: Engrenagem[98.33], Milhas Rodadas[259.7]
+[21:45:10] Você não está próximo do seu veiculo.
+[21:45:26] Este veiculo já está spawnado.
+[21:45:37] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[21:45:39] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[21:45:41] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:47:56] ** Jogador Delmiro Fleck (ID: 16): qual cmd de usar mascara que esconde nick? **
+[21:48:02] ** Jogador Patrick Collins (ID: 105): /mascara **
+[21:48:04] ** Jogador Philipe White (ID: 129): /mascara **
+[21:48:15] * Dakota Property coloca a máscara em seu rosto.
+[21:48:16] * Dakota Property remove a máscara de seu rosto.
+[21:48:55] Warning: Model 299 wouldn't load in time!
+[21:48:58] Warning: Model 299 wouldn't load in time!
+[21:48:59] * Dakota Property coloca a máscara em seu rosto.
+[21:49:00] * Dakota Property remove a máscara de seu rosto.
+[21:49:34] Warning: Model 299 wouldn't load in time!
+[21:50:29] {FFFF00}Info:{FFFFFF} Você pode apertar ESC para mexer sua tela. Se desejar mexer no celular novamente digite /cc para ativar o mouse.
+[21:50:39] > Dakota Property digita alguma coisa no celular.
+[21:50:39] [SMS] Tá aí ainda? (Sage)
+[21:50:49] [SMS] Sim, no show. (Sage)
+[21:50:58] > Dakota Property digita alguma coisa no celular.
+[21:50:58] [SMS] Devo chegar daqui a pouco. (Sage)
+[21:51:30] Ace McKean diz: Consegue?
+[21:51:31] Marcus Diorirton diz: Nossa, mano.
+[21:51:32] * Salut Lagerfeld ajeita os chifres; deixara chifrar.
+[21:51:35] Marcus Diorirton diz: Que jogo.
+[21:51:37] Philipe White diz: ;s 106 Leva ela pra casa agora.
+[21:51:37] * Paris Haggard estende um mini frasquinho com um pouco de creme.
+[21:51:40] Paris Haggard diz: Leva para a sua namorada.
+[21:51:41] Gregory Edwards diz: Boa noite, tudo bem?
+[21:51:41] Sasha Lagerfeld diz: Amo...
+[21:51:45] Christoper Walker diz: É saldaçoes!
+[21:51:47] [MICROFONE] Tanya Banks: Com vocês, #1 no iTunes, a banda "Hot Problems"!
+[21:51:48] Chandler Clement diz: Ai velho, você também mora em Blueberry?
+[21:51:49] Shane Barr diz: Tem cigarrinho?
+[21:51:50] Iori Kurosawa diz: Bruh?
+[21:51:51] Sasha Lagerfeld diz: Vamos de.
+[21:51:51] Eric Rafferty diz: Tenho namorada não, mas valeu.
+[21:51:52] (rádio) Jamal Dunn: Coé tio, cadê o cara? Eu queria falar com ele.
+[21:51:57] Paris Haggard diz: Boa noite.
+[21:52:00] * Eric Rafferty recebe o frasco e enfia no bolso.
+[21:52:00] (rádio) Chandler Clement: Árvore.
+[21:52:00] Thomas Alves diz: Vambora!
+[21:52:00] Lucca Wright diz: Saudações!?
+[21:52:00] [baixo] Dakota Property diz: Opa.
+[21:52:04] Bruce Petit grita: ECA, ESSA MÚSICA É UM HORROR!
+[21:52:05] * Tanya Banks bate algumas palminhas, animada.
+[21:52:06] Gregory Edwards diz: O que tem aqui?
+[21:52:09] * Sasha Lagerfeld coloca sua boombox no chão e em seguida ligando-a.
+[21:52:10] [MICROFONE] Tanya Banks: Com vocês, Sasha&Serena Lagerfeld para o maior show da noite!
+[21:52:13] Mascarado_#1090792 grita: Muito foda!
+[21:52:13] Chandler Clement diz: Cigarrinho?
+[21:52:15] Chandler Clement diz: Toma.
+[21:52:15] * Sally Westwood aplaude a entrada das gêmeas.
+[21:52:17] Wendy Hayworth grita: Sasha e Serena, vocês são MARAVILHOSAS!
+[21:52:17] Brenda Titus diz: Puta que pariu.
+[21:52:17] Salut Lagerfeld grita: Vai tiaaa!
+[21:52:18] Iori Kurosawa diz: Bruh?
+[21:52:22] Paris Haggard diz: É a banca da Sugarland Spa & Beauty.
+[21:52:24] Dakota Property diz: Que merda.
+[21:52:25] Wendy Hayworth grita: Gostosaaaaaas!
+[21:52:25] Iori Kurosawa diz: Bruh?
+[21:52:28] * Sasha Lagerfeld acena para os seus fãs, entusiasmada.
+[21:52:29] * Chandler Clement mete a mão no bolso, puxa o newport, joga a pra Shane.
+[21:52:31] * Nicolas Rodrigues visa o cara da frente.
+[21:52:33] Iori Kurosawa grita: BRUH!
+[21:52:35] ERROR: Desculpe, este comando não existe. Digite {89B9D9}/ajuda{FFFFFF} ou {89B9D9}/sos{FFFFFF} se você precisar de ajuda.
+[21:52:36] Nicolas Rodrigues diz: Fala aí, Walker.
+[21:52:37] Mascarado_#1090792 grita: Burh!
+[21:52:38] Amanda Ocean diz: Sally, esse piriquito gostou de você.
+[21:52:39] Courtney Bathurst grita: LENDAAS!
+[21:52:40] * Chandler Clement pega um "Cigarro Newport" e entrega para Shane Barr.
+[21:52:41] * * Ezekiel Cameron derrubou Henry Dunphy no chão.
+[21:52:41] [MICROFONE] Serena Lagerfeld: Oiii, Vinewood! Nós, tipo, amamos vocês!
+[21:52:41] AdmCmd: Lucas kickou o jogador Ducasse Coffy por: Troll.
+[21:52:41] (( Ducasse Coffy foi kickado pelo administrador/tester Lucas pelo motivo: Troll ))
+[21:52:43] Amanda Ocean diz: Não sai de trás de você.
+[21:52:43] Chandler Clement diz: Pó' ficar.
+[21:52:50] Gregory Edwards diz: O quem aqui para comprar?
+[21:52:52] [MICROFONE] Serena Lagerfeld: É ótimo poder performar perto do nosso quintal!
+[21:52:54] Lucca Wright diz: Hum.
+[21:52:57] Iori Kurosawa diz: Bruh, bruh?
+[21:52:58] Gregory Edwards diz: Parece hidratantes.
+[21:53:01] Christoper Walker diz: Caralho Nicolas!
+[21:53:03] Dakota Property diz: Foda.
+[21:53:03] Christoper Walker diz: Eae.
+[21:53:06] Sally Westwood diz: É, né?
+[21:53:06] Jamal Dunn diz: E aí, tio.
+[21:53:06] * Noah Paddington guarda a guitarra.
+[21:53:07] Christoper Walker diz: Beleza!
+[21:53:10] [MICROFONE] Serena Lagerfeld: E vamos começar com BFF.
+[21:53:11] [MICROFONE] Sasha Lagerfeld: Espero que vocês gostem. As nossas músicas são, tipo, muito prof
+[21:53:11] ...undas.
+[21:53:11] Maurice Hadleigh diz: Oi.
+[21:53:12] Nicolas Rodrigues diz: Tranquilo.
+[21:53:13] Shane Barr diz: Salve.
+[21:53:14] * Iori Kurosawa fala a lingua dos passaros.
+[21:53:16] * Sasha Lagerfeld alterou a música da boombox.
+[21:53:16] Audio stream: https://irr.ffjjti.frl/faf986d83505e1fcf40153d7cbad5690/iFhKOddId4s/mnzcrezcaazni
+[21:53:17] Iori Kurosawa diz: Bruh?
+[21:53:17] Mascarado_#1090792 grita: Foda-se!
+[21:53:17] Sally Westwood diz: Até que ele é charmoso. Bonitinho. Mas eu tenho namorado.
+[21:53:18] * Peter Flaherty afunda o baixo no case.
+[21:53:18] Jamal Dunn diz: Opa, e aí.
+[21:53:20] [baixo] Deuce Dippolito diz: A mina saiu voada, cara. Dá nem para entender essas pira delas.
+[21:53:20] Nicolas Rodrigues diz: Tá fantasiado de quê, pô.
+[21:53:21] * Jamal Dunn fala com Shane.
+[21:53:24] Chandler Clement diz: Ai véio, cê mora em Blueberry também?
+[21:53:24] * Nicolas Rodrigues fala em tom de brincadeira.
+[21:53:25] Iori Kurosawa diz: Bruh!
+[21:53:26] Audio stream: https://irr.ffjjti.frl/faf986d83505e1fcf40153d7cbad5690/iFhKOddId4s/mnzcrezcaazni
+[21:53:26] * Sasha Lagerfeld alterou a música da boombox.
+[21:53:27] * Sally Westwood acena para a arara.
+[21:53:30] Wendy Hayworth grita: Lindas!
+[21:53:30] [Anúncio] [VENDE-SE] Casa mobiliada por arquiteto profissional em East Bech, perto da prai ...
+[21:53:30] [Anúncio] ... a. - PH: #2568011
+[21:53:35] AdmCmd: Kevboy kickou o jogador Enzo Bernardinelli por: AFK 10m.
+[21:53:35] Cody Middleton diz: Quando a música acabar, eu volto.
+[21:53:39] Paris Haggard diz: Isso mesmo.
+[21:53:39] * Iori Kurosawa abre as asas, sai voando sem rumo.
+[21:53:39] Christoper Walker diz: Tas bem?
+[21:53:39] Shane Barr diz: Porra, começou a chatisse lá em baixo.
+[21:53:40] Maurice Hadleigh diz: Blueberry?
+[21:53:40] Paris Haggard diz: Produtos estéticos.
+[21:53:43] Chandler Clement diz: É.
+[21:53:45] Shane Barr diz: Essas minas tocando.
+[21:53:46] * Corey Bradford cruza os braços e se mantém atento ao show.
+[21:53:47] Chandler Clement diz: Interior.
+[21:53:50] Iori Kurosawa diz: Bruh?
+[21:53:50] Ezekiel Cameron diz: Rapaz...
+[21:53:50] Gregory Edwards diz: E são bons mesmos?
+[21:53:53] Paris Haggard diz: Claro!
+[21:53:57] Brenda Titus diz: Oi passarinho.
+[21:53:57] Paris Haggard diz: O meu spa é o melhor da cidade.
+[21:53:57] Iori Kurosawa diz: Bruh?!
+[21:53:58] Maurice Hadleigh diz: Não faço nem ideia de onde seja isso.
+[21:53:58] Audio stream: https://irr.ffjjti.frl/43824a6e5e4ff5d9d2e4cbe7f53d1753/iFhKOddId4s/mnzcrezcaazni
+[21:53:58] * Sasha Lagerfeld alterou a música da boombox.
+[21:53:59] Sally Westwood grita: Arrasem, meninas!
+[21:54:01] Brenda Titus diz: Piu, piu, piu?
+[21:54:01] Gregory Edwards diz: Ah, jura?
+[21:54:04] Chandler Clement diz: Interior porra.
+[21:54:04] Iori Kurosawa diz: Bruh!
+[21:54:06] Bliss Depontier diz: Eu adoro essa música.
+[21:54:06] Courtney Bathurst grita: LENDAAAAAAAAAAAS!
+[21:54:07] Sasha Cuffee diz: Que nojo, que nojo, que nojo!
+[21:54:09] Brenda Titus diz: Piu, piu.
+[21:54:09] Maurice Hadleigh diz: Merda é essa?
+[21:54:14] Chandler Clement diz: Você tem cara de caipira.
+[21:54:15] Gregory Edwards diz: Não acredito..
+[21:54:18] Marcus Diorirton diz: Que merda cê tá fazendo, negão?
+[21:54:20] ** Sussurro para Sage Dupont (123): Pretende sair daqui quando? **
+[21:54:20] > Dakota Property sussurra algo para Sage Dupont.
+[21:54:24] Chandler Clement diz: Música de gay.
+[21:54:25] Iori Kurosawa diz: Piu, piu o caralho. É BRUH!
+[21:54:25] ** Sussurro de Sage Dupont (123): Agora. **
+[21:54:29] Wendy Hayworth grita: You are my BFF!
+[21:54:30] [Anúncio] [VENDE-SE] Casa mobiliada por arquiteto profissional em East Beach, perto da pra ...
+[21:54:30] [Anúncio] ... ia. - PH: #2568011
+[21:54:31] Mascarado_#1090792 grita: Caralho, voz foda !
+[21:54:33] Jamal Dunn diz: Meu Deus, que musica bosta.
+[21:54:33] Paris Haggard diz: Claro, haha.
+[21:54:33] Shane Barr diz: Podre, bicho.
+[21:54:34] (( [104] Tanya Banks: /ouvirboombox ))
+[21:54:36] Shane Barr diz: Curto essas minas não.
+[21:54:42] Brenda Titus diz: Tchaau!
+[21:54:46] Jamal Dunn diz: São umas mamadoras de policial.
+[21:54:46] Bruce Petit diz: Ué?
+[21:54:48] (( PM de Sage Dupont (ID: 123): Vou só correr e dar dc ))
+[21:54:49] Chandler Clement diz: Eu só curto se for pra descer a pica.
+[21:54:52] Shane Barr diz: Ei, vou pular na galera.
+[21:54:53] ** Sussurro para Sage Dupont (123): Vou logo atrás de você. **
+[21:54:53] > Dakota Property sussurra algo para Sage Dupont.
+[21:54:53] * Sasha Lagerfeld movimenta a boca num lipsync perfeito de BFF. Junto com sua irmã
+[21:54:53] ..., rebola bastante.
+[21:54:55] Gregory Edwards diz: Se você tá dizendo, então tá bom. Vou confiar em ti.
+[21:54:56] Iori Kurosawa diz: Bruh?
+[21:54:56] Chandler Clement diz: Pula.
+[21:55:01] Wendy Hayworth diz: telapreta
+[21:55:01] Ezekiel Cameron diz: Ei.
+[21:55:02] [Anúncio] [VENDE-SE] Casa 2 andares com quatro quartos em Verona Beach, mobiliada por arqu ...
+[21:55:02] [Anúncio] ... iteto profissional, $400,000. - PH: #8098740
+[21:55:02] Bruce Petit diz: A outra saiu chorando e o motivo eu não sei.
+[21:55:03] Paris Haggard diz: Aqui, uma amostra.
+[21:55:03] Bliss Depontier diz: You're my BFF...
+[21:55:04] Iori Kurosawa diz: Bruh?!
+[21:55:04] (( [73] Wendy Hayworth: ign ))
+[21:55:04] Cody Middleton diz: Que foi?
+[21:55:07] Deuce Dippolito diz: Estragou o bagulho.
+[21:55:08] Brenda Titus diz: Ué.
+[21:55:12] * Iori Kurosawa tá falando a lingua dos passaras.

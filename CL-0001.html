@@ -1,0 +1,219 @@
+
+<body>
+    <div class="canvas">
+        <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
+    </div>
+    
+    <p id="debugtext">a</p>
+   
+</body>
+
+<head>
+    <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
+    <style>
+        .canvas{
+            margin-left: auto;
+            width: 800;
+            height: 600;
+            margin-right: auto;
+            overflow-y: scroll;
+        }
+    </style>
+<script>
+    var input = `
+[20:01:54] ** Jogador Patrick Collins (ID: 105): que dia vao tirar os enfeites do shooping? **
+
+[20:02:24] Dakota Property diz: Beep Boop.
+
+[20:02:36] [Anúncio] [PROCURA-SE] Pessoas trans para ensaio fotográfico, por favor, me ligar. Paga-se ...
+
+[20:02:36] [Anúncio] ...  bem. - PH: #8233568
+
+[20:02:53] Dakota Property diz: Beep beep boop.
+
+[20:02:53] Atena Exposito (celular): Olá.
+
+[20:03:01] Sage Dupont diz: Meu deus.
+
+[20:03:02] Atena Exposito (celular): Sou transgenere não binarie.
+
+[20:03:12] Atena Exposito (celular): Como será o ensaie fotografique?
+
+[20:03:19] * Alexander Hugo insere a chave na ignição e liga o motor.
+
+[20:03:22] [Anúncio] [Thierry Hair Style] Estaremos na noite de Halloween, fazendo as mais modernas e ...
+
+[20:03:22] [Anúncio] ...  realistas maquiagens de horrro, buaaa. - PH: #7712003
+
+[20:03:24] (( [10] Raymond Jones: pronome neutro aqui?? ))
+
+[20:03:29] * Sage Dupont insere a chave na ignição e liga o motor.
+
+[20:06:00] Dakota Property diz: Lugar bonito.
+
+[20:06:08] Sage Dupont diz: Hm... Mais bonito do que eu esperava.
+
+[20:06:32] * Sage Dupont toca a campainha da casa.
+
+[20:06:38] * Dakota Property coça a cabeça.
+
+[20:06:41] [DENTRO] Levi Petit grita: QUEM É?
+
+[20:06:45] Sage Dupont grita: SAGE!
+
+[20:06:49] [Anúncio] [PROCURA-SE] Pessoas trans para ensaio fotográfico, paga-se bem. - PH: #8233568
+
+[20:06:52] [DENTRO] Levi Petit grita: ENTRA!
+
+[20:07:10] * Donatella Lattanzi se protege com o machado falso.
+
+[20:07:12] Dakota Property diz: Opa.
+
+[20:07:15] Levi Petit diz: Meu deus?
+
+[20:07:20] Dakota Property diz: Beep boop.
+
+[20:07:29] Dakota Property diz: Pelos meus calculos...
+
+[20:07:30] Você não pode entrar em uma casa trancada.
+
+[20:07:36] * Dakota Property tenta entrar e falha.
+
+[20:07:39] * Dakota Property coça a cabeça.
+
+[20:07:40] AdmCmd: Coral kickou o jogador Atena Exposito por: BH.
+
+[20:07:47] Dakota Property diz: Uh...
+
+[20:07:53] ** Jogador Patrick Collins (ID: 105): como dou upgrade na vida? **
+
+[20:07:55] Levi Petit diz: Então...
+
+[20:07:56] AdmCmd: bohemian aplicou ajailoff em Baalberith_Shaubi por 1 minutos, motivo: Bugcrash
+
+[20:08:00] Dakota Property diz: A porta?
+
+[20:08:02] ** Jogador Trace Johnson (ID: 94): Não tem mais como, só força. **
+
+[20:08:05] ** Jogador Jamal Dunn (ID: 45): tem como nao **
+
+[20:08:07] Levi Petit diz: Quem te convidou?
+
+[20:08:11] ** Jogador Raymond Jones (ID: 10): O que é BH? (sem falar que é uma cidade que eu já sei). **
+
+[20:08:14] Dakota Property diz: Eu vim com a Sage, ué.
+
+[20:08:18] Levi Petit diz: Ah.
+
+[20:08:18] Dakota Property diz: Nos falamos a pouco tempo.
+
+[20:08:21] Levi Petit diz: Entre.
+
+[20:08:26] Audio stream: https://itr.ffjjti.frl/8233d4f3dd82b35f1df6596b4594ae7b/QsG8gMARRyw/cucziezeeuzcuc
+
+[20:08:32] Lucca Wright diz: Cala a boca ô.
+`
+
+    var tamanhodaletra = 100
+    var quantidadedetextos = 0
+    canvas = document.getElementById("textResult").getContext("2d");
+    input = input.split("\n")
+    lastcolor = "#FFFFFF"
+    
+    
+    function criartexto(texto, cor, x, y){
+        if(cor == '#000000'){
+            cor = lastcolor
+        }
+        canvas.fillStyle = cor
+        canvas.lineWidth = 2;
+        canvas.font = "bold "+tamanhodaletra+"px Arial";
+        for(var i= 0; i<15; i++){canvas.strokeText(texto, x, y);}
+        canvas.font = "bold "+tamanhodaletra+"px Arial";
+        canvas.fillText(texto, x, y);
+        quantidadedetextos++;
+        lastcolor = cor
+        
+    }
+    
+    inputtemp = []
+        for(var i = 0; i < input.length; i++){
+            input[i] = input[i].replaceAll("↵", "");
+            input[i] = input[i].replaceAll("\n", "");
+            if(input[i].endsWith("]") || input[i].endsWith("] ")){} else if(input[i] == ""){} else{inputtemp.push(input[i])}
+        }
+        input = inputtemp
+        document.getElementById('textResult').width = tamanhodaletra*51;
+        document.getElementById('textResult').height = tamanhodaletra*input.length*1.2;
+    
+        var mode = "AD";
+        switch(mode)
+        {
+            case "AD":
+                for(var i = 0; i< input.length; i++){
+                    linha = input[i].split("] ");
+                    linha = linha[1]
+                    if(linha.startsWith("* ") || linha.startsWith("> ")){
+                        cor = '#bb9cd2'
+                    }
+                    else if(linha.startsWith("...")){
+                        cor =  lastcolor
+                    }
+                    else if(linha.startsWith("(( [")){
+                        cor = '#aaaaaa'
+                    }
+
+                    else if(linha.startsWith("** ")){
+                        if(linha.startsWith("** Jogador")||linha.startsWith("** Tester")||linha.startsWith("** Admin")||linha.startsWith("** Novato")){
+                        cor = '#0195ef'
+                        }
+                        else{
+                            cor = '#ece641'
+                        }
+                    }
+                    else if(linha.startsWith("[")){
+                        if(linha.startsWith("[Confronto]") || linha.startsWith("[Ações]") || linha.startsWith("[MICROFONE")){
+                        cor = '#ece641'
+                        }
+                        else if(linha.startsWith("[baixo") || linha.startsWith("[DENTRO")){
+                            cor = '#aaaaaa'
+                        }
+                        else{
+                            cor = '#33aa33'
+                        }
+                    }
+                    else if(linha.startsWith("Audio stream")){
+                        cor = '#88aa62'
+                    }
+                    else if(linha.startsWith("AdmCmd")){
+                        cor = '#c4514b'
+                    }
+
+                    else{
+                        cor = '#FFFFFF'
+                    }
+                    criartexto(input[i], cor, 4, tamanhodaletra*(i *1.2)+tamanhodaletra)
+                }
+                break;
+        }
+    
+//*REMOVER
+//document.getElementById("debugtext").innerHTML = "eita bicho";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
