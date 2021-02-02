@@ -1,8 +1,17 @@
 
 <body>
-    <div class="canvas">
-        <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
-    </div>
+    <main>
+        <div class="logo">
+            <img src="chatlogster.svg" id="logo">
+        </div>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+        <label for="fileinput" class="fileinputbutton">Adicionar Arquivo de log</label>
+        <input type="file" id="fileinput" style="display: none;">
+        
+        <div class="canvas">
+            <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
+        </div>    
+    </main>
     
     <p id="debugtext">a</p>
    
@@ -12,13 +21,64 @@
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        textarea{
+            font-family: sans-serif;
+            border-radius: 20px;
+            padding: 8px;
+            resize: none;
+        }
+        textarea:focus {
+            outline: none;
+        }
+        #logo{
+            padding: 8px;
+            filter: 
+            drop-shadow(1px 1px 0 rgb(255, 255, 255)) 
+            drop-shadow(2px 2px 0 rgb(255, 255, 255)) 
+            drop-shadow(1px -1px 0 rgb(255, 255, 255)) 
+            drop-shadow(-1px 1px 0 rgb(255, 255, 255)) 
+            drop-shadow(-1px -1px 0 rgb(255, 255, 255));
+            display: block;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            width: 200px;
+        }
+        .fileinputbutton{
+            font-family: sans-serif;
+            font-weight: bolder;
+            font-style: oblique;
+            padding: 10px;
+            border-radius: 20px;
+            background-color: rgb(77, 235, 116);
+        }
+        .fileinputbutton:hover{
+            
+            background-color: rgb(91, 199, 118);
+        }
+        body{
+            background-image: url(background.png);
+        }
+        .canvas{
+            background-color: rgba(0, 0, 0, 0.267);
+            border-width: 2px;
+            border-bottom-style: solid;
+            border-radius: 4px;
+            margin-left: auto;
+            width: 800;
+            height: 600;
+            margin-right: auto;
+            overflow-y: scroll;
+
+        }
+
         ::-webkit-scrollbar {
         width: 10px;
         height: 10px;
         }
 
         /* Track */
-        ::-webkit-scrollbar-track {
+        ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner{
         border-radius: 4px;
         background: #00000000; 
         }
@@ -33,16 +93,7 @@
         ::-webkit-scrollbar-thumb:hover {
         background: #555; 
         }
-        .canvas{
-            border-width: 2px;
-            border-bottom-style: solid;
-            border-radius: 4px;
-            margin-left: auto;
-            width: 800;
-            height: 600;
-            margin-right: auto;
-            overflow-y: scroll;
-        }
+        
     </style>
 <script>
     //var input = "* Mikhail Zaigraev é chamado para comprar equipamentos de segurança junto a Demetrius e Taylor."
