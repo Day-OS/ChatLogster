@@ -1,35 +1,112 @@
 
 <body>
     <main>
+
         <div class="logo">
             <img src="chatlogster.svg" id="logo">
         </div>
-        <textarea name="" id="" cols="30" rows="10"></textarea>
-        <label for="fileinput" class="fileinputbutton">Adicionar Arquivo de log</label>
-        <input type="file" id="fileinput" style="display: none;">
+
+        <div class="filesimport">
+            <h2>Qual server?</h2>
+            <br>
+            <div class="serversoption">
+
+                
+            <input name="RPServer" type="radio" id="BL" checked="checked" style="display: none;">
+            <label for="BL" id="BLL">
+                <img class="RPServer" width="100%" src="https://cdn.blaine.life/static/images/forum/blaine-logo.png" alt="BlaineLife">
+
+            </label>
+            <input name="RPServer" type="radio" id="AD" style="display: none;"> 
+            <label for="AD" id="ADL">
+                <img name="RPServer" class="RPServer" width="100%" src="https://forum.advanced-roleplay.com.br/styles/marina_slate/theme/images/logo2.png" alt="AdvancedRoleplay">
+            </label>
+
+            </div>
+            
+            
+            
+            
+        </div>
+
+        <div class="filesimport">
+            <h2>Adicionar log</h2>
+            <br>
+            <textarea name="" id="" cols="60" rows="10"></textarea>
+            <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt</label>
+            <input type="file" accept=".txt" id="fileinput" style="display: none;">
+        </div>
+
+       
         
         <div class="canvas">
             <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
         </div>    
     </main>
-    
-    <p id="debugtext">a</p>
-   
 </body>
 
 <head>
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        .serversoption{
+            text-align: center;
+        }
+        .RPServer{
+            margin-left: auto;
+            margin-right: auto;
+            display: inline-block;
+            text-align: center;
+            width: 20%;
+        }
+        #ADL, #BLL{
+            filter: blur(2px);
+        }
+        #BL:checked + #BLL, #AD:checked + #ADL{
+            filter: none;
+        }
+        @font-face {
+            font-family: CevicheOne;
+            src: url(CevicheOne-Regular.ttf);
+        }
+        @font-face {
+            font-family: Knewave;
+            src: url(Knewave-Regular.ttf);
+        }
+        @font-face {
+            font-family: SigmarOneRegular;
+            src: url(SigmarOne-Regular.ttf);
+        }
+        h2{
+            text-align: center;
+            color: white;
+            font-size: 70px;
+            -webkit-text-stroke-color: black;
+            -webkit-text-stroke-width: 0.5px;
+            font-family: Knewave;
+            font-weight: bolder;
+        }
+        .filesimport{
+            display: block;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
         textarea{
+            width: 400px;
+            height: 200px;
             font-family: sans-serif;
-            border-radius: 20px;
+            border-radius: 6px;
+            border-bottom-width: 4px;
+            border-right-width: 4px;
+            border-color: rgb(0, 0, 0);
             padding: 8px;
             resize: none;
         }
         textarea:focus {
             outline: none;
         }
+        
         #logo{
             padding: 8px;
             filter: 
@@ -45,10 +122,12 @@
             width: 200px;
         }
         .fileinputbutton{
+            float: right;
             font-family: sans-serif;
             font-weight: bolder;
             font-style: oblique;
             padding: 10px;
+            margin-top: 80px;
             border-radius: 20px;
             background-color: rgb(77, 235, 116);
         }
@@ -76,20 +155,14 @@
         width: 10px;
         height: 10px;
         }
-
-        /* Track */
         ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner{
         border-radius: 4px;
         background: #00000000; 
         }
-        
-        /* Handle */
         ::-webkit-scrollbar-thumb {
         border-radius: 4px;
         background: rgb(36, 36, 36); 
         }
-
-        /* Handle on hover */
         ::-webkit-scrollbar-thumb:hover {
         background: #555; 
         }
