@@ -31,7 +31,7 @@
 chat_log: > Jane Doe olha pra John e o abraça.
             </textarea>
             <div class="import-buttons">
-                <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt/.log</label>
+                <label for="fileinput" class="fileinputbutton">Adicionar um txt/log <u>não</u> editado</label>
                 <input type="range" value="13" min="13" max="100" id="fontsize-range" onchange="FontSizeChange(); generateImage();">
                 <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="LoadFile()">
             </div>
@@ -91,6 +91,7 @@ chat_log: > Jane Doe olha pra John e o abraça.
             cursor: pointer;
         }
         hr{
+            filter: blur(1px);
             border-width: 2px;
             border-radius: 66%;
             border-color: rgba(0, 0, 0, 0.336);
@@ -273,15 +274,12 @@ chat_log: > Jane Doe olha pra John e o abraça.
 
     function generateImage(){
         var input = document.getElementById("textareainput").value
-        
         canvas = document.getElementById("textResult").getContext("2d");
         input = input.split("\n")
         lastcolor = "#FFFFFF"
         inputtemp = []
-
-
-
         var mode = "BL";
+
         if(document.getElementById("BL").checked){mode = "BL"}
         if(document.getElementById("AD").checked){mode = "AD"}
         switch(mode)
@@ -299,7 +297,6 @@ chat_log: > Jane Doe olha pra John e o abraça.
                         if(line.length > biggestline){biggestline = line.length};
                         inputtemp.push(line)}
                 }
-
                 input = inputtemp
                 document.getElementById('textResult').width = fontSizeGlobal*biggestline/2;
                 document.getElementById('textResult').height = fontSizeGlobal*input.length*1.2;
@@ -327,7 +324,7 @@ chat_log: > Jane Doe olha pra John e o abraça.
                         color = '#0195ef'
                         }
                         else{
-                            color = '#ece641'
+                            color = '#bb9cd2'
                         }
                     }
                     else if(line.startsWith("[")){
@@ -340,13 +337,14 @@ chat_log: > Jane Doe olha pra John e o abraça.
                         else if(line.startsWith("[baixo") || line.startsWith("[DENTRO")){
                             color = '#aaaaaa'
                         }
+                        else if(line.startsWith("[XM Radio]")){
+                        color = '#88aa62'
+                        }
                         else{
                             color = lastcolor
                         }
                     }
-                    else if(line.startsWith("Audio stream")){
-                        color = '#88aa62'
-                    }
+                    
                     else if(line.startsWith("AdmCmd")){
                         color = '#c4514b'
                     }
@@ -357,7 +355,6 @@ chat_log: > Jane Doe olha pra John e o abraça.
                     CreateText(input[i], color, 4, fontSizeGlobal* (i *1.2)+ fontSizeGlobal)
                 }
                 break;
-
             case "AD":
                 for(var i = 0; i < input.length; i++){
                 input[i] = input[i].replaceAll("↵", "");
@@ -415,22 +412,6 @@ chat_log: > Jane Doe olha pra John e o abraça.
                 break;
         }
     }
-    //setTimeout(function(){}, 2000)
-    //generateImage()
-
     generateImage()
-
-
-
-
-
-
-
-
-
-
-
-
-
 </script>
 </head>
