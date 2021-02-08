@@ -223,13 +223,11 @@ chat_log: > Jane Doe olha pra John e o abraça.
                     else{
                         linha.shift();
                         linha = linha.join("]")
-                        console.log(linha);
                         inputtemp.push(linha)}
                 }
             result = inputtemp.join("\n")
         }
         document.getElementById("textareainput").value = result;
-        console.log(result);
         gerarimagem()
     }
 
@@ -247,7 +245,6 @@ chat_log: > Jane Doe olha pra John e o abraça.
         canvas = document.getElementById("textResult").getContext("2d");
         input = input.split("\n")
         lastcolor = "#FFFFFF"
-        //console.log(input);
         inputtemp = []
 
 
