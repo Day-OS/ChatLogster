@@ -36,7 +36,7 @@
 chat_log: > Jane Doe olha pra John e o abraça.
             </textarea>
             <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt/.log</label>
-            
+            <input type="range" value="13" min="13" max="100" id="fontsize-range" onchange="fontsizechange(); gerarimagem();">
             <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="loadfile()">
         </div>
 
@@ -54,6 +54,19 @@ chat_log: > Jane Doe olha pra John e o abraça.
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        #fontsize-range{
+            border-radius: 5px;
+            appearance: none;
+        }
+        #fontsize-range::-webkit-slider-thumb{
+            -webkit-appearance: none; /* Override default look */
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 5px;
+            background: #4deb74;
+            cursor: pointer;
+        }
         hr{
             border-width: 2px;
             border-radius: 20%;
@@ -231,6 +244,10 @@ chat_log: > Jane Doe olha pra John e o abraça.
         }
     }
     
+    function fontsizechange(){
+        tamanhodaletra = parseInt(document.getElementById("fontsize-range").value)
+    }
+
     function gerarimagem(){
         var input = document.getElementById("textareainput").value
         
@@ -314,7 +331,7 @@ chat_log: > Jane Doe olha pra John e o abraça.
                     else{
                         cor = '#FFFFFF'
                     }
-                    criartexto(input[i], cor, 4, tamanhodaletra*(i *1.2)+tamanhodaletra)
+                    criartexto(input[i], cor, 4, tamanhodaletra* (i *1.2)+ tamanhodaletra)
                 }
                 break;
 
