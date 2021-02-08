@@ -7,11 +7,10 @@
         </div>
 
         <div class="serverselection" style=>
-            <h2>Escolha o server</h2>
+            <h2>ChatLogster</h2>
             <br>
+            <hr>
             <div class="serversoption">
-            <button type="button">Próximo</button>
-            <button type="button">Anterior</button>
                 
             <input name="RPServer" type="radio" id="BL" checked="checked" style="display: none;" onchange="trocarserver('BL')">
             <label for="BL" id="BLL">
@@ -31,13 +30,14 @@
         </div>
 
         <div class="filesimport">
-            <h2>Adicione o log</h2>
             <br>
-            <textarea name="" id="textareainput" cols="60" rows="10" onchange="gerarimagem()">[00:00] chat_log: * John Doe observa as estrelas. 
-chat_log: > Jane Doe olha pra John e o abraça   .</textarea>
-            <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt <h4>*Ainda não adicionado</h4></label>
+            <textarea name="" id="textareainput" cols="60" rows="10" onchange="gerarimagem()">Escreva aqui como no exemplo, o site cuidará do resto.
+[00:00] chat_log: * John Doe observa as estrelas. 
+chat_log: > Jane Doe olha pra John e o abraça.
+            </textarea>
+            <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt/.log</label>
             
-            <input type="file" accept=".txt" id="fileinput" style="display: none;">
+            <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="loadfile()">
         </div>
 
        
@@ -46,12 +46,19 @@ chat_log: > Jane Doe olha pra John e o abraça   .</textarea>
             <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
         </div>    
     </main>
+    <br>
+    <br>
 </body>
 
 <head>
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        hr{
+            border-width: 2px;
+            border-radius: 20%;
+            border-color: rgba(255, 255, 255, 0.336);
+        }
         .serversoption{
             text-align: center;
         }
@@ -204,6 +211,35 @@ chat_log: > Jane Doe olha pra John e o abraça   .</textarea>
         gerarimagem()
 
     }
+    const reader = new FileReader()
+    reader.onload = event => {
+        result = event.target.result
+        if(document.getElementById('BL').checked){ 
+            input = result.split("\n")
+            for(var i = 0; i < input.length; i++){
+                    linha = input[i].split("] ")
+                    if(linha.length == 1){linha[1] = linha[0]; linha[0] = "["}
+                    if(!linha[1].startsWith("chat_log")){}
+                    else{
+                        linha.shift();
+                        linha = linha.join("]")
+                        console.log(linha);
+                        inputtemp.push(linha)}
+                }
+            result = inputtemp.join("\n")
+        }
+        document.getElementById("textareainput").value = result;
+        console.log(result);
+        gerarimagem()
+    }
+
+    function loadfile(){
+        files = document.getElementById("fileinput").files
+        if(document.getElementById('BL').checked){encode = "utf-8"} else{encode = "iso-8859-1"}
+        if(files.length>=1){
+            reader.readAsText(files[0], encode)
+        }
+    }
     
     function gerarimagem(){
         var input = document.getElementById("textareainput").value
@@ -222,24 +258,21 @@ chat_log: > Jane Doe olha pra John e o abraça   .</textarea>
         switch(mode)
         {
             case "BL":
-                
+                biggestline = 0
                 for(var i = 0; i < input.length; i++){
                     linha = input[i].split("] ")
-                    console.log(linha);
-                    console.log(linha.length);
                     if(linha.length == 1){linha[1] = linha[0]; linha[0] = "["}
                     if(!linha[1].startsWith("chat_log")){}
                     else{
                         linha.shift();
                         linha = linha.join("]")
-                        console.log(linha);
                         linha = linha.replaceAll("chat_log: ", "")
+                        if(linha.length > biggestline){biggestline = linha.length};
                         inputtemp.push(linha)}
                 }
 
                 input = inputtemp
-                console.log(input);
-                document.getElementById('textResult').width = tamanhodaletra*51;
+                document.getElementById('textResult').width = tamanhodaletra*biggestline/2;
                 document.getElementById('textResult').height = tamanhodaletra*input.length*1.2;
                 for(var i = 0; i< input.length; i++){
                     linha = input[i].split("] ");
@@ -248,8 +281,11 @@ chat_log: > Jane Doe olha pra John e o abraça   .</textarea>
                     if(linha.startsWith("(( [")){
                         cor = '#aaaaaa'
                     }
+                    else if(linha.startsWith("(( PM") /*|| linha.split("(celular)").length > 1*/ || linha.startsWith("SMS de") || linha.startsWith("#")){
+                        cor = '#ffdc18'
+                    }
 
-                    else if(linha.startsWith("* ") || linha.startsWith("> ") || linha.endsWith(" ))")){
+                    else if(linha.startsWith("* ") || linha.startsWith("> ") || !linha.startsWith("((") && linha.endsWith(" ))")){
                         cor = '#bb9cd2'
                     }
                     else if(linha.startsWith("...")){
