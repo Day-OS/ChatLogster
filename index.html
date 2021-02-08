@@ -1,9 +1,8 @@
 
 <body>
     <main>
-
         <div class="logo">
-            <img src="https://raw.githubusercontent.com/Day-OS/ChatLogster/main/assets/chatlogster.svg" id="logo">
+            <a href="https://day-os.github.io/ChatLogster/"><img src="https://raw.githubusercontent.com/Day-OS/ChatLogster/main/assets/chatlogster.svg" id="logo"></a>
         </div>
 
         <div class="serverselection" style=>
@@ -12,39 +11,39 @@
             <hr>
             <div class="serversoption">
                 
-            <input name="RPServer" type="radio" id="BL" checked="checked" style="display: none;" onchange="trocarserver('BL')">
+            <input name="RPServer" type="radio" id="BL" checked="checked" style="display: none;" onchange="ChangeServer('BL')">
             <label for="BL" id="BLL">
                 <img class="RPServer" width="100%" src="https://cdn.blaine.life/static/images/forum/blaine-logo.png" alt="BlaineLife">
 
             </label>
-            <input name="RPServer" type="radio" id="AD" style="display: none;" onchange="trocarserver('AD')"> 
+            <input name="RPServer" type="radio" id="AD" style="display: none;" onchange="ChangeServer('AD')"> 
             <label for="AD" id="ADL">
                 <img name="RPServer" class="RPServer" width="100%" src="https://forum.advanced-roleplay.com.br/styles/marina_slate/theme/images/logo2.png" alt="AdvancedRoleplay">
             </label>
 
             </div>
-            
-            
-            
-            
         </div>
 
         <div class="filesimport">
             <br>
-            <textarea name="" id="textareainput" cols="60" rows="10" onchange="gerarimagem()">Escreva aqui como no exemplo, o site cuidará do resto.
+            <textarea name="" id="textareainput" cols="60" rows="10" onchange="generateImage()">Escreva aqui como no exemplo, o site cuidará do resto.
 [00:00] chat_log: * John Doe observa as estrelas. 
 chat_log: > Jane Doe olha pra John e o abraça.
             </textarea>
-            <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt/.log</label>
-            <input type="range" value="13" min="13" max="100" id="fontsize-range" onchange="fontsizechange(); gerarimagem();">
-            <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="loadfile()">
+            <div class="import-buttons">
+                <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt/.log</label>
+                <input type="range" value="13" min="13" max="100" id="fontsize-range" onchange="FontSizeChange(); generateImage();">
+                <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="LoadFile()">
+            </div>
         </div>
-
-       
-        
         <div class="canvas">
             <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
         </div>    
+        <div class="rodape">
+            <a href="https://raw.githubusercontent.com/Day-OS/ChatLogster/main/index.html">Baixe o ChatLogster</a>
+            <a href="https://github.com/Day-OS/ChatLogster">Repositório do Github</a>
+
+        </div>
     </main>
     <br>
     <br>
@@ -54,15 +53,39 @@ chat_log: > Jane Doe olha pra John e o abraça.
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        .rodape, .rodape a{
+            text-decoration: none;
+            text-align: center;
+            color: black;
+            font-family: sans-serif;
+            font-weight: bolder;
+            padding: 10px;
+            margin-top: 80px;
+            border-radius: 10px;
+            height: 20px;
+        }
+        .rodape a{
+            background-color: #4deb74;
+        }
+        .import-buttons{
+            margin-top: calc(8px + 10%);
+            float: right;
+            align-content: center;
+            text-align: center;
+            display: block;
+        }
         #fontsize-range{
+            margin-top: 20px;
+            width: 100%;
+            display: block;
             border-radius: 5px;
             appearance: none;
         }
         #fontsize-range::-webkit-slider-thumb{
             -webkit-appearance: none; /* Override default look */
             appearance: none;
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 5px;
             background: #4deb74;
             cursor: pointer;
@@ -138,13 +161,13 @@ chat_log: > Jane Doe olha pra John e o abraça.
         }
         .fileinputbutton, button{
             border-width: 0;
-            float: right;
             font-family: sans-serif;
             font-weight: bolder;
             font-style: oblique;
             padding: 10px;
             margin-top: 80px;
             border-radius: 20px;
+            height: 20px;
             background-color: #4deb74;
         }
         .fileinputbutton:hover, button:hover{
@@ -171,7 +194,7 @@ chat_log: > Jane Doe olha pra John e o abraça.
         width: 10px;
         height: 10px;
         }
-        ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner{
+        ::-webkit-scrollbar-track, ::-webkit-scrollbar-colorner{
         border-radius: 4px;
         background: #00000000; 
         }
@@ -185,25 +208,25 @@ chat_log: > Jane Doe olha pra John e o abraça.
         
     </style>
 <script>
-    var tamanhodaletra = 13
+    var fontSizeGlobal = 13
     
-    var quantidadedetextos = 0
-    function criartexto(texto, cor, x, y){
-        if(cor == '#000000'){
-            cor = lastcolor
+    var textQuantity = 0
+    function CreateText(text, color, x, y){
+        if(color == '#000000'){
+            color = lastcolor
         }
-        canvas.fillStyle = cor
+        canvas.fillStyle = color
         canvas.lineWidth = 2;
-        canvas.font = "bold "+tamanhodaletra+"px Arial";
-        for(var i= 0; i<15; i++){canvas.strokeText(texto, x, y);}
-        canvas.font = "bold "+tamanhodaletra+"px Arial";
-        canvas.fillText(texto, x, y);
-        quantidadedetextos++;
-        lastcolor = cor
+        canvas.font = "bold "+fontSizeGlobal+"px Arial";
+        for(var i= 0; i<15; i++){canvas.strokeText(text, x, y);}
+        canvas.font = "bold "+fontSizeGlobal+"px Arial";
+        canvas.fillText(text, x, y);
+        textQuantity++;
+        lastcolor = color
         
     }
 
-    function trocarserver(server){
+    function ChangeServer(server){
         text = document.getElementById('textareainput');
         switch(server){
         case 'BL':
@@ -213,7 +236,7 @@ chat_log: > Jane Doe olha pra John e o abraça.
             text.value = "[00:00] * John Doe observa as estrelas. \n> Jane Doe olha pra John e o abraça."
             break;
         }
-        gerarimagem()
+        generateImage()
 
     }
     const reader = new FileReader()
@@ -222,21 +245,21 @@ chat_log: > Jane Doe olha pra John e o abraça.
         if(document.getElementById('BL').checked){ 
             input = result.split("\n")
             for(var i = 0; i < input.length; i++){
-                    linha = input[i].split("] ")
-                    if(linha.length == 1){linha[1] = linha[0]; linha[0] = "["}
-                    if(!linha[1].startsWith("chat_log")){}
+                    line = input[i].split("] ")
+                    if(line.length == 1){line[1] = line[0]; line[0] = "["}
+                    if(!line[1].startsWith("chat_log")){}
                     else{
-                        linha.shift();
-                        linha = linha.join("]")
-                        inputtemp.push(linha)}
+                        line.shift();
+                        line = line.join("]")
+                        inputtemp.push(line)}
                 }
             result = inputtemp.join("\n")
         }
         document.getElementById("textareainput").value = result;
-        gerarimagem()
+        generateImage()
     }
 
-    function loadfile(){
+    function LoadFile(){
         files = document.getElementById("fileinput").files
         if(document.getElementById('BL').checked){encode = "utf-8"} else{encode = "iso-8859-1"}
         if(files.length>=1){
@@ -244,11 +267,11 @@ chat_log: > Jane Doe olha pra John e o abraça.
         }
     }
     
-    function fontsizechange(){
-        tamanhodaletra = parseInt(document.getElementById("fontsize-range").value)
+    function FontSizeChange(){
+        fontSizeGlobal = parseInt(document.getElementById("fontsize-range").value)
     }
 
-    function gerarimagem(){
+    function generateImage(){
         var input = document.getElementById("textareainput").value
         
         canvas = document.getElementById("textResult").getContext("2d");
@@ -266,72 +289,72 @@ chat_log: > Jane Doe olha pra John e o abraça.
             case "BL":
                 biggestline = 0
                 for(var i = 0; i < input.length; i++){
-                    linha = input[i].split("] ")
-                    if(linha.length == 1){linha[1] = linha[0]; linha[0] = "["}
-                    if(!linha[1].startsWith("chat_log")){}
+                    line = input[i].split("] ")
+                    if(line.length == 1){line[1] = line[0]; line[0] = "["}
+                    if(!line[1].startsWith("chat_log")){}
                     else{
-                        linha.shift();
-                        linha = linha.join("]")
-                        linha = linha.replaceAll("chat_log: ", "")
-                        if(linha.length > biggestline){biggestline = linha.length};
-                        inputtemp.push(linha)}
+                        line.shift();
+                        line = line.join("]")
+                        line = line.replaceAll("chat_log: ", "")
+                        if(line.length > biggestline){biggestline = line.length};
+                        inputtemp.push(line)}
                 }
 
                 input = inputtemp
-                document.getElementById('textResult').width = tamanhodaletra*biggestline/2;
-                document.getElementById('textResult').height = tamanhodaletra*input.length*1.2;
+                document.getElementById('textResult').width = fontSizeGlobal*biggestline/2;
+                document.getElementById('textResult').height = fontSizeGlobal*input.length*1.2;
                 for(var i = 0; i< input.length; i++){
-                    linha = input[i].split("] ");
-                    if(linha.length == 1){linha = linha[0]}else{linha = linha[1]}
+                    line = input[i].split("] ");
+                    if(line.length == 1){line = line[0]}else{line = line[1]}
 
-                    if(linha.startsWith("(( [")){
-                        cor = '#aaaaaa'
+                    if(line.startsWith("(( [")){
+                        color = '#aaaaaa'
                     }
-                    else if(linha.startsWith("(( PM") /*|| linha.split("(celular)").length > 1*/ || linha.startsWith("SMS de") || linha.startsWith("#")){
-                        cor = '#ffdc18'
+                    else if(line.startsWith("(( PM") /*|| line.split("(celular)").length > 1*/ || line.startsWith("SMS de") || line.startsWith("#")){
+                        color = '#ffdc18'
                     }
 
-                    else if(linha.startsWith("* ") || linha.startsWith("> ") || !linha.startsWith("((") && linha.endsWith(" ))")){
-                        cor = '#bb9cd2'
+                    else if(line.startsWith("* ") || line.startsWith("> ") || !line.startsWith("((") && line.endsWith(" ))")){
+                        color = '#bb9cd2'
                     }
-                    else if(linha.startsWith("...")){
-                        cor =  lastcolor
+                    else if(line.startsWith("...")){
+                        color =  lastcolor
                     }
                     
 
-                    else if(linha.startsWith("** ")){
-                        if(linha.startsWith("** Jogador")||linha.startsWith("** Tester")||linha.startsWith("** Admin")||linha.startsWith("** Novato")){
-                        cor = '#0195ef'
+                    else if(line.startsWith("** ")){
+                        if(line.startsWith("** Jogador")||line.startsWith("** Tester")||line.startsWith("** Admin")||line.startsWith("** Novato")){
+                        color = '#0195ef'
                         }
                         else{
-                            cor = '#ece641'
+                            color = '#ece641'
                         }
                     }
-                    else if(linha.startsWith("[")){
-                        if(linha.startsWith("[Anúncio]")){
-                        cor = '#33aa33'
+                    else if(line.startsWith("[")){
+                        if(line.startsWith("[Anúncio]")){
+                        color = '#33aa33'
                         }
-                        else if(linha.startsWith("[Confronto]") || linha.startsWith("[Ações]") || linha.startsWith("[MICROFONE")){
-                        cor = '#ece641'
+                        else if(line.startsWith("[Confronto]") || line.startsWith("[Ações]") || line.startsWith("[MICROFONE")){
+                        color = '#ece641'
                         }
-                        else if(linha.startsWith("[baixo") || linha.startsWith("[DENTRO")){
-                            cor = '#aaaaaa'
+                        else if(line.startsWith("[baixo") || line.startsWith("[DENTRO")){
+                            color = '#aaaaaa'
                         }
                         else{
-                            cor = lastcolor
+                            color = lastcolor
                         }
                     }
-                    else if(linha.startsWith("Audio stream")){
-                        cor = '#88aa62'
+                    else if(line.startsWith("Audio stream")){
+                        color = '#88aa62'
                     }
-                    else if(linha.startsWith("AdmCmd")){
-                        cor = '#c4514b'
+                    else if(line.startsWith("AdmCmd")){
+                        color = '#c4514b'
                     }
 
                     else{
-                        cor = '#FFFFFF'
+                        color = '#FFFFFF'
                     }
-                    criartexto(input[i], cor, 4, tamanhodaletra* (i *1.2)+ tamanhodaletra)
+                    CreateText(input[i], color, 4, fontSizeGlobal* (i *1.2)+ fontSizeGlobal)
                 }
                 break;
 
@@ -342,60 +365,60 @@ chat_log: > Jane Doe olha pra John e o abraça.
                 if(input[i].endsWith("]") || input[i].endsWith("] ")){} else if(input[i] == ""){} else{inputtemp.push(input[i])}
                  }
                 input = inputtemp
-                document.getElementById('textResult').width = tamanhodaletra*51;
-                document.getElementById('textResult').height = tamanhodaletra*input.length*1.2;
+                document.getElementById('textResult').width = fontSizeGlobal*51;
+                document.getElementById('textResult').height = fontSizeGlobal*input.length*1.2;
             
                 for(var i = 0; i< input.length; i++){
-                    linha = input[i].split("] ");
-                    if(linha.length == 1){linha = linha[0]}else{linha = linha[1]}
-                    if(linha.startsWith("* ") || linha.startsWith("> ")){
-                        cor = '#bb9cd2'
+                    line = input[i].split("] ");
+                    if(line.length == 1){line = line[0]}else{line = line[1]}
+                    if(line.startsWith("* ") || line.startsWith("> ")){
+                        color = '#bb9cd2'
                     }
-                    else if(linha.startsWith("...")){
-                        cor =  lastcolor
+                    else if(line.startsWith("...")){
+                        color =  lastcolor
                     }
-                    else if(linha.startsWith("(( [")){
-                        cor = '#aaaaaa'
+                    else if(line.startsWith("(( [")){
+                        color = '#aaaaaa'
                     }
 
-                    else if(linha.startsWith("** ")){
-                        if(linha.startsWith("** Jogador")||linha.startsWith("** Tester")||linha.startsWith("** Admin")||linha.startsWith("** Novato")){
-                        cor = '#0195ef'
+                    else if(line.startsWith("** ")){
+                        if(line.startsWith("** Jogador")||line.startsWith("** Tester")||line.startsWith("** Admin")||line.startsWith("** Novato")){
+                        color = '#0195ef'
                         }
                         else{
-                            cor = '#ece641'
+                            color = '#ece641'
                         }
                     }
-                    else if(linha.startsWith("[")){
-                        if(linha.startsWith("[Confronto]") || linha.startsWith("[Ações]") || linha.startsWith("[MICROFONE")){
-                        cor = '#ece641'
+                    else if(line.startsWith("[")){
+                        if(line.startsWith("[Confronto]") || line.startsWith("[Ações]") || line.startsWith("[MICROFONE")){
+                        color = '#ece641'
                         }
-                        else if(linha.startsWith("[baixo") || linha.startsWith("[DENTRO")){
-                            cor = '#aaaaaa'
+                        else if(line.startsWith("[baixo") || line.startsWith("[DENTRO")){
+                            color = '#aaaaaa'
                         }
                         else{
-                            cor = '#33aa33'
+                            color = '#33aa33'
                         }
                     }
-                    else if(linha.startsWith("Audio stream")){
-                        cor = '#88aa62'
+                    else if(line.startsWith("Audio stream")){
+                        color = '#88aa62'
                     }
-                    else if(linha.startsWith("AdmCmd")){
-                        cor = '#c4514b'
+                    else if(line.startsWith("AdmCmd")){
+                        color = '#c4514b'
                     }
 
                     else{
-                        cor = '#FFFFFF'
+                        color = '#FFFFFF'
                     }
-                    criartexto(input[i], cor, 4, tamanhodaletra*(i *1.2)+tamanhodaletra)
+                    CreateText(input[i], color, 4, fontSizeGlobal*(i *1.2)+fontSizeGlobal)
                 }
                 break;
         }
     }
     //setTimeout(function(){}, 2000)
-    //gerarimagem()
+    //generateImage()
 
-    gerarimagem()
+    generateImage()
 
 
 
