@@ -1,0 +1,407 @@
+
+<body>
+    <main>
+
+        <div class="logo">
+            <img src="chatlogster.svg" id="logo">
+        </div>
+
+        <div class="serverselection" style=>
+            <h2>ChatLogster</h2>
+            <br>
+            <hr>
+            <div class="serversoption">
+                
+            <input name="RPServer" type="radio" id="BL" checked="checked" style="display: none;" onchange="trocarserver('BL')">
+            <label for="BL" id="BLL">
+                <img class="RPServer" width="100%" src="https://cdn.blaine.life/static/images/forum/blaine-logo.png" alt="BlaineLife">
+
+            </label>
+            <input name="RPServer" type="radio" id="AD" style="display: none;" onchange="trocarserver('AD')"> 
+            <label for="AD" id="ADL">
+                <img name="RPServer" class="RPServer" width="100%" src="https://forum.advanced-roleplay.com.br/styles/marina_slate/theme/images/logo2.png" alt="AdvancedRoleplay">
+            </label>
+
+            </div>
+            
+            
+            
+            
+        </div>
+
+        <div class="filesimport">
+            <br>
+            <textarea name="" id="textareainput" cols="60" rows="10" onchange="gerarimagem()">Escreva aqui como no exemplo, o site cuidará do resto.
+[00:00] chat_log: * John Doe observa as estrelas. 
+chat_log: > Jane Doe olha pra John e o abraça.
+            </textarea>
+            <label for="fileinput" class="fileinputbutton">ou Adicione um Arquivo .txt/.log</label>
+            
+            <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="loadfile()">
+        </div>
+
+       
+        
+        <div class="canvas">
+            <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
+        </div>    
+    </main>
+    <br>
+    <br>
+</body>
+
+<head>
+    <meta charset="utf-8"> 
+    <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
+    <style>
+        hr{
+            border-width: 2px;
+            border-radius: 20%;
+            border-color: rgba(255, 255, 255, 0.336);
+        }
+        .serversoption{
+            text-align: center;
+        }
+        .RPServer{
+            margin-left: auto;
+            margin-right: auto;
+            display: inline-block;
+            text-align: center;
+            width: 20%;
+        }
+        #ADL, #BLL{
+            filter: blur(2px);
+        }
+        #BL:checked + #BLL, #AD:checked + #ADL{
+            filter: none;
+        }
+        @font-face {
+            font-family: CevicheOne;
+            src: url(CevicheOne-Regular.ttf);
+        }
+        @font-face {
+            font-family: Knewave;
+            src: url(Knewave-Regular.ttf);
+        }
+        @font-face {
+            font-family: SigmarOneRegular;
+            src: url(SigmarOne-Regular.ttf);
+        }
+        h2{
+            text-align: center;
+            color: white;
+            font-size: 70px;
+            -webkit-text-stroke-color: black;
+            -webkit-text-stroke-width: 0.5px;
+            font-family: Knewave;
+            font-weight: bolder;
+        }
+        .filesimport, .serversoption{
+            display: block;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        textarea{
+            width: 400px;
+            height: 200px;
+            font-family: sans-serif;
+            border-radius: 6px;
+            border-bottom-width: 4px;
+            border-right-width: 4px;
+            border-color: rgb(0, 0, 0);
+            padding: 8px;
+            resize: none;
+        }
+        textarea:focus {
+            outline: none;
+        }
+        
+        #logo{
+            padding: 8px;
+            filter: 
+            drop-shadow(1px 1px 0 rgb(255, 255, 255)) 
+            drop-shadow(2px 2px 0 rgb(255, 255, 255)) 
+            drop-shadow(1px -1px 0 rgb(255, 255, 255)) 
+            drop-shadow(-1px 1px 0 rgb(255, 255, 255)) 
+            drop-shadow(-1px -1px 0 rgb(255, 255, 255));
+            display: block;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            width: 200px;
+        }
+        .fileinputbutton, button{
+            border-width: 0;
+            float: right;
+            font-family: sans-serif;
+            font-weight: bolder;
+            font-style: oblique;
+            padding: 10px;
+            margin-top: 80px;
+            border-radius: 20px;
+            background-color: #4deb74;
+        }
+        .fileinputbutton:hover, button:hover{
+            
+            background-color: rgb(91, 199, 118);
+        }
+        body{
+            background-image: url(background.png);
+        }
+        .canvas{
+            background-color: rgba(0, 0, 0, 0.267);
+            border-width: 2px;
+            border-bottom-style: solid;
+            border-radius: 4px;
+            margin-left: auto;
+            width: 800;
+            height: 600;
+            margin-right: auto;
+            overflow-y: scroll;
+
+        }
+
+        ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+        }
+        ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner{
+        border-radius: 4px;
+        background: #00000000; 
+        }
+        ::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background: rgb(36, 36, 36); 
+        }
+        ::-webkit-scrollbar-thumb:hover {
+        background: #555; 
+        }
+        
+    </style>
+<script>
+    var tamanhodaletra = 13
+    
+    var quantidadedetextos = 0
+    function criartexto(texto, cor, x, y){
+        if(cor == '#000000'){
+            cor = lastcolor
+        }
+        canvas.fillStyle = cor
+        canvas.lineWidth = 2;
+        canvas.font = "bold "+tamanhodaletra+"px Arial";
+        for(var i= 0; i<15; i++){canvas.strokeText(texto, x, y);}
+        canvas.font = "bold "+tamanhodaletra+"px Arial";
+        canvas.fillText(texto, x, y);
+        quantidadedetextos++;
+        lastcolor = cor
+        
+    }
+
+    function trocarserver(server){
+        text = document.getElementById('textareainput');
+        switch(server){
+        case 'BL':
+            text.value = "[00:00] chat_log: * John Doe observa as estrelas. \nchat_log: > Jane Doe olha pra John e o abraça."
+        break;
+        case 'AD':
+            text.value = "[00:00] * John Doe observa as estrelas. \n> Jane Doe olha pra John e o abraça."
+            break;
+        }
+        gerarimagem()
+
+    }
+    const reader = new FileReader()
+    reader.onload = event => {
+        result = event.target.result
+        if(document.getElementById('BL').checked){ 
+            input = result.split("\n")
+            for(var i = 0; i < input.length; i++){
+                    linha = input[i].split("] ")
+                    if(linha.length == 1){linha[1] = linha[0]; linha[0] = "["}
+                    if(!linha[1].startsWith("chat_log")){}
+                    else{
+                        linha.shift();
+                        linha = linha.join("]")
+                        console.log(linha);
+                        inputtemp.push(linha)}
+                }
+            result = inputtemp.join("\n")
+        }
+        document.getElementById("textareainput").value = result;
+        console.log(result);
+        gerarimagem()
+    }
+
+    function loadfile(){
+        files = document.getElementById("fileinput").files
+        if(document.getElementById('BL').checked){encode = "utf-8"} else{encode = "iso-8859-1"}
+        if(files.length>=1){
+            reader.readAsText(files[0], encode)
+        }
+    }
+    
+    function gerarimagem(){
+        var input = document.getElementById("textareainput").value
+        
+        canvas = document.getElementById("textResult").getContext("2d");
+        input = input.split("\n")
+        lastcolor = "#FFFFFF"
+        //console.log(input);
+        inputtemp = []
+
+
+
+        var mode = "BL";
+        if(document.getElementById("BL").checked){mode = "BL"}
+        if(document.getElementById("AD").checked){mode = "AD"}
+        switch(mode)
+        {
+            case "BL":
+                biggestline = 0
+                for(var i = 0; i < input.length; i++){
+                    linha = input[i].split("] ")
+                    if(linha.length == 1){linha[1] = linha[0]; linha[0] = "["}
+                    if(!linha[1].startsWith("chat_log")){}
+                    else{
+                        linha.shift();
+                        linha = linha.join("]")
+                        linha = linha.replaceAll("chat_log: ", "")
+                        if(linha.length > biggestline){biggestline = linha.length};
+                        inputtemp.push(linha)}
+                }
+
+                input = inputtemp
+                document.getElementById('textResult').width = tamanhodaletra*biggestline/2;
+                document.getElementById('textResult').height = tamanhodaletra*input.length*1.2;
+                for(var i = 0; i< input.length; i++){
+                    linha = input[i].split("] ");
+                    if(linha.length == 1){linha = linha[0]}else{linha = linha[1]}
+
+                    if(linha.startsWith("(( [")){
+                        cor = '#aaaaaa'
+                    }
+                    else if(linha.startsWith("(( PM") /*|| linha.split("(celular)").length > 1*/ || linha.startsWith("SMS de") || linha.startsWith("#")){
+                        cor = '#ffdc18'
+                    }
+
+                    else if(linha.startsWith("* ") || linha.startsWith("> ") || !linha.startsWith("((") && linha.endsWith(" ))")){
+                        cor = '#bb9cd2'
+                    }
+                    else if(linha.startsWith("...")){
+                        cor =  lastcolor
+                    }
+                    
+
+                    else if(linha.startsWith("** ")){
+                        if(linha.startsWith("** Jogador")||linha.startsWith("** Tester")||linha.startsWith("** Admin")||linha.startsWith("** Novato")){
+                        cor = '#0195ef'
+                        }
+                        else{
+                            cor = '#ece641'
+                        }
+                    }
+                    else if(linha.startsWith("[")){
+                        if(linha.startsWith("[Anúncio]")){
+                        cor = '#33aa33'
+                        }
+                        else if(linha.startsWith("[Confronto]") || linha.startsWith("[Ações]") || linha.startsWith("[MICROFONE")){
+                        cor = '#ece641'
+                        }
+                        else if(linha.startsWith("[baixo") || linha.startsWith("[DENTRO")){
+                            cor = '#aaaaaa'
+                        }
+                        else{
+                            cor = lastcolor
+                        }
+                    }
+                    else if(linha.startsWith("Audio stream")){
+                        cor = '#88aa62'
+                    }
+                    else if(linha.startsWith("AdmCmd")){
+                        cor = '#c4514b'
+                    }
+
+                    else{
+                        cor = '#FFFFFF'
+                    }
+                    criartexto(input[i], cor, 4, tamanhodaletra*(i *1.2)+tamanhodaletra)
+                }
+                break;
+
+            case "AD":
+                for(var i = 0; i < input.length; i++){
+                input[i] = input[i].replaceAll("↵", "");
+                input[i] = input[i].replaceAll("\n", "");
+                if(input[i].endsWith("]") || input[i].endsWith("] ")){} else if(input[i] == ""){} else{inputtemp.push(input[i])}
+                 }
+                input = inputtemp
+                document.getElementById('textResult').width = tamanhodaletra*51;
+                document.getElementById('textResult').height = tamanhodaletra*input.length*1.2;
+            
+                for(var i = 0; i< input.length; i++){
+                    linha = input[i].split("] ");
+                    if(linha.length == 1){linha = linha[0]}else{linha = linha[1]}
+                    if(linha.startsWith("* ") || linha.startsWith("> ")){
+                        cor = '#bb9cd2'
+                    }
+                    else if(linha.startsWith("...")){
+                        cor =  lastcolor
+                    }
+                    else if(linha.startsWith("(( [")){
+                        cor = '#aaaaaa'
+                    }
+
+                    else if(linha.startsWith("** ")){
+                        if(linha.startsWith("** Jogador")||linha.startsWith("** Tester")||linha.startsWith("** Admin")||linha.startsWith("** Novato")){
+                        cor = '#0195ef'
+                        }
+                        else{
+                            cor = '#ece641'
+                        }
+                    }
+                    else if(linha.startsWith("[")){
+                        if(linha.startsWith("[Confronto]") || linha.startsWith("[Ações]") || linha.startsWith("[MICROFONE")){
+                        cor = '#ece641'
+                        }
+                        else if(linha.startsWith("[baixo") || linha.startsWith("[DENTRO")){
+                            cor = '#aaaaaa'
+                        }
+                        else{
+                            cor = '#33aa33'
+                        }
+                    }
+                    else if(linha.startsWith("Audio stream")){
+                        cor = '#88aa62'
+                    }
+                    else if(linha.startsWith("AdmCmd")){
+                        cor = '#c4514b'
+                    }
+
+                    else{
+                        cor = '#FFFFFF'
+                    }
+                    criartexto(input[i], cor, 4, tamanhodaletra*(i *1.2)+tamanhodaletra)
+                }
+                break;
+        }
+    }
+    //setTimeout(function(){}, 2000)
+    //gerarimagem()
+
+    gerarimagem()
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</head>
