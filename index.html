@@ -36,9 +36,11 @@ chat_log: > Jane Doe olha pra John e o abraça.
                 <input type="file" accept=".txt, .log" id="fileinput" style="display: none;" onchange="LoadFile()">
             </div>
         </div>
-        <div class="canvas">
-            <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
-        </div>    
+        <a id="canvaslink">
+            <div class="canvas">
+                <canvas id="textResult" width="200" height="100" style="image-rendering: pixelated;"></canvas>
+            </div>
+        </a>
         <div class="rodape">
             <a href="https://raw.githubusercontent.com/Day-OS/ChatLogster/main/index.html">Baixe o ChatLogster</a>
             <a href="https://github.com/Day-OS/ChatLogster">Repositório do Github</a>
@@ -53,6 +55,10 @@ chat_log: > Jane Doe olha pra John e o abraça.
     <meta charset="utf-8"> 
     <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
     <style>
+        a{
+            text-decoration: none;
+            color: black;
+        }
         .rodape, .rodape a{
             text-decoration: none;
             text-align: center;
@@ -66,6 +72,9 @@ chat_log: > Jane Doe olha pra John e o abraça.
         }
         .rodape a{
             background-color: #4deb74;
+        }
+        .rodape a:hover{
+            background-color: rgb(91, 199, 118);
         }
         .import-buttons{
             margin-top: calc(8px + 10%);
@@ -179,6 +188,7 @@ chat_log: > Jane Doe olha pra John e o abraça.
             background-image: url(https://github.com/Day-OS/ChatLogster/raw/main/assets/background.png);
         }
         .canvas{
+            cursor:grab;
             background-color: rgba(0, 0, 0, 0.267);
             border-width: 2px;
             border-bottom-style: solid;
@@ -188,6 +198,10 @@ chat_log: > Jane Doe olha pra John e o abraça.
             height: 600;
             margin-right: auto;
             overflow-y: scroll;
+
+        }
+        .canvas:hover{
+            background-color: rgba(49, 49, 49, 0.267);
 
         }
 
@@ -410,7 +424,12 @@ chat_log: > Jane Doe olha pra John e o abraça.
                     CreateText(input[i], color, 4, fontSizeGlobal*(i *1.2)+fontSizeGlobal)
                 }
                 break;
+
         }
+        filename = "chatLogsterRender.png"
+        document.getElementById("canvaslink").setAttribute("href", document.getElementById("textResult").toDataURL("image/png"))
+        document.getElementById("canvaslink").setAttribute("download", filename)
+
     }
     generateImage()
 </script>
